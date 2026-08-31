@@ -37,7 +37,7 @@ Law firm accounting carries risks a standard small-business CPA rarely encounter
 <!-- block: content-split | variant: image-right | image: law-firm-bookkeeping-review.jpg | alt: "CPA reviewing law firm bookkeeping records on a laptop" | query: "accountant reviewing financial records laptop" -->
 ## Outsourced accounting built for busy legal practices
 
-Most attorneys didn't go to law school to reconcile a trust ledger at 9 p.m. BASE, our outsourced accounting solution, takes bookkeeping, payroll, and financial reporting off a firm's plate for one fixed monthly fee. No surprise invoices at year-end, no guessing what a bookkeeper missed.
+Most attorneys didn't go to law school to reconcile a trust ledger at 9 p.m. Our outsourced accounting services take bookkeeping, payroll, and financial reporting off a firm's plate for one fixed monthly fee. No surprise invoices at year-end, no guessing what a bookkeeper missed.
 
 The work runs through secure digital workflows built for confidentiality, which matters more in a law office than almost anywhere else. Bank feeds sync automatically, payroll runs on schedule, and monthly financial statements land in your inbox instead of a shoebox. Attorneys bill hours and manage cases. We handle the back office that keeps the lights on.
 
