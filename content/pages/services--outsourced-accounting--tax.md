@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA bundles outsourced accounting, payroll, and tax prep
 
 Most tax prep in Hartford happens the same way: drop off a folder in March, pick up a return in April, and don't think about taxes again until next year. That routine works fine if a business never changes. It falls apart the moment you're growing, hiring, buying equipment, or trying to decide whether an S-corp election makes sense before December 31.
 
-BussCPA's BASE program builds tax planning into the accounting work we do every month, not just the six weeks before a filing deadline. Because we're already reconciling books and reviewing financials as a client's outsourced accounting department, tax-saving moves get caught in June, when there's still time to act on them, instead of next April.
+BussCPA builds tax planning into the accounting work we do every month, not just the six weeks before a filing deadline. Because we're already reconciling books and reviewing financials as a client's outsourced accounting department, tax-saving moves get caught in June, when there's still time to act on them, instead of next April.
 
 One fixed monthly fee covers accounting, payroll, and tax planning together. No surprise invoice when filing season hits. No scrambling to find a CPA who has actually seen your numbers before. Just continuous access to someone who already knows your business.
 
