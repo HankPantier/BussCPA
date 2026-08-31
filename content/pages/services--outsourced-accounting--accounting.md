@@ -51,7 +51,7 @@ The technology investment behind these tools isn't cosmetic. It's the infrastruc
 
 General bookkeeping software doesn't track job costing the way a construction company needs it tracked. BussCPA builds accounting systems around work-in-progress schedules, progress billing, and per-job profitability, so you can see which projects are actually making money and which ones are quietly bleeding margin.
 
-Bonding companies and lenders look closely at WIP schedules before approving a contractor for larger jobs. If those numbers are inconsistent or built at the last minute, financing gets harder. BASE keeps job costing current every month, so when a bonding agent or bank asks for financials, the reports are already accurate and already reconciled. That's what audit-ready construction accounting looks like in practice, not just on paper.
+Bonding companies and lenders look closely at WIP schedules before approving a contractor for larger jobs. If those numbers are inconsistent or built at the last minute, financing gets harder. BussCPA keeps job costing current every month, so when a bonding agent or bank asks for financials, the reports are already accurate and already reconciled. That's what audit-ready construction accounting looks like in practice, not just on paper.
 
 <!-- block: content-split | variant: image-right | image: farm-payroll-seasonal-cashflow.jpg | alt: "Farmer reviewing seasonal cash flow records on a tablet" | query: "farmer reviewing financial records tablet" -->
 ## Specialized support for agriculture and farm operations
