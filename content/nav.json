@@ -10,7 +10,21 @@
       "children": [
         {
           "label": "Advisory services to guide your financial decisions",
-          "url": "/services/advisory"
+          "url": "/services/advisory",
+          "children": [
+            {
+              "label": "Entity Type Analysis",
+              "url": "/services/advisory/entity-type-analysis"
+            },
+            {
+              "label": "QuickBooks Setup",
+              "url": "/services/advisory/quickbooks-setup"
+            },
+            {
+              "label": "Retirement Plan Analysis",
+              "url": "/services/advisory/retirement-plan-analysis"
+            }
+          ]
         },
         {
           "label": "Accounting that keeps your books audit ready",
