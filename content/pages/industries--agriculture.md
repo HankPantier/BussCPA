@@ -90,7 +90,7 @@ Nobody has time to drive into town and drop off a shoebox of receipts during pla
 A: Yes. BussCPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.
 
 **Q: What is included in outsourced accounting for a farm operation?**
-A: BASE covers bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. It's built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.
+A: Our outsourced accounting services cover bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. Built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.
 
 **Q: How does farm payroll differ from standard business payroll?**
 A: Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. BussCPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.
@@ -130,7 +130,7 @@ BussCPA provides agriculture accounting in Hartford, SD, covering farm bookkeepi
 A: Yes. BussCPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.
 
 **Q: What is included in outsourced accounting for a farm operation?**
-A: BASE covers bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. It's built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.
+A: Our outsourced accounting services cover bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. Built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.
 
 **Q: How does farm payroll differ from standard business payroll?**
 A: Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. BussCPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.
