@@ -114,7 +114,7 @@ A: Yes. Entity structure is reviewed as part of ongoing advisory work, not just 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-small-business-owner.jpg | alt: "Small business owner shaking hands with an accountant in a bright office" | query: "business owner handshake office meeting" -->
 ## Get a tax preparation quote for your Hartford business
 
-Construction contractors, ag operators, and small business owners in Hartford, SD, deal with tax situations that a seasonal storefront isn't built to handle. BussCPA's BASE program covers accounting, payroll, and tax planning under one fixed monthly fee, with secure digital access to your numbers whenever you need them.
+Construction contractors, ag operators, and small business owners in Hartford, SD, deal with tax situations that a seasonal storefront isn't built to handle. BussCPA's outsourced accounting services cover accounting, payroll, and tax planning under one fixed monthly fee, with secure digital access to your numbers whenever you need them.
 
 Schedule a consultation and find out what proactive tax planning looks like for your business.
 
