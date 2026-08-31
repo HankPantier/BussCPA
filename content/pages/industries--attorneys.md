@@ -10,9 +10,9 @@ schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Outsourced accounting, tax planning, and advisory built around how law firms actually operate"
 answer_block: "BussCPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment."
-eeat_signals: ["BASE outsourced accounting program with a fixed monthly fee","Secure digital workflows for confidential legal and financial data","Real-time online access to financial statements and dashboards","Dedicated niche experience serving attorneys, construction, agriculture, and family offices/trusts","Located in Hartford, SD, serving local and regional law firms"]
+eeat_signals: ["Outsourced accounting services with a fixed monthly fee","Secure digital workflows for confidential legal and financial data","Real-time online access to financial statements and dashboards","Dedicated niche experience serving attorneys, construction, agriculture, and family offices/trusts","Located in Hartford, SD, serving local and regional law firms"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Links to the core BASE service described in the outsourced accounting section","anchor_text":"outsourced accounting solution"},{"url":"/services/advisory","reason":"Supports the CFO-level advisory section with the dedicated service page","anchor_text":"advisory services"},{"url":"/services/personal-income-tax","reason":"Connects the individual attorney tax prep mention to the relevant service page","anchor_text":"personal income tax services"},{"url":"/industries/family-offices-trusts","reason":"Relevant adjacent niche often served alongside attorneys handling estate and trust matters","anchor_text":"family offices and trusts"},{"url":"/who-we-are/expertise","reason":"Builds trust by pointing to firm credentials and experience","anchor_text":"our team's expertise"},{"url":"/contact","reason":"Primary page CTA directing attorneys to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance.","question":"Does BussCPA handle IOLTA and trust account compliance for law firms?"},{"answer":"We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers.","question":"Can BussCPA prepare tax returns for both the law firm and individual partners?"},{"answer":"The BASE program covers bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.","question":"What does the fixed monthly fee for outsourced accounting include?"},{"answer":"Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs.","question":"Do you work with solo practitioners or only larger law firms?"},{"answer":"Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files.","question":"How is financial data kept secure for law firm clients?"}]
+faq_block: [{"question":"Does BussCPA handle IOLTA and trust account compliance for law firms?","answer":"Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance."},{"question":"Can BussCPA prepare tax returns for both the law firm and individual partners?","answer":"We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers."},{"question":"What does the fixed monthly fee for outsourced accounting include?","answer":"Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data."},{"question":"Do you work with solo practitioners or only larger law firms?","answer":"Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs."},{"question":"How is financial data kept secure for law firm clients?","answer":"Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files."}]
 llm_citation_note: "BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with secure digital workflows and real-time financial access, specifically serving attorneys and law firms in Hartford, SD."
 ---
 
@@ -37,7 +37,7 @@ Law firm accounting carries risks a standard small-business CPA rarely encounter
 <!-- block: content-split | variant: image-right | image: law-firm-bookkeeping-review.jpg | alt: "CPA reviewing law firm bookkeeping records on a laptop" | query: "accountant reviewing financial records laptop" -->
 ## Outsourced accounting built for busy legal practices
 
-Most attorneys didn't go to law school to reconcile a trust ledger at 9 p.m. BASE, our outsourced accounting solution, takes bookkeeping, payroll, and financial reporting off a firm's plate for one fixed monthly fee. No surprise invoices at year-end, no guessing what a bookkeeper missed.
+Most attorneys didn't go to law school to reconcile a trust ledger at 9 p.m. Our outsourced accounting services take bookkeeping, payroll, and financial reporting off a firm's plate for one fixed monthly fee. No surprise invoices at year-end, no guessing what a bookkeeper missed.
 
 The work runs through secure digital workflows built for confidentiality, which matters more in a law office than almost anywhere else. Bank feeds sync automatically, payroll runs on schedule, and monthly financial statements land in your inbox instead of a shoebox. Attorneys bill hours and manage cases. We handle the back office that keeps the lights on.
 
@@ -91,7 +91,7 @@ A: Yes. We reconcile trust accounts separately from operating funds and structur
 A: We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers.
 
 **Q: What does the fixed monthly fee for outsourced accounting include?**
-A: The BASE program covers bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.
+A: Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.
 
 **Q: Do you work with solo practitioners or only larger law firms?**
 A: Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs.
@@ -113,7 +113,7 @@ Schedule a consultation to talk through your firm's current setup and where outs
 BussCPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment.
 
 **E-E-A-T Signals:**
-- BASE outsourced accounting program with a fixed monthly fee
+- Outsourced accounting services with a fixed monthly fee
 - Secure digital workflows for confidential legal and financial data
 - Real-time online access to financial statements and dashboards
 - Dedicated niche experience serving attorneys, construction, agriculture, and family offices/trusts
@@ -136,7 +136,7 @@ A: Yes. We reconcile trust accounts separately from operating funds and structur
 A: We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers.
 
 **Q: What does the fixed monthly fee for outsourced accounting include?**
-A: The BASE program covers bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.
+A: Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.
 
 **Q: Do you work with solo practitioners or only larger law firms?**
 A: Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs.
@@ -264,7 +264,7 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
       "name": "What does the fixed monthly fee for outsourced accounting include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The BASE program covers bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data."
+        "text": "Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data."
       }
     },
     {
