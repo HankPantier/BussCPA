@@ -71,7 +71,7 @@ Trust accounting rules leave no room for reconciliation errors. BussCPA maintain
 ### Engineers
 icon: Wrench
 
-Engineering firms often bill against long project timelines with milestone payments. BASE tracks project-level revenue and expense recognition so firm partners see true profitability on active contracts, not just cash in the bank.
+Engineering firms often bill against long project timelines with milestone payments. BussCPA tracks project-level revenue and expense recognition so firm partners see true profitability on active contracts, not just cash in the bank.
 
 ### Family offices and trusts
 icon: Building2
