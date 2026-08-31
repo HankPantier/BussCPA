@@ -30,7 +30,7 @@ The families and business owners we work with in Hartford and the surrounding Mc
 
 Having three to six months of expenses in a savings account matters. It keeps a medical bill from becoming a missed mortgage payment or a maxed-out credit card. But cash sitting in a standard savings account has already been taxed once as income and earns you nothing back when it's spent on a claim. It's a shock absorber, not a strategy.
 
-The difference between a cushion and a plan is whether your dollars are working before, during, and after the expense. That's where tax-advantaged accounts change the outcome, not just the timing.
+The difference between a cushion and a plan is whether your dollars are working before, during, and after the expense. That's where [tax-advantaged accounts change the outcome](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi-2), not just the timing.
 
 ## Health savings accounts carry three tax advantages, not one
 
