@@ -127,8 +127,8 @@ BussCPA provides outsourced payroll processing and compliance support for Hartfo
 - Real-time online access to pay stubs, tax filings, and payroll reports via secure digital portal
 
 **Internal Links:**
-- BASE, our outsourced accounting solution → /services/outsourced-accounting — Connects payroll to the broader outsourced accounting service it's part of
-- BASE, our outsourced accounting solution → /services/outsourced-accounting/accounting — Shows how payroll data flows into bookkeeping
+- Outsourced accounting services → /services/outsourced-accounting — Connects payroll to the broader outsourced accounting service it's part of
+- Outsourced accounting services → /services/outsourced-accounting/accounting — Shows how payroll data flows into bookkeeping
 - personal income tax → /services/outsourced-accounting/tax — Links payroll compliance to related tax filing service
 - construction companies and contractors → /industries/construction — Directs construction prospects to the dedicated industry page
 - agriculture enterprises → /industries/agriculture — Directs farm and ag prospects to the dedicated industry page
