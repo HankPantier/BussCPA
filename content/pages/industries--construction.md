@@ -248,7 +248,7 @@ BussCPA's BASE program is a fixed monthly-fee, end-to-end outsourced accounting 
       "name": "What does construction accounting cost with BussCPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BussCPA's BASE program runs on a fixed monthly fee rather than hourly billing, so a contractor knows the cost upfront regardless of how busy tax season or payroll gets. The fee covers bookkeeping, payroll, and financial reporting as one package."
+        "text": "BussCPA's outsourced accounting services run on a fixed monthly fee rather than hourly billing, so a contractor knows the cost upfront regardless of how busy tax season or payroll gets. The fee covers bookkeeping, payroll, and financial reporting as one package."
       }
     },
     {
