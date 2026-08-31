@@ -33,7 +33,7 @@ Here's a simplified version of that comparison for a $280,000 home in the Hartfo
 | Principal paid (builds equity) | ~$310/mo | $0 |
 | Net cash cost | ~$1,713/mo | ~$1,670/mo |
 
-On a pure cash-out basis, renting looks slightly cheaper here. But $310 a month in principal isn't a cost, it's forced savings. Run that same household through year five, once rates on new leases have climbed and the mortgage payment hasn't moved, and the math tilts the other direction. That's the exercise worth doing before signing anything: model your specific numbers for years one, five, and ten, not just the move-in month.
+On a pure cash-out basis, renting looks slightly cheaper here. But $310 a month in principal isn't a cost, it's forced savings. Run that same household through year five, once rates on new leases have climbed and the mortgage payment hasn't moved, and the math tilts the other direction. That's the exercise worth doing before signing anything: [model your specific numbers for years one, five, and ten](/resources/do-the-math-behind-renting-vs-buying-a-home-2), not just the move-in month.
 
 ## The tax deduction is smaller than most people assume
 
