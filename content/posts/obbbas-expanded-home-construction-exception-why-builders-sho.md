@@ -26,7 +26,7 @@ The home construction exception itself hasn't changed much. A contract still qua
 
 ## How the gross receipts threshold moved
 
-Before this year, the small contractor exception under Section 460(e)(1)(B) applied only to contractors whose average annual gross receipts over the prior three years fell under roughly $31 million, an inflation-adjusted figure that had crept up slowly from the original $25 million base set back in 2017. OBBBA raises that threshold to $80 million, effective for contracts entered into after the law's enactment date. For a calendar-year construction company, that means the expanded exception applies in full to contracts signed starting in the 2026 tax year.
+Before this year, the small contractor exception under Section 460(e)(1)(B) applied only to contractors whose average annual gross receipts over the prior three years fell under roughly $31 million, an inflation-adjusted figure that had crept up slowly from the original $25 million base set back in 2017. [OBBBA raises that threshold to $80 million](/resources/obbbas-expanded-home-construction-exception-why-builders-sho-2), effective for contracts entered into after the law's enactment date. For a calendar-year construction company, that means the expanded exception applies in full to contracts signed starting in the 2026 tax year.
 
 | | Prior law | Under OBBBA |
 |---|---|---|
