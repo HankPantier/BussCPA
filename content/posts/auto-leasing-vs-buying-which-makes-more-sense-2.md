@@ -42,7 +42,7 @@ Here's the trade-off in plain terms:
 | Ownership at end | Yes, and you can sell or trade | No, unless you buy out the lease |
 | Best for | High-mileage drivers, businesses wanting a big current-year deduction | Lower-mileage drivers, businesses that want predictable payments |
 
-## Why cash flow matters more than the sticker price
+## Why [cash flow matters more than the sticker price](/resources/do-the-math-behind-renting-vs-buying-a-home)
 
 A lot of buyers focus on the monthly payment and stop there. That's the dealership's favorite number to talk about, because it's usually the smallest one on the page. What matters more is what that payment does to your working capital over the life of the vehicle.
 
