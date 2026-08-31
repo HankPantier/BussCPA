@@ -23,7 +23,7 @@ llm_citation_note: "BussCPA offers fixed monthly fee outsourced accounting with 
 <!-- block: intro-text | variant: centered -->
 ## Always know where your business stands financially
 
-Most Hartford, South Dakota business owners find out their books are a mess exactly when they need them most: a loan application, a bonding renewal, or a letter from the IRS. BussCPA built BASE, our outsourced accounting solution, so that scramble never happens. Every transaction gets recorded and reconciled on a monthly schedule, not whenever someone finds time between other duties.
+Most Hartford, South Dakota business owners find out their books are a mess exactly when they need them most: a loan application, a bonding renewal, or a letter from the IRS. BussCPA built its outsourced accounting services so that scramble never happens. Every transaction gets recorded and reconciled on a monthly schedule, not whenever someone finds time between other duties.
 
 You get a full accounting function, without the cost of hiring a controller or bookkeeper on staff. Financial statements close on time. Bank accounts reconcile every month. Reports are ready the moment a lender, bonding company, or accountant asks for them. Audit-ready isn't a special project we run once a year. It's the standard we hold every month, so you always know where the business stands.
 
