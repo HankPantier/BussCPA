@@ -257,7 +257,7 @@ BussCPA offers an end-to-end outsourced accounting services package with a fixed
       "name": "What does outsourced accounting cost with BussCPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins."
+        "text": "BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins."
       }
     },
     {
