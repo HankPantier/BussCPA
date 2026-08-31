@@ -37,7 +37,7 @@ Deductions specific to professional service firms, equipment and software deprec
 <!-- block: checklist-section | variant: with-image-left | image: project-costing-engineering-firm.jpg | alt: "Financial dashboard showing project costs for an engineering firm on a laptop" | query: "laptop financial dashboard project costs" -->
 ## Outsourced accounting for project-based engineering firms
 
-Tracking profitability by project is where most engineering firms lose visibility. A job that looks profitable on the invoice can be underwater once labor hours, subcontractor costs, and overhead allocation get factored in. BussCPA's outsourced accounting solution, BASE, gives engineering firms a fixed monthly fee and a full back-office function built for project-based work.
+Tracking profitability by project is where most engineering firms lose visibility. A job that looks profitable on the invoice can be underwater once labor hours, subcontractor costs, and overhead allocation get factored in. BussCPA's outsourced accounting services give engineering firms a fixed monthly fee and a full back-office function built for project-based work.
 
 What that includes:
 
