@@ -1,10 +1,6 @@
 {
   "primary": [
     {
-      "label": "Comprehensive Accounting Services | Buss CPA",
-      "url": "/what-we-do"
-    },
-    {
       "label": "Accounting services built for your industry",
       "url": "/services",
       "children": [
@@ -28,15 +24,15 @@
         },
         {
           "label": "Accounting that keeps your books audit ready",
-          "url": "/services/outsourced-accounting/accounting"
+          "url": "/services/accounting"
         },
         {
           "label": "Payroll processing and compliance support",
-          "url": "/services/outsourced-accounting/payroll"
+          "url": "/services/payroll"
         },
         {
           "label": "Tax preparation and planning for businesses",
-          "url": "/services/outsourced-accounting/tax"
+          "url": "/services/tax"
         },
         {
           "label": "Personal income tax help for complex finances",
@@ -61,16 +57,16 @@
           "url": "/industries/agriculture"
         },
         {
-          "label": "Accounting and tax services for family offices and trursts",
-          "url": "/industries/family-offices-trusts"
-        },
-        {
           "label": "Accounting and tax services for engineers",
           "url": "/industries/engineers"
         },
         {
           "label": "Accounting and tax services for attorneys and law firms",
           "url": "/industries/attorneys"
+        },
+        {
+          "label": "Accounting and tax services for family offices and trursts",
+          "url": "/industries/family-offices-trusts"
         }
       ]
     },
@@ -90,7 +86,7 @@
       "children": [
         {
           "label": "Insights Gallery | BussCPA",
-          "url": "/insights-gallery"
+          "url": "/resources-new/insights-gallery"
         },
         {
           "label": "QuickReads | BussCPA",
@@ -98,11 +94,11 @@
         },
         {
           "label": "Smart tips for smarter financial decisions",
-          "url": "/smart-tips-magazine-gallery"
+          "url": "/resources-new/smart-tips-magazine-gallery"
         },
         {
           "label": "Tax resources and forms in one place",
-          "url": "/forms-documents-links"
+          "url": "/resources-new/forms-documents-links"
         }
       ]
     },
