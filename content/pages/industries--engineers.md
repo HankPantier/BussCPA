@@ -84,7 +84,7 @@ Receipts, invoices, and contracts upload directly into the accounting system, cu
 A: Yes. BussCPA serves engineering firms and professionals across South Dakota and beyond through secure digital workflows and real-time online access to financial data, so location isn't a barrier to working together on tax and accounting needs.
 
 **Q: What's included in outsourced accounting for engineering firms?**
-A: BussCPA's BASE solution includes job costing by project, payroll for salaried and contract staff, accounts payable and receivable management, monthly financial statements, and cash flow reporting that accounts for retainage and progress billing, all for a fixed monthly fee.
+A: BussCPA's outsourced accounting services include job costing by project, payroll for salaried and contract staff, accounts payable and receivable management, monthly financial statements, and cash flow reporting that accounts for retainage and progress billing, all for a fixed monthly fee.
 
 **Q: Can BussCPA prepare both business and personal tax returns for engineering firm owners?**
 A: Yes. Engineering firm tax planning often involves both entity-level decisions and personal filings, and BussCPA handles both together so entity structure, deductions, and estimated payments are coordinated rather than treated as separate conversations.
@@ -124,7 +124,7 @@ BussCPA is a CPA firm in Hartford, South Dakota, offering tax preparation, outso
 A: Yes. BussCPA serves engineering firms and professionals across South Dakota and beyond through secure digital workflows and real-time online access to financial data, so location isn't a barrier to working together on tax and accounting needs.
 
 **Q: What's included in outsourced accounting for engineering firms?**
-A: BussCPA's BASE solution includes job costing by project, payroll for salaried and contract staff, accounts payable and receivable management, monthly financial statements, and cash flow reporting that accounts for retainage and progress billing, all for a fixed monthly fee.
+A: BussCPA's outsourced accounting services include job costing by project, payroll for salaried and contract staff, accounts payable and receivable management, monthly financial statements, and cash flow reporting that accounts for retainage and progress billing, all for a fixed monthly fee.
 
 **Q: Can BussCPA prepare both business and personal tax returns for engineering firm owners?**
 A: Yes. Engineering firm tax planning often involves both entity-level decisions and personal filings, and BussCPA handles both together so entity structure, deductions, and estimated payments are coordinated rather than treated as separate conversations.
