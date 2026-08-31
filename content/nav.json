@@ -10,7 +10,13 @@
       "children": [
         {
           "label": "Advisory services to guide your financial decisions",
-          "url": "/services/advisory"
+          "url": "/services/advisory",
+          "children": [
+            {
+              "label": "Entity Type Analysis",
+              "url": "/services/advisory/entity-type-analysis"
+            }
+          ]
         },
         {
           "label": "Accounting that keeps your books audit ready",
