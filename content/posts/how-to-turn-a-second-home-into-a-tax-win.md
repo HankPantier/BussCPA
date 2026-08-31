@@ -48,7 +48,7 @@ Owners weighing a cabin purchase against renting one instead should also run the
 
 ## Turning rental days into a tax advantage without losing personal use
 
-The sweet spot for a lot of second-home owners is staying just under the personal-use threshold while renting enough days to generate real income and real deductions. If you own a place near Big Stone Lake and use it for three long weekends a summer, that's roughly 9 to 12 personal days. Rent it for another 20 to 30 days during peak weeks, and you likely land in rental property territory rather than the mixed-use category, meaning losses from depreciation and expenses can actually offset other income, subject to passive activity limits.
+The sweet spot for a lot of second-home owners is [staying just under the personal-use threshold](/resources/how-to-turn-a-second-home-into-a-tax-win-2) while renting enough days to generate real income and real deductions. If you own a place near Big Stone Lake and use it for three long weekends a summer, that's roughly 9 to 12 personal days. Rent it for another 20 to 30 days during peak weeks, and you likely land in rental property territory rather than the mixed-use category, meaning losses from depreciation and expenses can actually offset other income, subject to passive activity limits.
 
 The passive activity rules allow up to $25,000 in rental losses to offset ordinary income if you actively participate in managing the property and your modified adjusted gross income is under $100,000, phasing out completely at $150,000. Above that threshold, losses suspend and carry forward until you sell or generate passive income to absorb them.
 
