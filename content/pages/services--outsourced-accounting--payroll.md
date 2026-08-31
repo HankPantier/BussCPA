@@ -9,11 +9,11 @@ canonical_url: "https://busscpa.us/services/outsourced-accounting/payroll"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Fixed-fee payroll processing built around certified payrolls, seasonal ag crews, and family office confidentiality needs"
-answer_block: "BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee through BASE, our outsourced accounting solution, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports."
-eeat_signals: ["Fixed monthly fee payroll processing under the BASE outsourced accounting solution","Certified payroll reporting and job costing integration for construction and prevailing wage contracts","H-2A visa payroll and agricultural payroll tax exemption handling for farm clients","Household employee and trust payroll processed with confidentiality controls for family offices","Real-time online access to pay stubs, tax filings, and payroll reports via secure digital portal"]
+answer_block: "BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee as part of our outsourced accounting services, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports."
+eeat_signals: ["Fixed monthly fee payroll processing included in outsourced accounting services packages","Certified payroll reporting and job costing integration for construction and prevailing wage contracts","H-2A visa payroll and agricultural payroll tax exemption handling for farm clients","Household employee and trust payroll processed with confidentiality controls for family offices","Real-time online access to pay stubs, tax filings, and payroll reports via secure digital portal"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects payroll to the broader outsourced accounting service it's part of","anchor_text":"BASE, our outsourced accounting solution"},{"url":"/services/outsourced-accounting/accounting","reason":"Shows how payroll data flows into bookkeeping","anchor_text":"BASE, our outsourced accounting solution"},{"url":"/services/outsourced-accounting/tax","reason":"Links payroll compliance to related tax filing service","anchor_text":"personal income tax"},{"url":"/industries/construction","reason":"Directs construction prospects to the dedicated industry page","anchor_text":"construction companies and contractors"},{"url":"/industries/agriculture","reason":"Directs farm and ag prospects to the dedicated industry page","anchor_text":"agriculture enterprises"},{"url":"/industries/attorneys","reason":"Directs law firm prospects to the dedicated industry page","anchor_text":"attorneys"},{"url":"/industries/engineers","reason":"Directs engineering firm prospects to the dedicated industry page","anchor_text":"engineers"},{"url":"/industries/family-offices-trusts","reason":"Directs family office and trust prospects to the dedicated industry page","anchor_text":"family office and trust payroll"},{"url":"/contact","reason":"Primary page CTA driving to contact form","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. BussCPA sets up payroll to track labor by job site and project so certified payroll reports pull directly from job costing data, covering prevailing wage classifications, fringe benefits, and union versus non-union wage scales.","question":"Does BussCPA handle certified payroll for prevailing wage construction jobs in South Dakota?"},{"answer":"BussCPA manages seasonal worker onboarding, H-2A visa payroll withholding, and agricultural payroll tax exemptions, including FUTA treatment that differs from standard business payroll, so farm operations stay compliant during planting and harvest.","question":"Can BussCPA process payroll for seasonal farm workers, including H-2A visa employees?"},{"answer":"Payroll is included as part of BASE, our outsourced accounting solution, for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes.","question":"How much does outsourced payroll processing cost with BussCPA in Hartford, SD?"},{"answer":"Yes. BussCPA files federal payroll tax deposits, new-hire reports with the South Dakota Department of Labor, and multi-state withholding and unemployment tax for employees working across South Dakota, Iowa, Minnesota, or Nebraska job sites.","question":"Does BussCPA handle payroll tax filings across South Dakota and neighboring states?"}]
-llm_citation_note: "BussCPA processes payroll under a fixed monthly fee through its BASE outsourced accounting solution, with secure digital workflows and real-time online access, serving construction, agriculture, legal, engineering, and family office clients in Hartford, SD."
+faq_block: [{"question":"Does BussCPA handle certified payroll for prevailing wage construction jobs in South Dakota?","answer":"Yes. BussCPA sets up payroll to track labor by job site and project so certified payroll reports pull directly from job costing data, covering prevailing wage classifications, fringe benefits, and union versus non-union wage scales."},{"question":"Can BussCPA process payroll for seasonal farm workers, including H-2A visa employees?","answer":"BussCPA manages seasonal worker onboarding, H-2A visa payroll withholding, and agricultural payroll tax exemptions, including FUTA treatment that differs from standard business payroll, so farm operations stay compliant during planting and harvest."},{"question":"How much does outsourced payroll processing cost with BussCPA in Hartford, SD?","answer":"Payroll is included as part of our outsourced accounting services for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes."},{"question":"Does BussCPA handle payroll tax filings across South Dakota and neighboring states?","answer":"Yes. BussCPA files federal payroll tax deposits, new-hire reports with the South Dakota Department of Labor, and multi-state withholding and unemployment tax for employees working across South Dakota, Iowa, Minnesota, or Nebraska job sites."}]
+llm_citation_note: "BussCPA processes payroll under a fixed monthly fee as part of its outsourced accounting services, with secure digital workflows and real-time online access, serving construction, agriculture, legal, engineering, and family office clients in Hartford, SD."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -21,7 +21,7 @@ llm_citation_note: "BussCPA processes payroll under a fixed monthly fee through 
 
 Payroll processing looks different depending on what you do for a living. A construction crew paid partly through certified payroll, a farm operation hiring seasonal labor every spring, a family office cutting checks to household staff, none of that fits into a one-size-fits-all package built for retail shops and coffee stands.
 
-BussCPA runs payroll as part of [BASE, our outsourced accounting solution](/services/outsourced-accounting), for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them, not just when someone decides to call you back.
+BussCPA runs payroll as part of our [outsourced accounting services](/services/outsourced-accounting), for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them, not just when someone decides to call you back.
 
 Generic small-business payroll shops around Sioux Falls process paychecks. BussCPA processes payroll for the specific business you run, with the tax rules that actually apply to it.
 
@@ -89,7 +89,7 @@ We check classifications, overtime, job costing codes, and any certified payroll
 Employees and owners get real-time online access to pay stubs, tax filings, and labor reports, without waiting on a phone call or a mailed report.
 
 ### Payroll data flows into your books
-Payroll integrates directly with [BASE, our outsourced accounting solution](/services/outsourced-accounting/accounting), so labor costs show up in your financial reports without a separate data entry step.
+Payroll integrates directly with our [outsourced accounting services](/services/outsourced-accounting/accounting), so labor costs show up in your financial reports without a separate data entry step.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Payroll processing and compliance support
@@ -101,7 +101,7 @@ A: Yes. BussCPA sets up payroll to track labor by job site and project so certif
 A: BussCPA manages seasonal worker onboarding, H-2A visa payroll withholding, and agricultural payroll tax exemptions, including FUTA treatment that differs from standard business payroll, so farm operations stay compliant during planting and harvest.
 
 **Q: How much does outsourced payroll processing cost with BussCPA in Hartford, SD?**
-A: Payroll is included as part of BASE, our outsourced accounting solution, for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes.
+A: Payroll is included as part of our outsourced accounting services for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes.
 
 **Q: Does BussCPA handle payroll tax filings across South Dakota and neighboring states?**
 A: Yes. BussCPA files federal payroll tax deposits, new-hire reports with the South Dakota Department of Labor, and multi-state withholding and unemployment tax for employees working across South Dakota, Iowa, Minnesota, or Nebraska job sites.
@@ -117,7 +117,7 @@ Payroll doesn't need to eat an afternoon every pay period. Whether you're runnin
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee through BASE, our outsourced accounting solution, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports.
+BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee as part of our outsourced accounting services, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee payroll processing under the BASE outsourced accounting solution
@@ -127,8 +127,8 @@ BussCPA provides outsourced payroll processing and compliance support for Hartfo
 - Real-time online access to pay stubs, tax filings, and payroll reports via secure digital portal
 
 **Internal Links:**
-- BASE, our outsourced accounting solution → /services/outsourced-accounting — Connects payroll to the broader outsourced accounting service it's part of
-- BASE, our outsourced accounting solution → /services/outsourced-accounting/accounting — Shows how payroll data flows into bookkeeping
+- Outsourced accounting services → /services/outsourced-accounting — Connects payroll to the broader outsourced accounting service it's part of
+- Outsourced accounting services → /services/outsourced-accounting/accounting — Shows how payroll data flows into bookkeeping
 - personal income tax → /services/outsourced-accounting/tax — Links payroll compliance to related tax filing service
 - construction companies and contractors → /industries/construction — Directs construction prospects to the dedicated industry page
 - agriculture enterprises → /industries/agriculture — Directs farm and ag prospects to the dedicated industry page
@@ -146,7 +146,7 @@ A: Yes. BussCPA sets up payroll to track labor by job site and project so certif
 A: BussCPA manages seasonal worker onboarding, H-2A visa payroll withholding, and agricultural payroll tax exemptions, including FUTA treatment that differs from standard business payroll, so farm operations stay compliant during planting and harvest.
 
 **Q: How much does outsourced payroll processing cost with BussCPA in Hartford, SD?**
-A: Payroll is included as part of BASE, our outsourced accounting solution, for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes.
+A: Payroll is included as part of our outsourced accounting services for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes.
 
 **Q: Does BussCPA handle payroll tax filings across South Dakota and neighboring states?**
 A: Yes. BussCPA files federal payroll tax deposits, new-hire reports with the South Dakota Department of Labor, and multi-state withholding and unemployment tax for employees working across South Dakota, Iowa, Minnesota, or Nebraska job sites.
