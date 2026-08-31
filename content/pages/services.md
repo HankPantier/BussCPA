@@ -148,7 +148,7 @@ BussCPA provides outsourced accounting services in Hartford, SD through its outs
 **FAQ Block:**
 
 **Q: What does outsourced accounting cost with BussCPA?**
-A: BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
+A: BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
 
 **Q: Does BussCPA work with businesses outside Hartford, SD?**
 A: Yes. BussCPA serves construction companies, agriculture operations, attorneys, engineers, and family offices throughout South Dakota, with secure digital workflows and real-time online access that make location less relevant than it used to be.
