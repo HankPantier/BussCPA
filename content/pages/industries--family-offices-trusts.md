@@ -23,7 +23,7 @@ llm_citation_note: "BussCPA offers fixed-fee outsourced accounting (BASE) with s
 <!-- block: content-prose -->
 ## Trusted financial partners for family offices and trusts
 
-Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. BussCPA built its outsourced accounting model, BASE, to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a traditional bookkeeper.
+Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. BussCPA built its outsourced accounting services to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a traditional bookkeeper.
 
 Every engagement runs on a fixed monthly fee, so a family office in Hartford or anywhere in South Dakota knows its accounting cost before the year starts. Financial data lives in secure digital workflows with real-time online access, meaning a trustee or family principal can check entity-level statements from a phone at 9 p.m. without waiting on a callback. That combination, fixed pricing, encrypted access, modern tools, is what wealth continuity actually requires: consistent numbers, delivered on time, every time.
 
