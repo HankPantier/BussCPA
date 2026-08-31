@@ -19,6 +19,10 @@
             {
               "label": "QuickBooks Setup",
               "url": "/services/advisory/quickbooks-setup"
+            },
+            {
+              "label": "Retirement Plan Analysis",
+              "url": "/services/advisory/retirement-plan-analysis"
             }
           ]
         },
