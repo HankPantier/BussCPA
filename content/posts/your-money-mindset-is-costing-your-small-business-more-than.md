@@ -18,7 +18,7 @@ answer_block: "A small business owner's money mindset, meaning habits like avoid
 ---
 Every year, BussCPA sits down with automotive shop owners, contractors, and family farm operators across Hartford, SD who all say some version of the same thing: this should be a better year than last year. Then we open the books and find the same three habits that showed up in January of the prior year, and the year before that. The budget wasn't the problem. The relationship the owner had with their own numbers was.
 
-Money mindset sounds like a soft concept for a CPA firm to bring up, but the pattern is measurable. Owners who avoid their financial statements make different pricing decisions than owners who review them monthly. Owners who treat taxes as a March emergency make different equipment purchases than owners who plan in July. The psychology shows up as a number on a bank statement six months later.
+Money mindset sounds like a soft concept for a CPA firm to bring up, but [the pattern is measurable](/resources/your-money-mindset-is-costing-your-small-business-more-than-2). Owners who avoid their financial statements make different pricing decisions than owners who review them monthly. Owners who treat taxes as a March emergency make different equipment purchases than owners who plan in July. The psychology shows up as a number on a bank statement six months later.
 
 ## The math problem hiding behind a mindset problem
 

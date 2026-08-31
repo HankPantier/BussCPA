@@ -59,7 +59,7 @@ A balanced investment portfolio doesn't live in a vacuum separate from your 1040
 
 This is where BussCPA's advisory and personal income tax services connect directly to the rebalancing conversation. We look at your investment account alongside your business return, not after it. A construction contractor selling equipment at a gain, an attorney with a family trust, or an agriculture operation with an unusual income year all need rebalancing decisions that account for what's already happening on the tax side, not a generic once-a-year allocation check.
 
-If money mindset is part of what's kept your portfolio on autopilot, that's worth addressing directly. Our piece on [how money mindset affects small business decisions](/resources/your-money-mindset-is-costing-your-small-business-more-than) covers some of the same avoidance patterns that show up in investment accounts as much as in business budgets.
+If [money mindset is part of what's kept your portfolio on autopilot](/resources/your-money-mindset-is-costing-your-small-business-more-than-2), that's worth addressing directly. Our piece on [how money mindset affects small business decisions](/resources/your-money-mindset-is-costing-your-small-business-more-than) covers some of the same avoidance patterns that show up in investment accounts as much as in business budgets.
 
 ## A practical starting point
 
