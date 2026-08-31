@@ -15,6 +15,10 @@
             {
               "label": "Entity Type Analysis",
               "url": "/services/advisory/entity-type-analysis"
+            },
+            {
+              "label": "QuickBooks Setup",
+              "url": "/services/advisory/quickbooks-setup"
             }
           ]
         },
