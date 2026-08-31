@@ -37,7 +37,7 @@ That matters for a growing business in Hartford, SD trying to budget accurately.
 <!-- block: checklist-section | variant: with-image | image: digital-accounting-portal-dashboard.jpg | alt: "Laptop screen displaying a secure online financial dashboard portal" | query: "laptop financial dashboard online portal" -->
 ## Secure digital workflows and real-time online access
 
-BASE runs on a client portal built for 24/7 access, not a filing cabinet you have to call someone to unlock. Financial data updates continuously, so you can check cash position, review a report, or send a document at 9 p.m. on a Sunday if that's when you have time.
+BussCPA's outsourced accounting service runs on a client portal built for 24/7 access, not a filing cabinet you have to call someone to unlock. Financial data updates continuously, so you can check cash position, review a report, or send a document at 9 p.m. on a Sunday if that's when you have time.
 
 - Bank-grade encryption protects every document and transaction uploaded to the portal
 - Real-time dashboards show cash flow, accounts receivable, and profitability without waiting for month-end
