@@ -117,7 +117,7 @@ Payroll doesn't need to eat an afternoon every pay period. Whether you're runnin
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee through BASE, our outsourced accounting solution, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports.
+BussCPA provides outsourced payroll processing and compliance support for Hartford, SD businesses, including construction, agriculture, legal, engineering, and family office clients. Payroll runs on a fixed monthly fee as part of our outsourced accounting services, with secure digital workflows and real-time online access to pay stubs, tax filings, and reports.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee payroll processing under the BASE outsourced accounting solution
