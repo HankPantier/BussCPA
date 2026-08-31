@@ -10,3 +10,4 @@ old_url,new_url,status_code,reason
 /services/payroll,/services/outsourced-accounting/payroll,301,Nested via nav editor
 /careers,/who-we-are/careers,301,Nested via nav editor
 /refund-tracker,/resources-new/refund-tracker,301,Nested via nav editor
+/get-started,/resources-new/get-started,301,Nested via nav editor
