@@ -133,7 +133,7 @@ BussCPA provides outsourced accounting for construction companies in Hartford, S
 **FAQ Block:**
 
 **Q: What does construction accounting cost with BussCPA?**
-A: BussCPA's BASE program runs on a fixed monthly fee rather than hourly billing, so a contractor knows the cost upfront regardless of how busy tax season or payroll gets. The fee covers bookkeeping, payroll, and financial reporting as one package.
+A: BussCPA's outsourced accounting services run on a fixed monthly fee rather than hourly billing, so a contractor knows the cost upfront regardless of how busy tax season or payroll gets. The fee covers bookkeeping, payroll, and financial reporting as one package.
 
 **Q: Can BussCPA track profitability by individual job?**
 A: Yes. BussCPA sets up job costing systems that track labor, materials, subcontractor costs, and overhead against each project's budget as costs are incurred, so a contractor knows which jobs are profitable well before the project closes out.
