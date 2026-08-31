@@ -30,7 +30,7 @@ You get a full accounting function, without the cost of hiring a controller or b
 <!-- block: content-split | variant: image-right | image: fixed-fee-accounting-pricing.jpg | alt: "Business owner reviewing a monthly accounting invoice with an advisor" | query: "small business owner reviewing invoice" -->
 ## A fixed monthly fee with no surprise invoices
 
-Hourly bookkeeping services bill by the minute, and the invoice changes every month depending on how messy your records were or how many questions you asked. BASE works differently. You pay one fixed monthly fee for the full outsourced accounting engagement, and that number doesn't move because you called with a question or because payroll ran twice.
+Hourly bookkeeping services bill by the minute, and the invoice changes every month depending on how messy your records were or how many questions you asked. Outsourced accounting services from BussCPA work differently. You pay one fixed monthly fee for the full outsourced accounting engagement, and that number doesn't move because you called with a question or because payroll ran twice.
 
 That matters for a growing business in Hartford, SD trying to budget accurately. You know your accounting cost in January and you know it in December. No line-item surprises, no per-transaction charges tacked onto an already unpredictable bill. Fixed pricing is one of the reasons clients stay with BussCPA instead of switching providers every year to chase a better rate.
 
