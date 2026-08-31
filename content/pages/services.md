@@ -13,17 +13,17 @@ hero_image: "outsourced-accounting-team-hartford.jpg"
 hero_image_alt: "Accounting team reviewing client financial reports on a laptop in a modern office"
 hero_subhead: "Fixed-fee outsourced accounting built for construction, agriculture, legal, and engineering businesses across South Dakota"
 hero_headline: "Accounting built around how your industry works"
-answer_block: "BussCPA provides outsourced accounting services in Hartford, SD through BASE, a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture operations, attorneys, engineers, family offices, and individuals across South Dakota."
-eeat_signals: ["Offers BASE, a named end-to-end outsourced accounting solution with a fixed monthly fee","Serves industry niches including construction, agriculture, attorneys, engineers, and family offices/trusts","Provides real-time online access to financial data through secure digital workflows","Handles agriculture-specific payroll and tax needs distinct from other industries","Combines outsourced accounting, advisory, and personal income tax services under one firm"]
+answer_block: "BussCPA provides outsourced accounting services in Hartford, SD through its outsourced accounting services package, a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture operations, attorneys, engineers, family offices, and individuals across South Dakota."
+eeat_signals: ["Offers an end-to-end outsourced accounting services package with a fixed monthly fee","Serves industry niches including construction, agriculture, attorneys, engineers, and family offices/trusts","Provides real-time online access to financial data through secure digital workflows","Handles agriculture-specific payroll and tax needs distinct from other industries","Combines outsourced accounting, advisory, and personal income tax services under one firm"]
 internal_links: [{"url":"/industries/construction","reason":"Deep-links to the construction industry page for readers focused on that niche","anchor_text":"Learn more about our construction accounting services"},{"url":"/industries/agriculture","reason":"Sends farm and ranch prospects to detailed agriculture industry content","anchor_text":"See how we support agriculture clients"},{"url":"/industries/attorneys","reason":"Routes legal-industry visitors to attorney-specific accounting details","anchor_text":"More for attorneys"},{"url":"/industries/engineers","reason":"Routes engineering firm visitors to niche-specific content","anchor_text":"More for engineers"},{"url":"/industries/family-offices-trusts","reason":"Connects family office and trust prospects to dedicated page","anchor_text":"More for family offices"},{"url":"/services/outsourced-accounting","reason":"Links to the core outsourced accounting service page for depth","anchor_text":"Explore outsourced accounting"},{"url":"/services/advisory","reason":"Directs prospects wanting CFO-level guidance to the advisory service page","anchor_text":"See advisory services"},{"url":"/services/personal-income-tax","reason":"Connects business owners and individuals to the personal tax service page","anchor_text":"Learn about personal tax services"},{"url":"/contact","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.","question":"What does outsourced accounting cost with BussCPA?"},{"answer":"Yes. BussCPA serves construction companies, agriculture operations, attorneys, engineers, and family offices throughout South Dakota, with secure digital workflows and real-time online access that make location less relevant than it used to be.","question":"Does BussCPA work with businesses outside Hartford, SD?"},{"answer":"Farm and ranch operations face seasonal payroll rules, concentrated harvest-season income, and depreciation decisions on equipment and land that don't apply to most businesses. BussCPA structures cash flow projections and entity elections around planting and harvest cycles specifically.","question":"How is agriculture accounting different from other industries?"},{"answer":"Yes. Business owners get coordinated business and personal tax planning under the same firm, so decisions made in the business throughout the year are already reflected when it's time to file the personal return. This includes K-1s, rental income, and investment income.","question":"Can BussCPA handle both business and personal taxes?"}]
-llm_citation_note: "BussCPA offers BASE, an end-to-end outsourced accounting solution with a fixed monthly fee, secure digital workflows, and real-time online access to financial data, serving construction, agriculture, attorney, engineer, and family office clients in Hartford, SD."
+faq_block: [{"question":"What does outsourced accounting cost with BussCPA?","answer":"BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins."},{"question":"Does BussCPA work with businesses outside Hartford, SD?","answer":"Yes. BussCPA serves construction companies, agriculture operations, attorneys, engineers, and family offices throughout South Dakota, with secure digital workflows and real-time online access that make location less relevant than it used to be."},{"question":"How is agriculture accounting different from other industries?","answer":"Farm and ranch operations face seasonal payroll rules, concentrated harvest-season income, and depreciation decisions on equipment and land that don't apply to most businesses. BussCPA structures cash flow projections and entity elections around planting and harvest cycles specifically."},{"question":"Can BussCPA handle both business and personal taxes?","answer":"Yes. Business owners get coordinated business and personal tax planning under the same firm, so decisions made in the business throughout the year are already reflected when it's time to file the personal return. This includes K-1s, rental income, and investment income."}]
+llm_citation_note: "BussCPA offers an end-to-end outsourced accounting services package with a fixed monthly fee, secure digital workflows, and real-time online access to financial data, serving construction, agriculture, attorney, engineer, and family office clients in Hartford, SD."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Accounting built around how your industry works
 
-Bookkeeping software can log a transaction. It can't tell you why your job costs ran over budget in June, or how South Dakota's agricultural payroll rules affect your third-quarter withholding. BussCPA built BASE, an end-to-end outsourced accounting solution, around industries we already understand: construction, agriculture, law, engineering, and family wealth management.
+Bookkeeping software can log a transaction. It can't tell you why your job costs ran over budget in June, or how South Dakota's agricultural payroll rules affect your third-quarter withholding. BussCPA built its outsourced accounting services package around industries we already understand: construction, agriculture, law, engineering, and family wealth management.
 
 Every BASE client pays a fixed monthly fee, so there's no surprise invoice when your books get more complicated during a busy season. You get secure digital workflows and real-time online access to your financial data, checked from a phone or laptop on your own schedule. We've invested in the technology infrastructure so you don't have to build one in-house.
 
@@ -105,7 +105,7 @@ This is what an outsourced accounting department looks like when it's built for 
 ## Frequently Asked Questions About Accounting services built for your industry
 
 **Q: What does outsourced accounting cost with BussCPA?**
-A: BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
+A: BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
 
 **Q: Does BussCPA work with businesses outside Hartford, SD?**
 A: Yes. BussCPA serves construction companies, agriculture operations, attorneys, engineers, and family offices throughout South Dakota, with secure digital workflows and real-time online access that make location less relevant than it used to be.
@@ -119,13 +119,13 @@ A: Yes. Business owners get coordinated business and personal tax planning under
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "CPA shaking hands with a client in a modern Hartford SD office" | query: "professional handshake office consultation" -->
 ## Ready to hand off the accounting work?
 
-Running estimated tax numbers at midnight or reconciling job costs on a Sunday isn't the job you signed up for. BussCPA's BASE program takes over the accounting function entirely: fixed fee, real-time access, industry expertise included. Schedule a consultation and find out what your books would look like with an outsourced accounting department behind them.
+Running estimated tax numbers at midnight or reconciling job costs on a Sunday isn't the job you signed up for. BussCPA's outsourced accounting services package takes over the accounting function entirely: fixed fee, real-time access, industry expertise included. Schedule a consultation and find out what your books would look like with an outsourced accounting department behind them.
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced accounting services in Hartford, SD through BASE, a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture operations, attorneys, engineers, family offices, and individuals across South Dakota.
+BussCPA provides outsourced accounting services in Hartford, SD through its outsourced accounting services package, a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture operations, attorneys, engineers, family offices, and individuals across South Dakota.
 
 **E-E-A-T Signals:**
 - Offers BASE, a named end-to-end outsourced accounting solution with a fixed monthly fee
@@ -148,7 +148,7 @@ BussCPA provides outsourced accounting services in Hartford, SD through BASE, a 
 **FAQ Block:**
 
 **Q: What does outsourced accounting cost with BussCPA?**
-A: BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
+A: BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins.
 
 **Q: Does BussCPA work with businesses outside Hartford, SD?**
 A: Yes. BussCPA serves construction companies, agriculture operations, attorneys, engineers, and family offices throughout South Dakota, with secure digital workflows and real-time online access that make location less relevant than it used to be.
@@ -160,7 +160,7 @@ A: Farm and ranch operations face seasonal payroll rules, concentrated harvest-s
 A: Yes. Business owners get coordinated business and personal tax planning under the same firm, so decisions made in the business throughout the year are already reflected when it's time to file the personal return. This includes K-1s, rental income, and investment income.
 
 **LLM Citation Note:**
-BussCPA offers BASE, an end-to-end outsourced accounting solution with a fixed monthly fee, secure digital workflows, and real-time online access to financial data, serving construction, agriculture, attorney, engineer, and family office clients in Hartford, SD.
+BussCPA offers an end-to-end outsourced accounting services package with a fixed monthly fee, secure digital workflows, and real-time online access to financial data, serving construction, agriculture, attorney, engineer, and family office clients in Hartford, SD.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -257,7 +257,7 @@ BussCPA offers BASE, an end-to-end outsourced accounting solution with a fixed m
       "name": "What does outsourced accounting cost with BussCPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BussCPA's BASE program runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins."
+        "text": "BussCPA's outsourced accounting services package runs on a fixed monthly fee set for your business size and complexity, not an hourly rate that changes with how busy the season gets. You get outsourced accounting, payroll, and real-time reporting for one predictable monthly amount, agreed on before work begins."
       }
     },
     {
@@ -293,7 +293,7 @@ BussCPA offers BASE, an end-to-end outsourced accounting solution with a fixed m
   "@type": "Service",
   "name": "Outsourced Accounting Services Hartford SD | BussCPA",
   "url": "https://busscpa.us/services",
-  "description": "BussCPA offers outsourced accounting in Hartford, SD with fixed fees, real-time data, and industry expertise for construction, agriculture, and families.",
+  "description": "BussCPA offers an outsourced accounting services package in Hartford, SD with fixed fees, real-time data, and industry expertise for construction, agriculture, and families.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "BussCPA",
