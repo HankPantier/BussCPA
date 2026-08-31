@@ -89,7 +89,7 @@ Entity choice isn't a set-it-and-forget-it decision. These milestones are the on
 
 Entity type analysis works best as a recurring checkpoint, not a one-time filing decision. Businesses that use BussCPA's outsourced accounting services get real-time access to their financial data, which means entity performance can be reviewed against actual numbers each year instead of guesswork.
 
-Our advisory services fold entity strategy into the same relationship that handles your monthly books, payroll, and tax filings for one fixed fee. If your revenue jumps, you hire your first crew, or you're weighing a second entity for a new farm operation, the conversation happens as part of a relationship that already knows your numbers, not a separate engagement starting from zero.
+Our outsourced accounting services fold entity strategy into the same relationship that handles your monthly books, payroll, and tax filings for one fixed fee. If your revenue jumps, you hire your first crew, or you're weighing a second entity for a new farm operation, the conversation happens as part of a relationship that already knows your numbers, not a separate engagement starting from zero.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a business consultation" | query: "business consultation handshake office" -->
 ## Get a personalized entity analysis
