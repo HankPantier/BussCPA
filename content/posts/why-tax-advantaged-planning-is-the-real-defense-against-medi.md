@@ -24,7 +24,7 @@ Most financial advice stops at "build an emergency fund." That's incomplete. A s
 
 Medical debt isn't a fringe issue. According to the [Federal Reserve's Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm), a meaningful share of adults report they would struggle to cover an unexpected $400 expense without borrowing or selling something. Medical bills routinely exceed that number by a factor of ten or more. A single overnight hospital stay in South Dakota can run $3,000 to $10,000 before insurance even finishes adjudicating the claim.
 
-The families and business owners we work with in Hartford and the surrounding McCook County area aren't immune to this. A construction contractor with a jobsite injury, a farmer dealing with a mid-harvest health scare, an attorney managing a parent's long-term care costs. The scenarios differ, but the financial mechanics are the same: a large, sudden expense collides with cash flow that was already earmarked for something else.
+The families and business owners we work with in Hartford and the surrounding McCook County area aren't immune to this. A construction contractor with a jobsite injury, a farmer dealing with a mid-harvest health scare, an attorney managing [a parent's long-term care costs](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen). The scenarios differ, but the financial mechanics are the same: a large, sudden expense collides with cash flow that was already earmarked for something else.
 
 ## An emergency fund is the floor, not the plan
 
