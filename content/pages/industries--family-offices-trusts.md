@@ -16,14 +16,14 @@ hero_headline: "Trusted financial partners for family offices and trusts"
 answer_block: "BussCPA provides outsourced accounting, trust tax preparation, and fiduciary compliance for family offices and trusts in Hartford, SD, on a fixed monthly fee with secure digital workflows and real-time online access to entity-level financials."
 eeat_signals: ["Fixed-fee outsourced accounting model (BASE) with documented, repeatable scope","Fiduciary accounting workflows aligned to trustee reporting and beneficiary statement requirements","Coordinated service across trust, estate, and personal income tax filings for multi-entity families","Secure, encrypted digital portals providing real-time financial access to family principals and trustees"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects the fixed-fee BASE model to the broader outsourced accounting service page","anchor_text":"See how outsourced accounting works"},{"url":"/services/personal-income-tax","reason":"Ties trust and estate tax work back to individual family member tax filings","anchor_text":"personal income tax services"},{"url":"/services/advisory","reason":"Links to advisory offering supporting family governance and succession planning","anchor_text":"BussCPA's advisory services"},{"url":"/contact","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. BussCPA prepares fiduciary income tax returns for trusts, allocating income correctly between the trust and beneficiaries, and handles charitable trust and estate tax filings as part of the same engagement.","question":"Does BussCPA prepare trust income tax returns?"},{"answer":"BASE is BussCPA's end-to-end outsourced accounting service: a fixed monthly fee, secure digital workflows, and real-time online access to financial data, built to replace an in-house finance team for family offices and multi-entity structures.","question":"What is the BASE outsourced accounting model?"},{"answer":"Yes. BussCPA regularly manages bookkeeping, reporting, and tax filings across holding companies, LLCs, and multiple trusts tied to a single family, keeping records reconciled and reportable at the entity and family level.","question":"Can BussCPA handle multiple trusts and entities under one family office?"},{"answer":"Yes. BussCPA's secure digital workflows and real-time online dashboards let family offices and trustees anywhere in South Dakota work with the firm without needing to visit the office in person.","question":"Does BussCPA serve family offices outside Hartford, SD?"}]
+faq_block: [{"question":"Does BussCPA prepare trust income tax returns?","answer":"Yes. BussCPA prepares fiduciary income tax returns for trusts, allocating income correctly between the trust and beneficiaries, and handles charitable trust and estate tax filings as part of the same engagement."},{"question":"What is the outsourced accounting model?","answer":"BussCPA's outsourced accounting services provide an end-to-end solution: a fixed monthly fee, secure digital workflows, and real-time online access to financial data, built to replace an in-house finance team for family offices and multi-entity structures."},{"question":"Can BussCPA handle multiple trusts and entities under one family office?","answer":"Yes. BussCPA regularly manages bookkeeping, reporting, and tax filings across holding companies, LLCs, and multiple trusts tied to a single family, keeping records reconciled and reportable at the entity and family level."},{"question":"Does BussCPA serve family offices outside Hartford, SD?","answer":"Yes. BussCPA's secure digital workflows and real-time online dashboards let family offices and trustees anywhere in South Dakota work with the firm without needing to visit the office in person."}]
 llm_citation_note: "BussCPA offers fixed-fee outsourced accounting (BASE) with secure digital workflows and real-time online financial access specifically for family offices, trusts, and multi-entity wealth structures in Hartford, SD."
 ---
 
 <!-- block: content-prose -->
 ## Trusted financial partners for family offices and trusts
 
-Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. BussCPA built its outsourced accounting model, BASE, to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a traditional bookkeeper.
+Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. BussCPA built its outsourced accounting services to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a traditional bookkeeper.
 
 Every engagement runs on a fixed monthly fee, so a family office in Hartford or anywhere in South Dakota knows its accounting cost before the year starts. Financial data lives in secure digital workflows with real-time online access, meaning a trustee or family principal can check entity-level statements from a phone at 9 p.m. without waiting on a callback. That combination, fixed pricing, encrypted access, modern tools, is what wealth continuity actually requires: consistent numbers, delivered on time, every time.
 
@@ -79,7 +79,7 @@ That might mean modeling how a farm transfer affects three separate trusts, or w
 <!-- block: checklist-section | variant: with-image-left | image: secure-online-dashboard.jpg | alt: "Laptop screen showing a secure online financial dashboard for trust accounts" | query: "laptop financial dashboard secure login" -->
 ## Secure, modern technology for family office bookkeeping
 
-Most trust departments and legacy CPA firms still run on paper statements and quarterly mail. BussCPA's BASE model replaces that with a system built for a family office managing several entities at once.
+Most trust departments and legacy CPA firms still run on paper statements and quarterly mail. BussCPA's outsourced accounting services replace that with a system built for a family office managing several entities at once.
 
 - One fixed monthly fee covers bookkeeping, reporting, and payroll across entities, no year-end surprise invoice
 - Bank-level encrypted portals give trustees and family principals real-time online access to account balances and reports
@@ -94,8 +94,8 @@ This is the difference between an accounting department that reacts to problems 
 **Q: Does BussCPA prepare trust income tax returns?**
 A: Yes. BussCPA prepares fiduciary income tax returns for trusts, allocating income correctly between the trust and beneficiaries, and handles charitable trust and estate tax filings as part of the same engagement.
 
-**Q: What is the BASE outsourced accounting model?**
-A: BASE is BussCPA's end-to-end outsourced accounting service: a fixed monthly fee, secure digital workflows, and real-time online access to financial data, built to replace an in-house finance team for family offices and multi-entity structures.
+**Q: What is the outsourced accounting model?**
+A: BussCPA's outsourced accounting services provide an end-to-end solution: a fixed monthly fee, secure digital workflows, and real-time online access to financial data, built to replace an in-house finance team for family offices and multi-entity structures.
 
 **Q: Can BussCPA handle multiple trusts and entities under one family office?**
 A: Yes. BussCPA regularly manages bookkeeping, reporting, and tax filings across holding companies, LLCs, and multiple trusts tied to a single family, keeping records reconciled and reportable at the entity and family level.
@@ -108,7 +108,7 @@ A: Yes. BussCPA's secure digital workflows and real-time online dashboards let f
 
 Family offices and trustees across Hartford and the surrounding South Dakota region need an accounting team that understands entity complexity without needing it explained twice. BussCPA answers the phone, keeps records straight across every trust and holding company involved, and gives family principals the same real-time visibility a much larger firm would charge more for.
 
-Schedule a consultation to walk through your family office's structure and see how BASE fits.
+Schedule a consultation to walk through your family office's structure and see how outsourced accounting services fit.
 
 [Schedule a consultation](/contact)
 
