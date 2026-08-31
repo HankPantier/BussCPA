@@ -18,7 +18,7 @@ answer_block: "Leasing usually wins for lower mileage drivers who replace vehicl
 ---
 A GMC Sierra sitting on a Hartford dealership lot doesn't care whether you lease it or finance it. The salesperson pushing you toward one option over the other usually cares more about moving inventory and hitting a commission target than about your tax return or your cash flow twelve months from now. That's the gap a CPA fills: looking at your specific numbers instead of a payment that sounds good on a Tuesday afternoon test drive.
 
-Whether you're an individual in Minnehaha County replacing a family vehicle or a contractor adding a truck to your fleet, the lease-versus-buy decision comes down to four things: how you use the vehicle, how long you plan to keep it, what your tax situation looks like, and what it does to your monthly cash flow. Get those four right and the decision usually makes itself.
+Whether you're an individual in Minnehaha County replacing a family vehicle or a contractor adding a truck to your fleet, [the lease-versus-buy decision comes down to four things](/resources/auto-leasing-vs-buying-which-makes-more-sense-2): how you use the vehicle, how long you plan to keep it, what your tax situation looks like, and what it does to your monthly cash flow. Get those four right and the decision usually makes itself.
 
 ## Why the monthly payment is the wrong starting point
 
