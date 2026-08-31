@@ -295,7 +295,7 @@ BussCPA's BASE program is a fixed monthly-fee, end-to-end outsourced accounting 
     "name": "BussCPA",
     "url": "https://busscpa.us"
   },
-  "serviceType": "Accounting built for contractors and builders",
+  "serviceType": "Outsourced accounting services for contractors and builders",
   "audience": [
     {
       "@type": "Audience",
