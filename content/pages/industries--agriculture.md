@@ -42,7 +42,7 @@ If your current accountant treats your operation like any other small business, 
 <!-- block: content-split | variant: image-right | image: crop-field-financial-review.jpg | alt: "Grain bins and farmland with a laptop open on a truck tailgate" | query: "farm laptop financial review field" -->
 ## Outsourced accounting for crop and livestock operations
 
-[BASE](/services/outsourced-accounting), our outsourced accounting solution, covers bookkeeping, financial statements, and payroll for crop and livestock operations under one fixed monthly fee. No surprise invoices during a year when margins are already tight.
+Our [outsourced accounting services](/services/outsourced-accounting) cover bookkeeping, financial statements, and payroll for crop and livestock operations under one fixed monthly fee. No surprise invoices during a year when margins are already tight.
 
 We reconcile accounts, categorize input costs by field or herd, and produce financial statements that mean something to a lender or landlord, not just an IRS form. Because everything runs through secure digital workflows, you get real-time online access to your numbers whether you're in the cab of a combine or sitting down with your banker to talk operating lines. Livestock producers get the same structure: feed costs, breeding stock basis, and market timing tracked consistently through the year instead of reconstructed at tax time. It's accounting that keeps pace with a business that doesn't slow down for anyone's fiscal year.
 
