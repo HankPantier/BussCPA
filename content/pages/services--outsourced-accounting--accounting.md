@@ -83,7 +83,7 @@ Family office and trust accounting demands discretion and exact record-keeping a
 
 Audit-ready isn't a status you achieve once a year before tax season. It's a habit built from monthly reconciliation, documented transactions, and reporting that holds up when someone outside the business asks to see it. At BussCPA, that means every bank account reconciles monthly, every journal entry has support behind it, and every financial statement reflects what actually happened, not an estimate cleaned up later.
 
-When a lender requests financials, when a bonding company reviews a contractor's WIP schedule, or when the IRS sends a notice, the answer shouldn't be a scramble through last year's records. It should be a portal login. That's the standard behind BASE, and it's why Hartford, SD businesses in construction, agriculture, and professional services rely on it instead of piecing together their books each quarter.
+When a lender requests financials, when a bonding company reviews a contractor's WIP schedule, or when the IRS sends a notice, the answer shouldn't be a scramble through last year's records. It should be a portal login. That's the standard BussCPA holds every month, and it's why Hartford, SD businesses in construction, agriculture, and professional services rely on it instead of piecing together their books each quarter.
 
 If your books aren't ready for that kind of scrutiny right now, that's a conversation worth having before a lender or bonding company forces the issue. Schedule a consultation with BussCPA and find out what audit-ready accounting looks like for your business.
 
