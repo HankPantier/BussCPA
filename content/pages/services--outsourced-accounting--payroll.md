@@ -21,7 +21,7 @@ llm_citation_note: "BussCPA processes payroll under a fixed monthly fee as part 
 
 Payroll processing looks different depending on what you do for a living. A construction crew paid partly through certified payroll, a farm operation hiring seasonal labor every spring, a family office cutting checks to household staff, none of that fits into a one-size-fits-all package built for retail shops and coffee stands.
 
-BussCPA runs payroll as part of [BASE, our outsourced accounting solution](/services/outsourced-accounting), for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them, not just when someone decides to call you back.
+BussCPA runs payroll as part of our [outsourced accounting services](/services/outsourced-accounting), for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them, not just when someone decides to call you back.
 
 Generic small-business payroll shops around Sioux Falls process paychecks. BussCPA processes payroll for the specific business you run, with the tax rules that actually apply to it.
 
