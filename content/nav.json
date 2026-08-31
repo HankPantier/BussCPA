@@ -5,6 +5,24 @@
       "url": "/services",
       "children": [
         {
+          "label": "Outsourced accounting services for your business",
+          "url": "/services/outsourced-accounting",
+          "children": [
+            {
+              "label": "Accounting that keeps your books audit ready",
+              "url": "/services/outsourced-accounting/accounting"
+            },
+            {
+              "label": "Tax preparation and planning for businesses",
+              "url": "/services/outsourced-accounting/tax"
+            },
+            {
+              "label": "Payroll processing and compliance support",
+              "url": "/services/outsourced-accounting/payroll"
+            }
+          ]
+        },
+        {
           "label": "Advisory services to guide your financial decisions",
           "url": "/services/advisory",
           "children": [
@@ -23,24 +41,8 @@
           ]
         },
         {
-          "label": "Accounting that keeps your books audit ready",
-          "url": "/services/accounting"
-        },
-        {
-          "label": "Payroll processing and compliance support",
-          "url": "/services/payroll"
-        },
-        {
-          "label": "Tax preparation and planning for businesses",
-          "url": "/services/tax"
-        },
-        {
           "label": "Personal income tax help for complex finances",
           "url": "/services/personal-income-tax"
-        },
-        {
-          "label": "Outsourced accounting services for your business",
-          "url": "/services/outsourced-accounting"
         }
       ]
     },
@@ -75,8 +77,8 @@
       "url": "/who-we-are",
       "children": [
         {
-          "label": "Credentials and experience that back our advice",
-          "url": "/who-we-are/expertise"
+          "label": "Careers in Accounting & Advisory | Buss CPA",
+          "url": "/who-we-are/careers"
         }
       ]
     },
@@ -99,16 +101,12 @@
         {
           "label": "Tax resources and forms in one place",
           "url": "/resources-new/forms-documents-links"
+        },
+        {
+          "label": "Check Your Tax Refund Status | Buss CPA",
+          "url": "/resources-new/refund-tracker"
         }
       ]
-    },
-    {
-      "label": "Check Your Tax Refund Status | Buss CPA",
-      "url": "/refund-tracker"
-    },
-    {
-      "label": "Careers in Accounting & Advisory | Buss CPA",
-      "url": "/careers"
     },
     {
       "label": "Serving Hartford & Sioux Falls, SD | Buss CPA",
