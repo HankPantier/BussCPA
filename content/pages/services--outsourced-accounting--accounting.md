@@ -44,7 +44,7 @@ BussCPA's outsourced accounting service runs on a client portal built for 24/7 a
 - Digital document exchange replaces mailed statements and dropped-off shoeboxes of receipts
 - Automated reconciliation tools catch discrepancies faster than manual quarterly reviews
 
-The technology investment behind BASE isn't cosmetic. It's the infrastructure that lets a Hartford, SD business owner see the same numbers their accountant sees, at the same time.
+The technology investment behind these tools isn't cosmetic. It's the infrastructure that lets a Hartford, SD business owner see the same numbers their accountant sees, at the same time.
 
 <!-- block: content-split | variant: image-left | image: construction-job-costing-review.jpg | alt: "Contractor reviewing job cost reports on a construction site" | query: "contractor reviewing paperwork job site" -->
 ## Accounting built for construction companies and contractors
