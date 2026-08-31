@@ -18,7 +18,7 @@ answer_block: "Business credit card rewards earned through spending are generall
 ---
 A construction contractor running $40,000 a month through a fuel and materials card is leaving money on the table if that card pays flat 1% cash back. A family office writing checks for travel and professional services needs a completely different rewards structure than an agriculture operation buying seed, feed, and equipment parts in bulk during three months of the year. Business credit card rewards aren't a bonus feature you stumble into. They're a cash-flow lever, and like any lever, they only work if you know which direction to pull.
 
-Most business owners pick a card because a banker recommended it, or because the signup bonus looked good on a billboard. Then tax season arrives, the bookkeeper asks what those "other income" entries are, and nobody has a clean answer. Treating rewards as a deliberate part of your financial plan, not an afterthought, changes both how much you earn back and how cleanly your books close.
+Most business owners pick a card because a banker recommended it, or because the signup bonus looked good on a billboard. Then tax season arrives, the bookkeeper asks what those "other income" entries are, and nobody has a clean answer. Treating rewards as [a deliberate part of your financial plan](/resources/business-credit-card-rewards-a-financial-strategy-for-busine-2), not an afterthought, changes both how much you earn back and how cleanly your books close.
 
 ## Are credit card rewards taxable for your business
 
