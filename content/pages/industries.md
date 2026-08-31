@@ -38,7 +38,7 @@ Construction is a cash flow business disguised as a building business. Jobs run 
 
 That means work-in-progress (WIP) reporting that tracks percentage of completion, billed versus earned revenue, and overbilling or underbilling by job. It means payroll built for prevailing wage requirements and multiple job sites. And it means tax strategy specific to contractors: Section 179 equipment deductions, completed contract versus percentage of completion accounting, and entity structure decisions that affect self-employment tax.
 
-Because BASE, BussCPA's [outsourced accounting](/services/outsourced-accounting) solution, runs on a fixed monthly fee with real-time online access, a contractor in South Dakota can check job profitability from a truck cab instead of waiting for a quarterly meeting. Numbers update as invoices post and costs hit the job. For contractors who need to know today whether a job is making money, that access changes how decisions get made.
+Because BussCPA's [outsourced accounting](/services/outsourced-accounting) solution runs on a fixed monthly fee with real-time online access, a contractor in South Dakota can check job profitability from a truck cab instead of waiting for a quarterly meeting. Numbers update as invoices post and costs hit the job. For contractors who need to know today whether a job is making money, that access changes how decisions get made.
 
 <!-- block: content-split | variant: image-left | image: farm-field-planning-meeting.jpg | alt: "Farm owner reviewing seasonal cash flow reports with an accountant" | query: "farmer reviewing paperwork agriculture field" -->
 ## Agriculture and farm accounting that understands seasonal cash flow
