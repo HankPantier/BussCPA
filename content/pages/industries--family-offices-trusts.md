@@ -79,7 +79,7 @@ That might mean modeling how a farm transfer affects three separate trusts, or w
 <!-- block: checklist-section | variant: with-image-left | image: secure-online-dashboard.jpg | alt: "Laptop screen showing a secure online financial dashboard for trust accounts" | query: "laptop financial dashboard secure login" -->
 ## Secure, modern technology for family office bookkeeping
 
-Most trust departments and legacy CPA firms still run on paper statements and quarterly mail. BussCPA's BASE model replaces that with a system built for a family office managing several entities at once.
+Most trust departments and legacy CPA firms still run on paper statements and quarterly mail. BussCPA's outsourced accounting services replace that with a system built for a family office managing several entities at once.
 
 - One fixed monthly fee covers bookkeeping, reporting, and payroll across entities, no year-end surprise invoice
 - Bank-level encrypted portals give trustees and family principals real-time online access to account balances and reports
