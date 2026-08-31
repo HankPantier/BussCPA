@@ -1,9 +1,124 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
+    {
+      "label": "Comprehensive Accounting Services | Buss CPA",
+      "url": "/what-we-do"
+    },
+    {
+      "label": "Accounting services built for your industry",
+      "url": "/services",
+      "children": [
+        {
+          "label": "Advisory services to guide your financial decisions",
+          "url": "/services/advisory"
+        },
+        {
+          "label": "Accounting that keeps your books audit ready",
+          "url": "/services/outsourced-accounting/accounting"
+        },
+        {
+          "label": "Payroll processing and compliance support",
+          "url": "/services/outsourced-accounting/payroll"
+        },
+        {
+          "label": "Tax preparation and planning for businesses",
+          "url": "/services/outsourced-accounting/tax"
+        },
+        {
+          "label": "Personal income tax help for complex finances",
+          "url": "/services/personal-income-tax"
+        },
+        {
+          "label": "Outsourced accounting services for your business",
+          "url": "/services/outsourced-accounting"
+        }
+      ]
+    },
+    {
+      "label": "Industry accounting expertise you can rely on",
+      "url": "/industries",
+      "children": [
+        {
+          "label": "Accounting built for contractors and builders",
+          "url": "/industries/construction"
+        },
+        {
+          "label": "Accounting expertise for growing ag operations",
+          "url": "/industries/agriculture"
+        },
+        {
+          "label": "Accounting and tax services for family offices and trursts",
+          "url": "/industries/family-offices-trusts"
+        },
+        {
+          "label": "Accounting and tax services for engineers",
+          "url": "/industries/engineers"
+        },
+        {
+          "label": "Accounting and tax services for attorneys and law firms",
+          "url": "/industries/attorneys"
+        }
+      ]
+    },
+    {
+      "label": "Meet the team behind your outsourced accounting department",
+      "url": "/who-we-are",
+      "children": [
+        {
+          "label": "Credentials and experience that back our advice",
+          "url": "/who-we-are/expertise"
+        }
+      ]
+    },
+    {
+      "label": "Blog | BussCPA",
+      "url": "/resources-new",
+      "children": [
+        {
+          "label": "Insights Gallery | BussCPA",
+          "url": "/insights-gallery"
+        },
+        {
+          "label": "QuickReads | BussCPA",
+          "url": "/resources-new/quickreads"
+        },
+        {
+          "label": "Smart tips for smarter financial decisions",
+          "url": "/smart-tips-magazine-gallery"
+        },
+        {
+          "label": "Tax resources and forms in one place",
+          "url": "/forms-documents-links"
+        }
+      ]
+    },
+    {
+      "label": "Check Your Tax Refund Status | Buss CPA",
+      "url": "/refund-tracker"
+    },
+    {
+      "label": "Careers in Accounting & Advisory | Buss CPA",
+      "url": "/careers"
+    },
+    {
+      "label": "Serving Hartford & Sioux Falls, SD | Buss CPA",
+      "url": "/locations"
+    },
+    {
+      "label": "Talk with an accountant who knows your business",
+      "url": "/contact"
+    },
+    {
+      "label": "Start outsourcing your accounting with confidence",
+      "url": "/get-started"
+    },
+    {
+      "label": "Privacy Policy: How Buss CPA Protects Your Information",
+      "url": "/privacy-policy"
+    },
+    {
+      "label": "Terms & Conditions: Buss CPA Website Use",
+      "url": "/terms-conditions"
+    }
   ]
 }
