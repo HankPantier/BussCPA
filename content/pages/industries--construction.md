@@ -115,7 +115,7 @@ Contractors around Hartford, South Dakota don't need another vendor. They need a
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced accounting for construction companies in Hartford, South Dakota through its BASE program: a fixed monthly fee that covers bookkeeping, payroll, job costing, and financial reporting with real-time digital access. Contractors get tax planning, entity structure guidance, and advisory support built around how construction businesses actually operate, job by job.
+BussCPA provides outsourced accounting for construction companies in Hartford, South Dakota through its outsourced accounting services: a fixed monthly fee that covers bookkeeping, payroll, job costing, and financial reporting with real-time digital access. Contractors get tax planning, entity structure guidance, and advisory support built around how construction businesses actually operate, job by job.
 
 **E-E-A-T Signals:**
 - Offers BASE, a fixed monthly-fee end-to-end outsourced accounting program built specifically for construction companies
