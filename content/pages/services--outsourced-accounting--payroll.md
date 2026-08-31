@@ -89,7 +89,7 @@ We check classifications, overtime, job costing codes, and any certified payroll
 Employees and owners get real-time online access to pay stubs, tax filings, and labor reports, without waiting on a phone call or a mailed report.
 
 ### Payroll data flows into your books
-Payroll integrates directly with [BASE, our outsourced accounting solution](/services/outsourced-accounting/accounting), so labor costs show up in your financial reports without a separate data entry step.
+Payroll integrates directly with our [outsourced accounting services](/services/outsourced-accounting/accounting), so labor costs show up in your financial reports without a separate data entry step.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Payroll processing and compliance support
