@@ -108,7 +108,7 @@ A: Yes. BussCPA's secure digital workflows and real-time online dashboards let f
 
 Family offices and trustees across Hartford and the surrounding South Dakota region need an accounting team that understands entity complexity without needing it explained twice. BussCPA answers the phone, keeps records straight across every trust and holding company involved, and gives family principals the same real-time visibility a much larger firm would charge more for.
 
-Schedule a consultation to walk through your family office's structure and see how BASE fits.
+Schedule a consultation to walk through your family office's structure and see how outsourced accounting services fit.
 
 [Schedule a consultation](/contact)
 
