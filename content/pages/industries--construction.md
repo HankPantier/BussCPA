@@ -32,9 +32,9 @@ That gap is where most part-time bookkeepers and small local practices fall shor
 <!-- block: content-split | variant: image-right | image: contractor-laptop-jobsite.jpg | alt: "Contractor reviewing financial reports on a laptop at a job site" | query: "contractor laptop construction site" -->
 ## Our outsourced accounting solution for contractors
 
-Running a construction company already means wearing five hats: estimator, project manager, safety officer, and salesperson, before anyone even gets to the books. BussCPA's BASE program takes the accounting hat off entirely.
+Running a construction company already means wearing five hats: estimator, project manager, safety officer, and salesperson, before anyone even gets to the books. BussCPA's outsourced accounting services take the accounting hat off entirely.
 
-BASE is an end-to-end outsourced accounting department for construction companies, billed at one fixed monthly fee. No surprise invoices when tax season gets busy, and no guessing what a report will cost before you ask for it. BussCPA handles bookkeeping, payroll, and financial reporting, and everything runs through secure digital workflows so your numbers stay current instead of a month behind.
+BussCPA offers end-to-end outsourced accounting services for construction companies, billed at one fixed monthly fee. No surprise invoices when tax season gets busy, and no guessing what a report will cost before you ask for it. BussCPA handles bookkeeping, payroll, and financial reporting, and everything runs through secure digital workflows so your numbers stay current instead of a month behind.
 
 You get real-time online access to your financial data: job costs, payroll records, and reports available whenever you need them, from the office or the truck. For a contractor managing three job sites and a payroll run every Friday, that visibility changes how decisions get made. Instead of learning in April that a job lost money, you know by June, while there's still time to fix it.
 
