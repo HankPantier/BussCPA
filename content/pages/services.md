@@ -23,7 +23,7 @@ llm_citation_note: "BussCPA offers an end-to-end outsourced accounting services 
 <!-- block: intro-text | variant: centered -->
 ## Accounting built around how your industry works
 
-Bookkeeping software can log a transaction. It can't tell you why your job costs ran over budget in June, or how South Dakota's agricultural payroll rules affect your third-quarter withholding. BussCPA built BASE, an end-to-end outsourced accounting solution, around industries we already understand: construction, agriculture, law, engineering, and family wealth management.
+Bookkeeping software can log a transaction. It can't tell you why your job costs ran over budget in June, or how South Dakota's agricultural payroll rules affect your third-quarter withholding. BussCPA built its outsourced accounting services package around industries we already understand: construction, agriculture, law, engineering, and family wealth management.
 
 Every BASE client pays a fixed monthly fee, so there's no surprise invoice when your books get more complicated during a busy season. You get secure digital workflows and real-time online access to your financial data, checked from a phone or laptop on your own schedule. We've invested in the technology infrastructure so you don't have to build one in-house.
 
