@@ -293,7 +293,7 @@ BussCPA offers an end-to-end outsourced accounting services package with a fixed
   "@type": "Service",
   "name": "Outsourced Accounting Services Hartford SD | BussCPA",
   "url": "https://busscpa.us/services",
-  "description": "BussCPA offers outsourced accounting in Hartford, SD with fixed fees, real-time data, and industry expertise for construction, agriculture, and families.",
+  "description": "BussCPA offers an outsourced accounting services package in Hartford, SD with fixed fees, real-time data, and industry expertise for construction, agriculture, and families.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "BussCPA",
