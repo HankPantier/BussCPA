@@ -39,7 +39,7 @@ Agriculture operations have a wrinkle worth calling out specifically. Payroll an
 
 ## Running a subscription audit that actually works
 
-A subscription audit doesn't require new software or a consultant. It requires 90 days of bank and credit card statements and about an hour.
+A subscription audit doesn't require new software or a consultant. [Here's how to run a real audit](/resources/take-back-control-of-subscription-creep-2) and stop the leak for good.
 
 1. Pull every recurring charge from the last three statements, business and personal accounts separately.
 2. Sort each one into a category: essential, useful but replaceable, duplicate, or unused.
