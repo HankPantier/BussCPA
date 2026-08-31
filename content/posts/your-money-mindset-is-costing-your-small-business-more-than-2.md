@@ -34,7 +34,7 @@ We've watched this play out with agriculture clients too, where payroll and tax 
 
 ## Avoiding your financials doesn't make the numbers go away
 
-Here's the pattern we see most often: an owner's stress about money grows in direct proportion to how long it's been since they looked at a profit and loss statement. The longer the avoidance, the scarier the eventual look becomes, because now there's a backlog of unknowns instead of one manageable number. This is where reactive decision-making takes over. An owner who hasn't reviewed cash flow in two months isn't planning a hire, they're reacting to a bank balance that looks lower than expected.
+Here's the pattern we see most often: an owner's [stress about money grows](/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2) in direct proportion to how long it's been since they looked at a profit and loss statement. The longer the avoidance, the scarier the eventual look becomes, because now there's a backlog of unknowns instead of one manageable number. This is where reactive decision-making takes over. An owner who hasn't reviewed cash flow in two months isn't planning a hire, they're reacting to a bank balance that looks lower than expected.
 
 The AICPA's [small business resources](https://www.aicpa-cima.com/resources/landing/small-business-resources) emphasize consistent financial review as a foundation of sound management, not a luxury reserved for larger companies. A small automotive repair shop with three bays doesn't need a finance department to benefit from that discipline. It needs monthly numbers it can actually trust, delivered in a way the owner will actually look at.
 
