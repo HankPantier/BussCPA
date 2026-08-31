@@ -54,7 +54,7 @@ Advisory only works if the numbers behind it are current. BussCPA's secure digit
 <!-- block: content-prose -->
 ## One fixed monthly fee for ongoing advisory support
 
-Advisory work billed by the hour creates a bad incentive: you hesitate to call because you're not sure what the meeting will cost. BussCPA bundles advisory into the same fixed monthly fee as our outsourced accounting engagement, [BASE](/services/outsourced-accounting). One invoice covers your books, payroll, tax filings, and the strategy conversations that come out of them.
+Advisory work billed by the hour creates a bad incentive: you hesitate to call because you're not sure what the meeting will cost. BussCPA bundles advisory into the same fixed monthly fee as our [outsourced accounting services](/services/outsourced-accounting). One invoice covers your books, payroll, tax filings, and the strategy conversations that come out of them.
 
 That structure removes the guesswork. You can ask about an equipment purchase, a new hire, or a distribution plan without watching a meter run. For a construction firm managing seasonal cash flow or a family office reviewing trust distributions, predictable billing matters as much as the advice itself.
 
