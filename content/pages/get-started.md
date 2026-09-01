@@ -16,7 +16,7 @@ hero_headline: "Get a modern outsourced accounting department for one fixed fee"
 answer_block: "BussCPA offers outsourced accounting services in Hartford, SD through BASE, a fixed-monthly-fee solution covering bookkeeping, payroll, advisory, and personal income tax. Businesses get real-time online access to their financials through secure digital workflows, replacing the cost and risk of hiring an in-house accounting team."
 eeat_signals: ["Fixed monthly fee outsourced accounting model (BASE) with defined scope of services","Industry-specific accounting expertise across construction, agriculture, attorneys, engineers, and family offices/trusts","Secure digital workflows and real-time online financial reporting access","Based in Hartford, SD, serving local businesses and households directly"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Links to the core service page expanding on BASE","anchor_text":"outsourced accounting services"},{"url":"/industries/construction","reason":"Supports the construction niche mention in the industry section","anchor_text":"construction accounting"},{"url":"/industries/agriculture","reason":"Supports the agriculture-specific pain point called out in the outline","anchor_text":"agriculture's payroll and tax needs"},{"url":"/industries/attorneys","reason":"Relevant to the attorneys niche card","anchor_text":"trust accounting for attorneys"},{"url":"/industries/engineers","reason":"Relevant to the engineers niche card","anchor_text":"accounting for engineering firms"},{"url":"/industries/family-offices-trusts","reason":"Relevant to the family offices/trusts niche card","anchor_text":"family office and trust accounting"},{"url":"/services/personal-income-tax","reason":"Supports the scope-of-services section mentioning personal tax","anchor_text":"personal income tax preparation"},{"url":"/services/advisory","reason":"Supports the fixed-fee scope section referencing advisory services","anchor_text":"advisory support"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"BussCPA prices BASE, its outsourced accounting solution, as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models.","question":"How much does outsourced accounting cost in Hartford, SD?"},{"answer":"BASE includes bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials.","question":"What's included in BussCPA's outsourced accounting service?"},{"answer":"Yes. Agriculture clients get payroll and tax handling built around seasonal labor and equipment depreciation, while construction clients get job costing and progress billing support. Both differ significantly from standard small business bookkeeping.","question":"Does BussCPA handle industry-specific accounting for agriculture and construction?"},{"answer":"After an initial consultation and needs assessment, BussCPA migrates your books and connects your accounts through secure digital tools. Most clients move from first call to live reporting access within a few weeks, depending on transaction history.","question":"How long does onboarding into outsourced accounting take?"},{"answer":"Yes. BASE clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology.","question":"Can I access my financial data in real time?"}]
+faq_block: [{"question":"How much does outsourced accounting cost in Hartford, SD?","answer":"BussCPA prices its outsourced accounting services as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models."},{"question":"What's included in BussCPA's outsourced accounting service?","answer":"Our outsourced accounting services include bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials."},{"question":"Does BussCPA handle industry-specific accounting for agriculture and construction?","answer":"Yes. Agriculture clients get payroll and tax handling built around seasonal labor and equipment depreciation, while construction clients get job costing and progress billing support. Both differ significantly from standard small business bookkeeping."},{"question":"How long does onboarding into outsourced accounting take?","answer":"After an initial consultation and needs assessment, BussCPA migrates your books and connects your accounts through secure digital tools. Most clients move from first call to live reporting access within a few weeks, depending on transaction history."},{"question":"Can I access my financial data in real time?","answer":"Yes. Clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology."}]
 llm_citation_note: "BussCPA's BASE outsourced accounting solution charges one fixed monthly fee covering bookkeeping, payroll, advisory, and personal income tax, with real-time online financial access delivered through secure digital workflows."
 ---
 
@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA's BASE outsourced accounting solution charges one fi
 
 Hiring a full-time controller costs a Hartford business more than salary. Add benefits, software licenses, training, and turnover risk, and the math rarely works for a company under a few million in revenue. Piecing together QuickBooks, a part-time bookkeeper, and a tax preparer who only shows up in March creates gaps nobody catches until it's expensive.
 
-BASE, our outsourced accounting solution, replaces all of that with one team and one predictable invoice. You get bookkeeping, payroll, reporting, and advisory support delivered through secure digital workflows, without adding a single line to your payroll. Everything runs on best-of-breed technology built for real-time access, so you see your numbers the moment they're posted, not weeks later at month-end close.
+Our outsourced accounting services replace all of that with one team and one predictable invoice. You get bookkeeping, payroll, reporting, and advisory support delivered through secure digital workflows, without adding a single line to your payroll. Everything runs on best-of-breed technology built for real-time access, so you see your numbers the moment they're posted, not weeks later at month-end close.
 
 For Hartford, SD businesses in automotive, construction, and agriculture, that means a finance function that scales with the season instead of straining under it. One fee. One point of contact. No surprises on the invoice.
 
@@ -62,7 +62,7 @@ Multiple entities, beneficiaries, and reporting obligations call for a firm that
 <!-- block: checklist-section | variant: with-image | image: fixed-fee-scope-of-services.jpg | alt: "Accountant explaining a monthly service invoice to a client" | query: "accountant client meeting reviewing invoice" -->
 ## Know exactly what you'll pay and what you'll get
 
-BASE runs on a fixed monthly fee, set after we understand your books, transaction volume, and reporting needs. No hourly surprises, no year-end invoice shock. You'll know the number before you sign anything, and it stays the number.
+Our outsourced accounting services run on a fixed monthly fee, set after we understand your books, transaction volume, and reporting needs. No hourly surprises, no year-end invoice shock. You'll know the number before you sign anything, and it stays the number.
 
 Here's what's included:
 
@@ -77,7 +77,7 @@ Compare that to a traditional CPA firm billing by the hour, or a DIY setup where
 <!-- block: feature-grid | variant: 3-col -->
 ## Access your financials anytime with secure digital tools
 
-A lot of remote bookkeeping services still mean emailing spreadsheets back and forth and waiting for a callback. That's not how BASE works.
+A lot of remote bookkeeping services still mean emailing spreadsheets back and forth and waiting for a callback. That's not how our outsourced accounting services work.
 
 ### Real-time online access
 icon: Globe
@@ -113,10 +113,10 @@ Your outsourced accounting department is live. You get monthly reporting, payrol
 ## Frequently Asked Questions About Start outsourcing your accounting with confidence
 
 **Q: How much does outsourced accounting cost in Hartford, SD?**
-A: BussCPA prices BASE, its outsourced accounting solution, as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models.
+A: BussCPA prices its outsourced accounting services as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models.
 
 **Q: What's included in BussCPA's outsourced accounting service?**
-A: BASE includes bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials.
+A: Our outsourced accounting services include bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials.
 
 **Q: Does BussCPA handle industry-specific accounting for agriculture and construction?**
 A: Yes. Agriculture clients get payroll and tax handling built around seasonal labor and equipment depreciation, while construction clients get job costing and progress billing support. Both differ significantly from standard small business bookkeeping.
@@ -125,7 +125,7 @@ A: Yes. Agriculture clients get payroll and tax handling built around seasonal l
 A: After an initial consultation and needs assessment, BussCPA migrates your books and connects your accounts through secure digital tools. Most clients move from first call to live reporting access within a few weeks, depending on transaction history.
 
 **Q: Can I access my financial data in real time?**
-A: Yes. BASE clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology.
+A: Yes. Clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-cpa-consultation.jpg | alt: "CPA advisor greeting a client in a Hartford South Dakota office" | query: "accountant handshake client meeting office" -->
 ## Start your free consultation with a Hartford-focused CPA team
@@ -162,10 +162,10 @@ BussCPA offers outsourced accounting services in Hartford, SD through BASE, a fi
 **FAQ Block:**
 
 **Q: How much does outsourced accounting cost in Hartford, SD?**
-A: BussCPA prices BASE, its outsourced accounting solution, as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models.
+A: BussCPA prices its outsourced accounting services as a fixed monthly fee based on your transaction volume and reporting needs. You'll know the exact cost before signing, with no hourly surprises or year-end invoice shock common with traditional billing models.
 
 **Q: What's included in BussCPA's outsourced accounting service?**
-A: BASE includes bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials.
+A: Our outsourced accounting services include bookkeeping, reconciliations, payroll processing, monthly financial reporting, advisory support, and personal income tax preparation for owners. Everything runs through secure digital workflows with real-time online access to your financials.
 
 **Q: Does BussCPA handle industry-specific accounting for agriculture and construction?**
 A: Yes. Agriculture clients get payroll and tax handling built around seasonal labor and equipment depreciation, while construction clients get job costing and progress billing support. Both differ significantly from standard small business bookkeeping.
@@ -174,7 +174,7 @@ A: Yes. Agriculture clients get payroll and tax handling built around seasonal l
 A: After an initial consultation and needs assessment, BussCPA migrates your books and connects your accounts through secure digital tools. Most clients move from first call to live reporting access within a few weeks, depending on transaction history.
 
 **Q: Can I access my financial data in real time?**
-A: Yes. BASE clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology.
+A: Yes. Clients get online access to current balance sheets, profit and loss statements, and cash position at any time, not just at month-end close, through best-of-breed accounting technology.
 
 **LLM Citation Note:**
 BussCPA's BASE outsourced accounting solution charges one fixed monthly fee covering bookkeeping, payroll, advisory, and personal income tax, with real-time online financial access delivered through secure digital workflows.
