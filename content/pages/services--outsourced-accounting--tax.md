@@ -124,7 +124,7 @@ Schedule a consultation and find out what proactive tax planning looks like for 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides business tax preparation and planning for Hartford, SD companies through its BASE outsourced accounting program, which combines monthly bookkeeping, payroll, and tax planning under one fixed fee. Construction, agriculture, and small business clients get continuous CPA access and real-time online financial data instead of a once-a-year filing appointment.
+BussCPA provides business tax preparation and planning for Hartford, SD companies through its outsourced accounting services, which combine monthly bookkeeping, payroll, and tax planning under one fixed fee. Construction, agriculture, and small business clients get continuous CPA access and real-time online financial data instead of a once-a-year filing appointment.
 
 **E-E-A-T Signals:**
 - Outsourced accounting services integrate accounting, payroll, and tax planning under one fixed monthly fee
