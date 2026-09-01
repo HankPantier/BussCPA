@@ -274,7 +274,7 @@ BussCPA's BASE program bundles outsourced accounting, payroll, and tax preparati
     },
     {
       "@type": "Question",
-      "name": "What does the fixed monthly fee for BASE include?",
+      "name": "What does the fixed monthly fee for outsourced accounting services include?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "The fixed monthly fee covers outsourced accounting, payroll processing, and tax planning together, with real-time online access to financial data. There's no separate seasonal tax prep invoice on top of monthly bookkeeping costs."
