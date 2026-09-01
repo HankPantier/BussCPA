@@ -151,7 +151,7 @@ A: Yes. BussCPA handles job costing, work-in-progress schedules, and equipment d
 **Q: How is farm tax preparation different from standard business tax filing?**
 A: Agricultural operations have seasonal payroll, grain and livestock sale timing, and equipment purchase cycles that don't match a typical business calendar. BussCPA builds tax planning around these timing differences instead of applying a one-size template.
 
-**Q: What does the fixed monthly fee for BASE include?**
+**Q: What does the fixed monthly fee for outsourced accounting services include?**
 A: The fixed monthly fee covers outsourced accounting, payroll processing, and tax planning together, with real-time online access to financial data. There's no separate seasonal tax prep invoice on top of monthly bookkeeping costs.
 
 **Q: Can BussCPA help decide between an LLC and S-corp election?**
