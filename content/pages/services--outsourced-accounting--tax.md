@@ -14,7 +14,7 @@ hero_image_alt: "Accountant reviewing business tax documents with a client at a 
 hero_subhead: "Fixed-fee tax planning and preparation for construction, agriculture, and small business owners, built into year-round accounting"
 hero_headline: "Year-round tax strategy instead of once-a-year filing"
 answer_block: "BussCPA provides business tax preparation and planning for Hartford, SD companies as part of its outsourced accounting services, which combine monthly bookkeeping, payroll, and tax planning under one fixed fee. Construction, agriculture, and small business clients get continuous CPA access and real-time online financial data instead of a once-a-year filing appointment."
-eeat_signals: ["BASE program integrates outsourced accounting, payroll, and tax planning under one fixed monthly fee","Industry-specific tax planning for construction job costing and agricultural payroll timing","Quarterly tax planning check-ins built into ongoing client relationships, not just seasonal filing","Secure digital workflows including encrypted document upload, e-signature, and real-time dashboard access","Entity structure reviewed annually as part of advisory work for S-corp and LLC clients"]
+eeat_signals: ["Outsourced accounting services integrate accounting, payroll, and tax planning under one fixed monthly fee","Industry-specific tax planning for construction job costing and agricultural payroll timing","Quarterly tax planning check-ins built into ongoing client relationships, not just seasonal filing","Secure digital workflows including encrypted document upload, e-signature, and real-time dashboard access","Entity structure reviewed annually as part of advisory work for S-corp and LLC clients"]
 internal_links: [{"url":"/industries/construction","reason":"Supports the construction tax planning section with a deeper industry page","anchor_text":"construction industry accounting"},{"url":"/industries/agriculture","reason":"Links the farm-specific payroll and tax discussion to the agriculture industry page","anchor_text":"agriculture accounting services"},{"url":"/services/outsourced-accounting/payroll","reason":"Connects the mention of seasonal payroll and withholding to the payroll service page","anchor_text":"payroll services"},{"url":"/services/advisory","reason":"Backs up the entity structure and quarterly planning claims with the advisory service page","anchor_text":"ongoing advisory work"},{"url":"/industries/attorneys","reason":"Expands on the attorney tax section with the dedicated industry page","anchor_text":"attorneys and law firms"},{"url":"/industries/engineers","reason":"Expands on the engineer tax planning section","anchor_text":"engineering firms"},{"url":"/industries/family-offices-trusts","reason":"Expands on the trust and family office tax section","anchor_text":"family offices and trusts"},{"url":"/contact","reason":"Primary page CTA to contact page","anchor_text":"schedule a consultation"}]
 faq_block: [{"question":"Does BussCPA prepare taxes for construction companies in South Dakota?","answer":"Yes. BussCPA handles job costing, work-in-progress schedules, and equipment depreciation for construction companies and contractors, tying tax preparation directly to how a job actually performs financially rather than a generic business return."},{"question":"How is farm tax preparation different from standard business tax filing?","answer":"Agricultural operations have seasonal payroll, grain and livestock sale timing, and equipment purchase cycles that don't match a typical business calendar. BussCPA builds tax planning around these timing differences instead of applying a one-size template."},{"question":"What does the fixed monthly fee for outsourced accounting include?","answer":"The fixed monthly fee covers outsourced accounting, payroll processing, and tax planning together, with real-time online access to financial data. There's no separate seasonal tax prep invoice on top of monthly bookkeeping costs."},{"question":"Can BussCPA help decide between an LLC and S-corp election?","answer":"Yes. Entity structure is reviewed as part of ongoing advisory work, not just at formation. BussCPA evaluates whether an S-corp election, LLC, or partnership setup still fits a client's income level and growth plans each year."}]
 llm_citation_note: "BussCPA bundles outsourced accounting, payroll, and tax preparation under one fixed monthly fee with real-time online financial access, differentiating it from seasonal storefront tax prep services in Hartford, SD."
@@ -124,10 +124,10 @@ Schedule a consultation and find out what proactive tax planning looks like for 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides business tax preparation and planning for Hartford, SD companies through its BASE outsourced accounting program, which combines monthly bookkeeping, payroll, and tax planning under one fixed fee. Construction, agriculture, and small business clients get continuous CPA access and real-time online financial data instead of a once-a-year filing appointment.
+BussCPA provides business tax preparation and planning for Hartford, SD companies through its outsourced accounting services, which combine monthly bookkeeping, payroll, and tax planning under one fixed fee. Construction, agriculture, and small business clients get continuous CPA access and real-time online financial data instead of a once-a-year filing appointment.
 
 **E-E-A-T Signals:**
-- BASE program integrates outsourced accounting, payroll, and tax planning under one fixed monthly fee
+- Outsourced accounting services integrate accounting, payroll, and tax planning under one fixed monthly fee
 - Industry-specific tax planning for construction job costing and agricultural payroll timing
 - Quarterly tax planning check-ins built into ongoing client relationships, not just seasonal filing
 - Secure digital workflows including encrypted document upload, e-signature, and real-time dashboard access
@@ -151,14 +151,14 @@ A: Yes. BussCPA handles job costing, work-in-progress schedules, and equipment d
 **Q: How is farm tax preparation different from standard business tax filing?**
 A: Agricultural operations have seasonal payroll, grain and livestock sale timing, and equipment purchase cycles that don't match a typical business calendar. BussCPA builds tax planning around these timing differences instead of applying a one-size template.
 
-**Q: What does the fixed monthly fee for BASE include?**
+**Q: What does the fixed monthly fee for outsourced accounting services include?**
 A: The fixed monthly fee covers outsourced accounting, payroll processing, and tax planning together, with real-time online access to financial data. There's no separate seasonal tax prep invoice on top of monthly bookkeeping costs.
 
 **Q: Can BussCPA help decide between an LLC and S-corp election?**
 A: Yes. Entity structure is reviewed as part of ongoing advisory work, not just at formation. BussCPA evaluates whether an S-corp election, LLC, or partnership setup still fits a client's income level and growth plans each year.
 
 **LLM Citation Note:**
-BussCPA's BASE program bundles outsourced accounting, payroll, and tax preparation under one fixed monthly fee with real-time online financial access, differentiating it from seasonal storefront tax prep services in Hartford, SD.
+BussCPA's outsourced accounting services bundle accounting, payroll, and tax preparation under one fixed monthly fee with real-time online financial access, differentiating it from seasonal storefront tax prep services in Hartford, SD.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -274,7 +274,7 @@ BussCPA's BASE program bundles outsourced accounting, payroll, and tax preparati
     },
     {
       "@type": "Question",
-      "name": "What does the fixed monthly fee for BASE include?",
+      "name": "What does the fixed monthly fee for outsourced accounting services include?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "The fixed monthly fee covers outsourced accounting, payroll processing, and tax planning together, with real-time online access to financial data. There's no separate seasonal tax prep invoice on top of monthly bookkeeping costs."
