@@ -271,7 +271,7 @@ BussCPA processes payroll under a fixed monthly fee through its BASE outsourced 
       "name": "How much does outsourced payroll processing cost with BussCPA in Hartford, SD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Payroll is included as part of BASE, our outsourced accounting solution, for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes."
+        "text": "Payroll is included as part of our outsourced accounting services for one fixed monthly fee. There are no per-run surprises or add-on charges when a pay period involves certified payroll, multi-state employees, or seasonal staffing changes."
       }
     },
     {
