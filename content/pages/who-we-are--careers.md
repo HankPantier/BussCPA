@@ -66,7 +66,7 @@ Prepare individual and business returns for households and niche clients, includ
 ### Advisory Associate
 icon: ChartLine
 
-Work alongside business owners on budgeting, tax strategy, and financial decisions as part of the BASE outsourced accounting model. This path suits accountants who want less compliance grind and more strategy conversation.
+Work alongside business owners on budgeting, tax strategy, and financial decisions as part of the outsourced accounting services model. This path suits accountants who want less compliance grind and more strategy conversation.
 
 ### Accounting Intern
 icon: GraduationCap
