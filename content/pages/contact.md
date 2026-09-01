@@ -77,7 +77,7 @@ Three service lines cover most of what Hartford, SD businesses and households as
 ### Outsourced Accounting
 icon: Building2
 
-A full outsourced accounting department for a fixed monthly fee. Bookkeeping, payroll, and financial reporting run through secure digital systems so you see current numbers instead of last quarter's guesswork. [Learn more](/services/outsourced-accounting)
+A full outsourced accounting services department for a fixed monthly fee. Bookkeeping, payroll, and financial reporting run through secure digital systems so you see current numbers instead of last quarter's guesswork. [Learn more](/services/outsourced-accounting)
 
 ### Advisory
 icon: Lightbulb
