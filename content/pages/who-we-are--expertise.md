@@ -114,7 +114,7 @@ BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Publi
 - trust accounting for attorneys → /industries/attorneys — Connects the attorney advisory card to its dedicated industry page
 - engineering firm accounting → /industries/engineers — Connects the engineer advisory card to its dedicated industry page
 - family office and trust reporting → /industries/family-offices-trusts — Links the family office card to more detail on that niche
-- BASE outsourced accounting model → /services/outsourced-accounting — Links the technology section to the core service page describing BASE
+- outsourced accounting services → /services/outsourced-accounting — Links the technology section to the core service page describing our outsourced accounting services
 - Schedule a consultation → /contact — Closes the page with the required primary CTA
 
 **FAQ Block:**
