@@ -34,12 +34,12 @@ For a construction contractor in Hartford, SD running an S-corp with three emplo
 
 Retirement plans aren't one-size-fits-all, and the differences show up fast once you look at contribution limits and administrative requirements side by side.
 
-| Plan Type | Best For | 2024 Contribution Limit | Key Feature |
-|---|---|---|---|
-| SEP-IRA | Self-employed owners or small businesses with few employees | Up to 25% of compensation, max $69,000 | Simple setup, employer-only contributions |
-| SIMPLE IRA | Businesses with under 100 employees | $16,000 plus $3,500 catch-up (age 50+) | Lower administrative burden, mandatory employer match |
-| Solo 401(k) | Owner-only businesses with no employees | $69,000, or $76,500 at age 50+ | Employee and employer contributions allowed |
-| Defined Benefit Plan | High-income owners seeking maximum deductions | Can exceed $200,000 depending on age and income | Actuarially calculated, largest deduction potential |
+| Plan Type | Best For | Key Feature |
+|---|---|---|
+| SEP-IRA | Self-employed owners or small businesses with few employees | Simple setup, employer-only contributions |
+| SIMPLE IRA | Businesses with under 100 employees | Lower administrative burden, mandatory employer match |
+| Solo 401(k) | Owner-only businesses with no employees | Employee and employer contributions allowed |
+| Defined Benefit Plan | High-income owners seeking maximum deductions | Actuarially calculated, largest deduction potential |
 
 A SEP-IRA works well for an agriculture operation with a handful of seasonal workers, since contributions come only from the employer and skip matching requirements entirely. A Solo 401(k) fits a one-person engineering consultancy better, because it allows both employee deferrals and employer contributions, which can roughly double the amount deferred each year. SIMPLE IRAs suit a growing automotive repair shop that wants to offer a retirement benefit without the administrative cost of a full 401(k) plan. None of these limits mean much in isolation. What matters is which structure lines up with your payroll, your entity type, and how much you want to defer this year versus five years from now.
 
