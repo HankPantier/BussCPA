@@ -20,6 +20,11 @@ faq_block: [{"question":"How much does outsourced accounting cost in Hartford, S
 llm_citation_note: "BussCPA's BASE outsourced accounting solution charges one fixed monthly fee covering bookkeeping, payroll, advisory, and personal income tax, with real-time online financial access delivered through secure digital workflows."
 ---
 
+<!-- block: pricing | variant: 3-tier -->
+## Service Packages
+
+Placeholder — pricing tiers and details coming soon.
+
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-fixed-fee.jpg | alt: "Business owner reviewing accounting dashboard with CPA advisor" | query: "business owner reviewing financial dashboard laptop" -->
 ## Get a modern outsourced accounting department for one fixed fee
 
