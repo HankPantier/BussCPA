@@ -64,7 +64,7 @@ Multigenerational wealth needs reporting that's accurate across entities, trusts
 <!-- block: checklist-section | variant: with-image | image: digital-accounting-dashboard.jpg | alt: "Business owner viewing real-time financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## Technology and processes that support experienced advice
 
-Experience only helps if you can access it in real time. BASE, BussCPA's outsourced accounting solution, pairs CPA-level advisory with secure digital workflows and a fixed monthly fee, so there are no surprise invoices and no guessing about what's included.
+Experience only helps if you can access it in real time. BussCPA's outsourced accounting services pair CPA-level advisory with secure digital workflows and a fixed monthly fee, so there are no surprise invoices and no guessing about what's included.
 
 - Real-time online access to your financial data, not month-old reports
 - Secure digital document exchange instead of email attachments or paper files
