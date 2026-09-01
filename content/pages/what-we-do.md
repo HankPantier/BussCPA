@@ -30,7 +30,7 @@ Hartford SD business owners in construction, agriculture, and dozens of other tr
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard-review.jpg | alt: "Business owner reviewing real-time financial data on a laptop dashboard" | query: "business owner reviewing financial dashboard laptop" -->
 ## Outsourced accounting that gives you real-time visibility
 
-Bookkeeping shouldn't feel like a black box. BASE, our end-to-end outsourced accounting service, replaces the shoebox-of-receipts approach with secure digital workflows and a client portal you can log into any time you want an answer.
+Bookkeeping shouldn't feel like a black box. Our outsourced accounting services replace the shoebox-of-receipts approach with secure digital workflows and a client portal you can log into any time you want an answer.
 
 Every transaction is recorded, categorized, and reconciled on a schedule, not scrambled together weeks after the fact. You get real-time online access to your books, so a question about cash on hand or last month's job costs gets answered by logging in, not by waiting on a callback.
 
