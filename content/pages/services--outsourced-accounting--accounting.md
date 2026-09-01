@@ -288,7 +288,7 @@ BussCPA offers fixed monthly fee outsourced accounting with a secure client port
       "name": "How much does BussCPA's outsourced accounting service cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BASE is priced as a fixed monthly fee rather than hourly billing, so your accounting cost stays predictable regardless of transaction volume or questions asked. Exact pricing depends on business size and complexity, set during an initial consultation."
+        "text": "Outsourced accounting services are priced as a fixed monthly fee rather than hourly billing, so your accounting cost stays predictable regardless of transaction volume or questions asked. Exact pricing depends on business size and complexity, set during an initial consultation."
       }
     }
   ]
