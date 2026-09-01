@@ -77,7 +77,7 @@ Compare that to a traditional CPA firm billing by the hour, or a DIY setup where
 <!-- block: feature-grid | variant: 3-col -->
 ## Access your financials anytime with secure digital tools
 
-A lot of remote bookkeeping services still mean emailing spreadsheets back and forth and waiting for a callback. That's not how BASE works.
+A lot of remote bookkeeping services still mean emailing spreadsheets back and forth and waiting for a callback. That's not how our outsourced accounting services work.
 
 ### Real-time online access
 icon: Globe
