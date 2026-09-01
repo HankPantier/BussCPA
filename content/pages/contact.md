@@ -103,8 +103,24 @@ Traditional tax preparers close their doors after April. A part-time bookkeeper 
 <!-- block: content-prose -->
 ## How to Reach Us
 
-<!-- block: content-prose -->
-## Where to Find Us
+<!-- block: content-cards | variant: 2-col -->
+## Our Offices
+
+### Hartford Office
+
+800 S. Western Avenue, P.O. Box 487
+Hartford, SD 57033
+
+Phone: 605-789-7555
+Email: info@busscpa.us
+
+### Sioux Falls Office
+
+4700 W 26th St
+Sioux Falls, SD 57105
+
+Phone: 605-789-7555
+Email: info@busscpa.us
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Talk with an accountant who knows your business
