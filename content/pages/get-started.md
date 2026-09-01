@@ -62,7 +62,7 @@ Multiple entities, beneficiaries, and reporting obligations call for a firm that
 <!-- block: checklist-section | variant: with-image | image: fixed-fee-scope-of-services.jpg | alt: "Accountant explaining a monthly service invoice to a client" | query: "accountant client meeting reviewing invoice" -->
 ## Know exactly what you'll pay and what you'll get
 
-BASE runs on a fixed monthly fee, set after we understand your books, transaction volume, and reporting needs. No hourly surprises, no year-end invoice shock. You'll know the number before you sign anything, and it stays the number.
+Our outsourced accounting services run on a fixed monthly fee, set after we understand your books, transaction volume, and reporting needs. No hourly surprises, no year-end invoice shock. You'll know the number before you sign anything, and it stays the number.
 
 Here's what's included:
 
