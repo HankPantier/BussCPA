@@ -91,7 +91,7 @@ A: Yes. BussCPA provides trust accounting, IOLTA reconciliation, and consolidate
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "Client and CPA shaking hands after a consultation meeting" | query: "business handshake accountant office meeting" -->
 ## Put our experience to work for your business or family
 
-Credentials and industry experience only matter if they show up in the advice you actually get. Whether you're running a construction crew, managing a farm operation, or handling a family trust, BussCPA brings CPA licensure and hands-on niche experience to every conversation. Schedule a consultation and see how the BASE outsourced accounting model works for a business or family like yours.
+Credentials and industry experience only matter if they show up in the advice you actually get. Whether you're running a construction crew, managing a farm operation, or handling a family trust, BussCPA brings CPA licensure and hands-on niche experience to every conversation. Schedule a consultation and see how our outsourced accounting services work for a business or family like yours.
 
 [Schedule a consultation](/contact)
 
