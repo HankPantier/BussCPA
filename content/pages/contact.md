@@ -64,7 +64,7 @@ Contacting an accounting firm for the first time shouldn't feel like a sales pit
 A real member of the BussCPA team asks about your business, your industry, and what's currently frustrating you about your books or your tax situation.
 
 ### We map out what you need
-Whether that's outsourced accounting on the BASE program, advisory work, or personal income tax prep, we outline what a fit looks like and what it costs.
+Whether that's outsourced accounting services, advisory work, or personal income tax prep, we outline what a fit looks like and what it costs.
 
 ### You get a clear next step
 No pressure, no multi-week wait. You'll know what the engagement looks like and when work would start.
