@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA's outsourced accounting services provide a fixed-fee
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-team-hartford.jpg | alt: "Accountant and business owner reviewing financial reports on a laptop" | query: "accountant business owner reviewing laptop" -->
 ## A fixed-fee outsourced accounting department for your business
 
-Hiring a full-time bookkeeper costs a Hartford business owner salary, benefits, and training time before a single invoice gets entered. BussCPA's outsourced accounting solution, called BASE, replaces that hire with a full accounting department for one predictable monthly fee.
+Hiring a full-time bookkeeper costs a Hartford business owner salary, benefits, and training time before a single invoice gets entered. BussCPA's outsourced accounting services replace that hire with a full accounting department for one predictable monthly fee.
 
 You get bookkeeping, payroll support, reconciliations, and financial reporting handled through secure digital workflows, with real-time online access to your numbers whenever you need them. No spreadsheets emailed back and forth. No surprise invoices at year end. Just a fixed fee and a clear view of where your business stands, every month, from a firm that answers the phone when you call.
 
