@@ -116,7 +116,7 @@ Talk to BussCPA about outsourced accounting built for construction, agriculture,
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced accounting in Hartford, SD through BASE, a fixed-fee service that keeps books reconciled and audit-ready every month. It combines a secure online portal with real-time financial access for construction, agriculture, attorney, engineering, and family office clients.
+BussCPA provides outsourced accounting in Hartford, SD through a fixed-fee service that keeps books reconciled and audit-ready every month. It combines a secure online portal with real-time financial access for construction, agriculture, attorney, engineering, and family office clients.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee outsourced accounting solution (BASE) with no hourly billing surprises
