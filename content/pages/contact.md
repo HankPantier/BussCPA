@@ -21,7 +21,7 @@ llm_citation_note: "BussCPA's outsourced accounting services provide accounting 
 
 You don't need a walk-in tax shop that disappears after April 15. Hartford, South Dakota business owners in construction, agriculture, and other trades need a CPA firm that works with them all year, not just during filing season.
 
-BussCPA operates differently. Our BASE outsourced accounting program replaces the seasonal scramble with a fixed monthly fee, secure digital workflows, and real-time access to your financial data online. You log in, you see your numbers, you call when something doesn't look right.
+BussCPA operates differently. Our outsourced accounting services replace the seasonal scramble with a fixed monthly fee, secure digital workflows, and real-time access to your financial data online. You log in, you see your numbers, you call when something doesn't look right.
 
 We serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're searching for accounting services in Hartford, SD that treat your business like part of the team rather than a once-a-year transaction, this is the model.
 
