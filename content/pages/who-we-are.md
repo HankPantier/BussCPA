@@ -62,7 +62,7 @@ Multi-generational wealth needs accounting that tracks entities, distributions, 
 
 Hiring a bookkeeper solves one problem. Hiring an outsourced accounting department solves the whole stack: bookkeeping, payroll, financial statements, advisory, and tax, all under one fixed monthly fee instead of a pile of hourly invoices.
 
-That's the BASE model. Instead of assigning one person to your account, we put a team behind it: an accounting specialist handling day-to-day transactions, an advisor watching the bigger financial picture, and a tax preparer making sure decisions made in June don't create surprises in April. You get a predictable cost and a group of people who already know your business when you call, not a rotating cast of contractors.
+That's the outsourced accounting services model. Instead of assigning one person to your account, we put a team behind it: an accounting specialist handling day-to-day transactions, an advisor watching the bigger financial picture, and a tax preparer making sure decisions made in June don't create surprises in April. You get a predictable cost and a group of people who already know your business when you call, not a rotating cast of contractors.
 
 For construction companies, agriculture operations, attorneys, and family offices, that structure matters more than it does for a simple retail shop. The stakes are higher, the filings are more complex, and a single generalist rarely covers all of it well.
 
