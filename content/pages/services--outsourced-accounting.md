@@ -29,7 +29,7 @@ Hiring a full-time bookkeeper costs a Hartford business owner salary, benefits, 
 
 You get bookkeeping, payroll support, reconciliations, and financial reporting handled through secure digital workflows, with real-time online access to your numbers whenever you need them. No spreadsheets emailed back and forth. No surprise invoices at year end. Just a fixed fee and a clear view of where your business stands, every month, from a firm that answers the phone when you call.
 
-Whether you run an automotive shop, a construction crew, a farm operation, or a professional practice, BASE gives you the reporting a controller would provide without the overhead of hiring one.
+Whether you run an automotive shop, a construction crew, a farm operation, or a professional practice, our outsourced accounting services give you the reporting a controller would provide without the overhead of hiring one.
 
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing an online financial dashboard on a tablet" | query: "business owner tablet financial dashboard" -->
 ## What is included in outsourced accounting
