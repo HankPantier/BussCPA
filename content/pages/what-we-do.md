@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA's outsourced accounting solution combines a fixed mo
 
 Most CPA firms show up once a year, hand you a tax return, and disappear until next April. BussCPA works differently. We built BASE, our outsourced accounting solution, to function as your accounting department year-round, not a once-a-year appointment.
 
-Hartford SD business owners in construction, agriculture, and dozens of other trades need more than a tax preparer. They need someone answering questions in March as readily as in April. BASE gives you a fixed monthly fee, secure digital workflows, and real-time access to your financial data, so you always know where your business stands. Whether you run a contracting crew, manage a farm operation, or need personal tax help for your household, this page walks through exactly how BussCPA supports you.
+Hartford SD business owners in construction, agriculture, and dozens of other trades need more than a tax preparer. They need someone answering questions in March as readily as in April. Our outsourced accounting services give you a fixed monthly fee, secure digital workflows, and real-time access to your financial data, so you always know where your business stands. Whether you run a contracting crew, manage a farm operation, or need personal tax help for your household, this page walks through exactly how BussCPA supports you.
 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard-review.jpg | alt: "Business owner reviewing real-time financial data on a laptop dashboard" | query: "business owner reviewing financial dashboard laptop" -->
 ## Outsourced accounting that gives you real-time visibility
