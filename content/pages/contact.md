@@ -100,10 +100,10 @@ Traditional tax preparers close their doors after April. A part-time bookkeeper 
 - Technology built for a modern client experience, not a filing cabinet
 - Year-round advisory instead of a once-a-year meeting
 
-<!-- block: contact-info -->
+<!-- block: content-prose -->
 ## How to Reach Us
 
-<!-- block: map -->
+<!-- block: content-prose -->
 ## Where to Find Us
 
 <!-- block: faq-accordion -->
