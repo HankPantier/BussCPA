@@ -119,7 +119,7 @@ Talk to BussCPA about outsourced accounting built for construction, agriculture,
 BussCPA provides outsourced accounting in Hartford, SD through a fixed-fee service that keeps books reconciled and audit-ready every month. It combines a secure online portal with real-time financial access for construction, agriculture, attorney, engineering, and family office clients.
 
 **E-E-A-T Signals:**
-- Fixed monthly fee outsourced accounting solution (BASE) with no hourly billing surprises
+- Fixed monthly fee outsourced accounting services with no hourly billing surprises
 - Secure digital client portal offering 24/7 real-time access to financial data
 - Specialized job costing and WIP schedule support for construction and contracting clients
 - Agriculture-specific payroll and seasonal cash flow handling for farm operations
