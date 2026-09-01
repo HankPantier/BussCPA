@@ -256,7 +256,7 @@ BussCPA offers fixed monthly fee outsourced accounting with a secure client port
       "name": "What does outsourced accounting in Hartford, SD include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BussCPA's outsourced accounting solution, BASE, includes monthly bookkeeping, bank reconciliation, financial statement preparation, and secure online access to your data. It's a fixed monthly fee service, so you get a full accounting function without hiring an in-house controller or bookkeeper."
+        "text": "BussCPA's outsourced accounting services include monthly bookkeeping, bank reconciliation, financial statement preparation, and secure online access to your data. It's a fixed monthly fee service, so you get a full accounting function without hiring an in-house controller or bookkeeper."
       }
     },
     {
