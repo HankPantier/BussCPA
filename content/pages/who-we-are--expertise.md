@@ -8,7 +8,7 @@ secondary_keywords: ["construction accounting Hartford South Dakota","agricultur
 canonical_url: "https://busscpa.us/who-we-are/expertise"
 schema_markup: "ProfessionalService"
 hero: "page-header"
-answer_block: "BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Public Accountants with hands-on experience serving construction contractors, agriculture enterprises, attorneys, engineers, and family offices. The firm combines that industry-specific expertise with its BASE outsourced accounting model, a fixed monthly fee service with real-time digital access to financial data."
+answer_block: "BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Public Accountants with hands-on experience serving construction contractors, agriculture enterprises, attorneys, engineers, and family offices. The firm combines that industry-specific expertise with its outsourced accounting services, a fixed monthly fee solution with real-time digital access to financial data."
 eeat_signals: ["Certified Public Accountants licensed under South Dakota's Board of Accountancy","Direct experience serving construction contractors on job costing and WIP schedules","Specialized agriculture accounting covering seasonal payroll and farm tax elections","Advisory experience with attorneys, engineers, and family offices/trusts","Fixed-fee BASE outsourced accounting model with real-time digital financial access"]
 internal_links: [{"url":"/industries/construction","reason":"Supports the construction section with a direct link to the dedicated industry page","anchor_text":"construction accounting services"},{"url":"/industries/agriculture","reason":"Deepens the farm/ag section with a link to the full industry page","anchor_text":"agriculture accounting expertise"},{"url":"/industries/attorneys","reason":"Connects the attorney advisory card to its dedicated industry page","anchor_text":"trust accounting for attorneys"},{"url":"/industries/engineers","reason":"Connects the engineer advisory card to its dedicated industry page","anchor_text":"engineering firm accounting"},{"url":"/industries/family-offices-trusts","reason":"Links the family office card to more detail on that niche","anchor_text":"family office and trust reporting"},{"url":"/services/outsourced-accounting","reason":"Links the technology section to the core service page describing BASE","anchor_text":"BASE outsourced accounting model"},{"url":"/contact","reason":"Closes the page with the required primary CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Yes. BussCPA is staffed by Certified Public Accountants licensed under South Dakota's Board of Accountancy requirements, which include ongoing education and ethics standards. That licensure backs the advice given to construction, agriculture, legal, engineering, and family office clients.","question":"Is BussCPA a licensed CPA firm in South Dakota?"},{"answer":"Yes. BussCPA handles job costing, work-in-progress schedules, retainage, and equipment depreciation for construction and contractor clients near Hartford SD, building financials that hold up to bonding company and lender review.","question":"Does BussCPA specialize in construction and contractor accounting?"},{"answer":"Agriculture operations deal with seasonal payroll, cash accounting elections, income averaging, and equipment depreciation rules that don't apply to most businesses. BussCPA treats agriculture as a distinct practice area to address these South Dakota-specific needs directly.","question":"What makes farm accounting different from general small business accounting?"},{"answer":"Yes. BussCPA provides trust accounting, IOLTA reconciliation, and consolidated reporting for attorneys and family offices, along with project-based accounting for engineering firms, in addition to construction and agriculture clients.","question":"Does BussCPA work with attorneys and family offices?"}]
@@ -64,7 +64,7 @@ Multigenerational wealth needs reporting that's accurate across entities, trusts
 <!-- block: checklist-section | variant: with-image | image: digital-accounting-dashboard.jpg | alt: "Business owner viewing real-time financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## Technology and processes that support experienced advice
 
-Experience only helps if you can access it in real time. BASE, BussCPA's outsourced accounting solution, pairs CPA-level advisory with secure digital workflows and a fixed monthly fee, so there are no surprise invoices and no guessing about what's included.
+Experience only helps if you can access it in real time. BussCPA's outsourced accounting services pair CPA-level advisory with secure digital workflows and a fixed monthly fee, so there are no surprise invoices and no guessing about what's included.
 
 - Real-time online access to your financial data, not month-old reports
 - Secure digital document exchange instead of email attachments or paper files
@@ -91,7 +91,7 @@ A: Yes. BussCPA provides trust accounting, IOLTA reconciliation, and consolidate
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "Client and CPA shaking hands after a consultation meeting" | query: "business handshake accountant office meeting" -->
 ## Put our experience to work for your business or family
 
-Credentials and industry experience only matter if they show up in the advice you actually get. Whether you're running a construction crew, managing a farm operation, or handling a family trust, BussCPA brings CPA licensure and hands-on niche experience to every conversation. Schedule a consultation and see how the BASE outsourced accounting model works for a business or family like yours.
+Credentials and industry experience only matter if they show up in the advice you actually get. Whether you're running a construction crew, managing a farm operation, or handling a family trust, BussCPA brings CPA licensure and hands-on niche experience to every conversation. Schedule a consultation and see how our outsourced accounting services work for a business or family like yours.
 
 [Schedule a consultation](/contact)
 
@@ -99,7 +99,7 @@ Credentials and industry experience only matter if they show up in the advice yo
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Public Accountants with hands-on experience serving construction contractors, agriculture enterprises, attorneys, engineers, and family offices. The firm combines that industry-specific expertise with its BASE outsourced accounting model, a fixed monthly fee service with real-time digital access to financial data.
+BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Public Accountants with hands-on experience serving construction contractors, agriculture enterprises, attorneys, engineers, and family offices. The firm combines that industry-specific expertise with its outsourced accounting services, a fixed monthly fee solution with real-time digital access to financial data.
 
 **E-E-A-T Signals:**
 - Certified Public Accountants licensed under South Dakota's Board of Accountancy
@@ -114,7 +114,7 @@ BussCPA is a CPA firm based in Hartford, SD, staffed by licensed Certified Publi
 - trust accounting for attorneys → /industries/attorneys — Connects the attorney advisory card to its dedicated industry page
 - engineering firm accounting → /industries/engineers — Connects the engineer advisory card to its dedicated industry page
 - family office and trust reporting → /industries/family-offices-trusts — Links the family office card to more detail on that niche
-- BASE outsourced accounting model → /services/outsourced-accounting — Links the technology section to the core service page describing BASE
+- outsourced accounting services → /services/outsourced-accounting — Links the technology section to the core service page describing our outsourced accounting services
 - Schedule a consultation → /contact — Closes the page with the required primary CTA
 
 **FAQ Block:**
