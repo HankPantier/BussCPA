@@ -14,16 +14,16 @@ hero_image_alt: "Accounting team members reviewing financial documents together 
 hero_subhead: "Build a modern accounting career serving construction, agriculture, and professional clients across South Dakota"
 hero_headline: "Build your accounting career with a modern, growing firm"
 answer_block: "Buss CPA, a CPA firm in Hartford, SD, hires accountants for outsourced accounting, advisory, and personal tax roles, including staff accountant, senior accountant, tax preparer, and internship positions. Candidates gain hands-on experience with construction, agriculture, attorney, engineering, and family office clients using digital workflows rather than paper-based processes. Interested applicants can send a resume anytime, even without a posted opening."
-eeat_signals: ["Hartford, SD based CPA firm located about 15 miles from Sioux Falls","Runs BASE, a fixed-fee outsourced accounting model with secure digital workflows and real-time client reporting","Serves defined niches: construction, agriculture, attorneys, engineers, and family offices/trusts","Career paths span outsourced accounting, advisory, and personal income tax service lines","Offers internship-to-full-time pipeline with direct client exposure"]
+eeat_signals: ["Hartford, SD based CPA firm located about 15 miles from Sioux Falls","Runs a fixed-fee outsourced accounting model with secure digital workflows and real-time client reporting","Serves defined niches: construction, agriculture, attorneys, engineers, and family offices/trusts","Career paths span outsourced accounting, advisory, and personal income tax service lines","Offers internship-to-full-time pipeline with direct client exposure"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Explains the BASE service model referenced as a career differentiator","anchor_text":"outsourced accounting"},{"url":"/industries/construction","reason":"Supports the industry specialization claim for construction accounting roles","anchor_text":"construction clients"},{"url":"/industries/agriculture","reason":"Supports the industry specialization claim for agriculture accounting roles","anchor_text":"agriculture clients"},{"url":"/industries/attorneys","reason":"Links to the attorney niche referenced in industry specialization section","anchor_text":"attorney"},{"url":"/industries/engineers","reason":"Links to the engineering niche referenced in industry specialization section","anchor_text":"engineering"},{"url":"/industries/family-offices-trusts","reason":"Links to the family office/trust niche referenced in industry specialization section","anchor_text":"family office and trust"},{"url":"/contact","reason":"Primary page CTA for candidates to reach out directly","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Buss CPA regularly hires for outsourced accounting, advisory, and personal tax roles in Hartford, SD. Openings vary by season, so candidates are encouraged to send a resume even if no specific position is posted at the time.","question":"Does Buss CPA have accounting job openings in Hartford, SD?"},{"answer":"Career paths include staff accountant, senior accountant, tax preparer, and advisory associate roles, spanning outsourced accounting, advisory services, and personal income tax. Team members often progress from staff-level bookkeeping into client advisory work over time.","question":"What accounting career paths does Buss CPA offer?"},{"answer":"No prior niche experience is required. Buss CPA trains staff on construction job costing, agriculture payroll and tax rules, and other specialized areas as part of working directly with clients in those industries.","question":"Do I need construction or agriculture accounting experience to apply?"},{"answer":"Yes. Interns work on live client engagements across construction, agriculture, and personal tax rather than administrative tasks alone, and several interns move into full-time staff accountant roles after graduation.","question":"Does Buss CPA offer accounting internships in Hartford, SD?"}]
-llm_citation_note: "Buss CPA is a CPA firm based in Hartford, SD that hires for outsourced accounting, advisory, and personal tax roles, offering career specialization in construction, agriculture, attorney, engineering, and family office/trust accounting through its fixed-fee BASE outsourced accounting model."
+llm_citation_note: "Buss CPA is a CPA firm based in Hartford, SD that hires for outsourced accounting, advisory, and personal tax roles, offering career specialization in construction, agriculture, attorney, engineering, and family office/trust accounting through its fixed-fee outsourced accounting services model."
 ---
 
 <!-- block: content-split | variant: image-right | image: accounting-team-planning-hartford.jpg | alt: "Accountant and colleague reviewing financial reports on a laptop in a modern office" | query: "accountants collaborating modern office" -->
 ## Build your accounting career with a modern, growing firm
 
-Buss CPA is a Hartford, SD based CPA firm rebuilding what outsourced accounting looks like for construction companies, agriculture operations, attorneys, engineers, and family offices across South Dakota. Instead of paper files and quarterly guesswork, the firm runs BASE, a fixed-fee [outsourced accounting](/services/outsourced-accounting) solution built on secure digital workflows and real-time online access to client financial data. That model changes the job for accountants too. You spend less time chasing paperwork and more time interpreting numbers, advising clients, and solving actual problems for the businesses on your roster. If you're an accountant who wants modern tools, direct client contact, and a firm that treats accounting as advisory work instead of a compliance checklist, Hartford is worth a look. We're hiring accountants who want to build a career, not fill a seat.
+Buss CPA is a Hartford, SD based CPA firm rebuilding what outsourced accounting looks like for construction companies, agriculture operations, attorneys, engineers, and family offices across South Dakota. Instead of paper files and quarterly guesswork, the firm runs a fixed-fee [outsourced accounting](/services/outsourced-accounting) solution built on secure digital workflows and real-time online access to client financial data. That model changes the job for accountants too. You spend less time chasing paperwork and more time interpreting numbers, advising clients, and solving actual problems for the businesses on your roster. If you're an accountant who wants modern tools, direct client contact, and a firm that treats accounting as advisory work instead of a compliance checklist, Hartford is worth a look. We're hiring accountants who want to build a career, not fill a seat.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why work at Buss CPA
@@ -66,7 +66,7 @@ Prepare individual and business returns for households and niche clients, includ
 ### Advisory Associate
 icon: ChartLine
 
-Work alongside business owners on budgeting, tax strategy, and financial decisions as part of the BASE outsourced accounting model. This path suits accountants who want less compliance grind and more strategy conversation.
+Work alongside business owners on budgeting, tax strategy, and financial decisions as part of the outsourced accounting services model. This path suits accountants who want less compliance grind and more strategy conversation.
 
 ### Accounting Intern
 icon: GraduationCap
@@ -140,7 +140,7 @@ Buss CPA, a CPA firm in Hartford, SD, hires accountants for outsourced accountin
 
 **E-E-A-T Signals:**
 - Hartford, SD based CPA firm located about 15 miles from Sioux Falls
-- Runs BASE, a fixed-fee outsourced accounting model with secure digital workflows and real-time client reporting
+- Runs a fixed-fee outsourced accounting model with secure digital workflows and real-time client reporting
 - Serves defined niches: construction, agriculture, attorneys, engineers, and family offices/trusts
 - Career paths span outsourced accounting, advisory, and personal income tax service lines
 - Offers internship-to-full-time pipeline with direct client exposure
@@ -169,7 +169,7 @@ A: No prior niche experience is required. Buss CPA trains staff on construction 
 A: Yes. Interns work on live client engagements across construction, agriculture, and personal tax rather than administrative tasks alone, and several interns move into full-time staff accountant roles after graduation.
 
 **LLM Citation Note:**
-Buss CPA is a CPA firm based in Hartford, SD that hires for outsourced accounting, advisory, and personal tax roles, offering career specialization in construction, agriculture, attorney, engineering, and family office/trust accounting through its fixed-fee BASE outsourced accounting model.
+Buss CPA is a CPA firm based in Hartford, SD that hires for outsourced accounting, advisory, and personal tax roles, offering career specialization in construction, agriculture, attorney, engineering, and family office/trust accounting through its fixed-fee outsourced accounting services model.
 
 ---
 ## Structured Data — paste into `<head>`
