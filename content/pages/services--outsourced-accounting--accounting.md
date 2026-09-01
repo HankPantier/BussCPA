@@ -138,7 +138,7 @@ BussCPA provides outsourced accounting in Hartford, SD through a fixed-fee servi
 **FAQ Block:**
 
 **Q: What does outsourced accounting in Hartford, SD include?**
-A: BussCPA's outsourced accounting solution, BASE, includes monthly bookkeeping, bank reconciliation, financial statement preparation, and secure online access to your data. It's a fixed monthly fee service, so you get a full accounting function without hiring an in-house controller or bookkeeper.
+A: BussCPA's outsourced accounting services include monthly bookkeeping, bank reconciliation, financial statement preparation, and secure online access to your data. It's a fixed monthly fee service, so you get a full accounting function without hiring an in-house controller or bookkeeper.
 
 **Q: How is audit-ready bookkeeping different from regular bookkeeping?**
 A: Audit-ready bookkeeping means every transaction is reconciled and documented monthly, not cleaned up once a year. BussCPA maintains that standard continuously so financial statements hold up immediately when a lender, bonding company, or tax authority asks to review them.
