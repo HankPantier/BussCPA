@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA's BASE outsourced accounting solution charges one fi
 
 Hiring a full-time controller costs a Hartford business more than salary. Add benefits, software licenses, training, and turnover risk, and the math rarely works for a company under a few million in revenue. Piecing together QuickBooks, a part-time bookkeeper, and a tax preparer who only shows up in March creates gaps nobody catches until it's expensive.
 
-BASE, our outsourced accounting solution, replaces all of that with one team and one predictable invoice. You get bookkeeping, payroll, reporting, and advisory support delivered through secure digital workflows, without adding a single line to your payroll. Everything runs on best-of-breed technology built for real-time access, so you see your numbers the moment they're posted, not weeks later at month-end close.
+Our outsourced accounting services replace all of that with one team and one predictable invoice. You get bookkeeping, payroll, reporting, and advisory support delivered through secure digital workflows, without adding a single line to your payroll. Everything runs on best-of-breed technology built for real-time access, so you see your numbers the moment they're posted, not weeks later at month-end close.
 
 For Hartford, SD businesses in automotive, construction, and agriculture, that means a finance function that scales with the season instead of straining under it. One fee. One point of contact. No surprises on the invoice.
 
