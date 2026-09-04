@@ -11,38 +11,67 @@
   },
   "tiers": [
     {
-      "id": "starter",
-      "name": "Starter",
+      "id": "bronze",
+      "name": "Bronze",
       "description": "Clean books and the essentials, handled.",
-      "monthlyPrice": 299,
-      "annualPrice": 254,
-      "priceSuffix": "/mo",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": false,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "team-of-3",
+          "label": "Team of 3",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "assigned-client-manager",
+          "label": "Assigned client manager",
           "included": true
         },
         {
-          "id": "annual-business-tax-filing",
-          "label": "Annual business tax filing",
+          "id": "monthly-accounting",
+          "label": "Monthly accounting",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
-          "included": false
+          "id": "tax-planning",
+          "label": "Tax planning",
+          "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "monthly-management-reports",
+          "label": "Monthly management reports",
+          "included": true
+        },
+        {
+          "id": "strategic-recommendations",
+          "label": "Strategic recommendations",
+          "included": true
+        },
+        {
+          "id": "financial-assessment",
+          "label": "Financial assessment",
+          "included": true
+        },
+        {
+          "id": "business-health-evaluation",
+          "label": "Business health evaluation",
+          "included": true
+        },
+        {
+          "id": "1099-forms-preparation",
+          "label": "1099 Forms preparation",
+          "included": true
+        },
+        {
+          "id": "heavy-highway-use-2290",
+          "label": "Heavy Highway Use (2290)",
+          "included": true
+        },
+        {
+          "id": "business-tax-return",
+          "label": "Business tax return",
+          "included": true
         }
       ],
       "cta": {
@@ -51,38 +80,37 @@
       }
     },
     {
-      "id": "growth",
-      "name": "Growth",
-      "description": "Proactive support for a growing business.",
-      "monthlyPrice": 599,
-      "annualPrice": 509,
-      "priceSuffix": "/mo",
+      "id": "silver",
+      "name": "Silver",
+      "description": "Adds Weekly-level Support",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": true,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "team-of-3",
+          "label": "Team of 3",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "assigned-client-manager",
+          "label": "Assigned client manager",
           "included": true
         },
         {
-          "id": "business-owner-tax-filing",
-          "label": "Business & owner tax filing",
+          "id": "monthly-management-reports",
+          "label": "Monthly management reports",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
+          "id": "strategic-recommendations",
+          "label": "Strategic recommendations",
           "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "financial-assessment",
+          "label": "Financial assessment",
+          "included": true
         }
       ],
       "cta": {
