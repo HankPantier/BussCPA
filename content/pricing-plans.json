@@ -72,6 +72,26 @@
           "id": "business-tax-return",
           "label": "Business tax return",
           "included": true
+        },
+        {
+          "id": "weekly-accounting",
+          "label": "Weekly accounting",
+          "included": false
+        },
+        {
+          "id": "fall-tax-planning",
+          "label": "Fall tax planning",
+          "included": false
+        },
+        {
+          "id": "fall-financial-roadmap",
+          "label": "Fall financial roadmap",
+          "included": false
+        },
+        {
+          "id": "review-of-basic-kpi-s",
+          "label": "Review of basic KPI's",
+          "included": false
         }
       ],
       "cta": {
