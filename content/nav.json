@@ -115,6 +115,10 @@
     {
       "label": "Talk with an accountant who knows your business",
       "url": "/contact"
+    },
+    {
+      "label": "Pricing",
+      "url": "/pricing"
     }
   ]
 }
