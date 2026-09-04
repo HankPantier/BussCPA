@@ -3,7 +3,7 @@
   "currency": "USD",
   "intro": "A full breakdown of what's included at each service level, so you can see exactly where the value builds.",
   "billing": {
-    "showToggle": true,
+    "showToggle": false,
     "defaultCadence": "monthly",
     "annualDiscountPct": 15,
     "monthlyLabel": "Monthly",
@@ -145,17 +145,24 @@
       "id": "payroll-processing",
       "label": "Payroll processing",
       "type": "flat",
-      "price": 99,
+      "price": 0,
       "cadence": "month",
       "description": "Run payroll, filings, and year-end forms."
     },
     {
-      "id": "catch-up-bookkeeping",
-      "label": "Catch-up bookkeeping",
+      "id": "bill-pay",
+      "label": "Bill Pay",
       "type": "flat",
-      "price": 500,
+      "price": 0,
       "cadence": "once",
       "description": "Bring prior months current before we begin."
+    },
+    {
+      "id": "sales-tax",
+      "label": "Sales Tax",
+      "type": "flat",
+      "price": 0,
+      "cadence": "month"
     }
   ],
   "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
