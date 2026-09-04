@@ -118,6 +118,16 @@
           "included": true
         },
         {
+          "id": "monthly-accounting",
+          "label": "Monthly accounting",
+          "included": true
+        },
+        {
+          "id": "tax-planning",
+          "label": "Tax planning",
+          "included": true
+        },
+        {
           "id": "monthly-management-reports",
           "label": "Monthly management reports",
           "included": true
@@ -130,6 +140,26 @@
         {
           "id": "financial-assessment",
           "label": "Financial assessment",
+          "included": true
+        },
+        {
+          "id": "business-health-evaluation",
+          "label": "Business health evaluation",
+          "included": true
+        },
+        {
+          "id": "1099-forms-preparation",
+          "label": "1099 Forms preparation",
+          "included": true
+        },
+        {
+          "id": "heavy-highway-use-2290",
+          "label": "Heavy Highway Use (2290)",
+          "included": true
+        },
+        {
+          "id": "business-tax-return",
+          "label": "Business tax return",
           "included": true
         }
       ],
