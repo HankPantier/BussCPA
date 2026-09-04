@@ -324,13 +324,8 @@
     }
   ],
   "sharedFeatures": {
-    "heading": "Buil",
-    "items": [
-      "A dedicated accountant who knows your business",
-      "Secure cloud document portal",
-      "Responsive email & phone support",
-      "Year-round tax planning"
-    ]
+    "heading": "",
+    "items": []
   },
   "addOns": [
     {
