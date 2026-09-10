@@ -2,7 +2,7 @@
 title: "Expert Accounting & Advisory Services | Buss CPA | Buss CPA"
 url: "/"
 meta_title: "Accounting Services Sioux Falls & Hartford SD | Buss CPA"
-meta_description: "Buss CPA delivers outsourced accounting, tax, and advisory services for businesses and households across Sioux Falls and Hartford SD, with fixed fees and real-time digital access."
+meta_description: "Buss CPA delivers outsourced accounting, tax, and advisory services for businesses and families across Sioux Falls and Hartford SD, with fixed fees and real-time digital access."
 target_keyword: "accounting services Sioux Falls SD"
 secondary_keywords: ["CPA Sioux Falls South Dakota","CPA Hartford South Dakota","outsourced accounting Sioux Falls SD","outsourced accounting Hartford SD","construction accounting Sioux Falls SD","construction accounting Hartford SD","agricultural accounting South Dakota","farm accounting Sioux Falls SD","farm accounting Hartford SD","ranch accounting South Dakota","attorney tax services Sioux Falls SD","attorney trust accounting South Dakota","engineer accounting Sioux Falls SD","family office accounting South Dakota","personal income tax CPA Sioux Falls SD","outsourced bookkeeping Sioux Falls SD","farm tax planning South Dakota"]
 canonical_url: "https://busscpa.us/"
