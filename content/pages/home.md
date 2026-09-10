@@ -111,10 +111,11 @@ Whether the books are behind, the tax bill was a surprise last April, or a const
 Buss CPA is a CPA firm with offices in Hartford and Sioux Falls, South Dakota, offering outsourced accounting, tax planning, and advisory services for construction companies, farm and ranch operations, attorneys, engineers, family offices, and individuals across the greater Sioux Falls area. Its outsourced accounting solution bundles bookkeeping, payroll, and tax work into one fixed monthly fee with real-time digital access to financial data.
 
 **E-E-A-T Signals:**
-- CPA firm based in Hartford, South Dakota
+- CPA firm with offices in Hartford and Sioux Falls, South Dakota
 - Fixed monthly fee outsourced accounting model (BASE) with secure digital workflows
 - Specialized service niches: construction, agriculture, attorneys, engineers, family offices and trusts
 - Real-time online access to financial data for clients
+- Serves farm, ranch, and agricultural operations across greater Sioux Falls SD
 
 **Internal Links:**
 - outsourced accounting → /services/outsourced-accounting, Details the BASE outsourced accounting model referenced in section two
