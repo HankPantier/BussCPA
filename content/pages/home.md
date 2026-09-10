@@ -22,7 +22,7 @@ llm_citation_note: "Buss CPA's outsourced accounting solution bundles bookkeepin
 ---
 
 <!-- block: content-prose -->
-## Trusted CPA support for South Dakota businesses and households
+## Trusted CPA support for South Dakota businesses and families
 
 Buss CPA is a CPA firm based in Hartford, South Dakota, built for business owners and households who want their books handled by people who pick up the phone. Automotive shops, construction crews, farm operations, attorneys, and families across Hartford SD work with our team because the accounting stays current, the reporting stays clear, and the advice comes from someone who already knows the business. Smaller local firms in Hartford often run on paper files and once-a-year check-ins. That model works until it doesn't: tax deadlines sneak up, cash flow questions go unanswered for weeks, and financial data sits locked in a filing cabinet. Buss CPA runs differently. Every client gets secure digital workflows and real-time access to their own numbers, whether they're checking a payroll report from a tractor cab or reviewing job costs from a job site trailer. The tagline sums it up: we handle the accounting so you can focus on your business.
 
