@@ -80,7 +80,7 @@ Buss CPA doesn't only work with businesses. Individuals and households across th
 Anyone filing alongside a construction company, farm operation, or professional practice benefits from having the same firm handle both sides. Learn more on the [personal income tax](/services/personal-income-tax) page or explore [advisory](/services/advisory) services.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Expert Accounting & Advisory Services | Buss CPA
+## Frequently Asked Questions About Buss CPA Accounting Services
 
 **Q: What accounting services does Buss CPA offer in Hartford SD?**
 A: Buss CPA offers outsourced accounting, business advisory, and personal income tax preparation. Services cover bookkeeping, payroll, tax planning, and financial reporting for businesses and households in Hartford SD, with specialized support for construction, agriculture, attorneys, engineers, and family offices.
