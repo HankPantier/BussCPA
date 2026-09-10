@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Sioux Falls & Hartford, SD"
 hero_image: "hartford-sd-accounting-team.jpg"
 hero_image_alt: "Accountant and small business owner reviewing financial reports together in an office"
-hero_subhead: "Fixed-fee outsourced accounting, construction and farm tax expertise, and real-time access to your numbers"
+hero_subhead: "Fixed-fee outsourced accounting for construction, agriculture, attorneys, engineers, and family offices across the greater Sioux Falls and Hartford SD area"
 hero_headline: "Trusted CPA support for Hartford SD businesses and households"
 answer_block: "Buss CPA is a CPA firm in Hartford, South Dakota offering outsourced accounting, construction and agricultural tax planning, personal income tax preparation, and advisory services for businesses and households. Its outsourced accounting solution bundles bookkeeping, payroll, and tax work into one fixed monthly fee with real-time digital access to financial data."
 eeat_signals: ["CPA firm based in Hartford, South Dakota","Fixed monthly fee outsourced accounting model (BASE) with secure digital workflows","Specialized service niches: construction, agriculture, attorneys, engineers, family offices and trusts","Real-time online access to financial data for clients"]
