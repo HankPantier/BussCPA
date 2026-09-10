@@ -50,17 +50,17 @@ Buss CPA works with agriculture clients across greater Sioux Falls and South Dak
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for attorneys, engineers, and family offices
 
-Some clients need more than bookkeeping. They need someone who understands trust accounting, client fund segregation, or how a multi-generational family holds and reports on its assets.
+Some clients need more than bookkeeping. They need someone who understands trust accounting, client fund segregation, or how a multi-generational family holds and reports on its assets. Buss CPA serves attorneys, engineering firms, and family offices across the greater Sioux Falls area from offices in Sioux Falls and Hartford.
 
 ### Attorneys
 icon: Gavel
 
-Law firms carry compliance obligations around client trust accounts and IOLTA reporting that a generalist bookkeeper can miss. Buss CPA sets up accounting systems built around those requirements, alongside tax planning for partnership structures and owner compensation. See the [attorneys](/industries/attorneys) page for details.
+Law firms in Sioux Falls carry compliance obligations around client trust accounts and IOLTA reporting that a generalist bookkeeper can miss. Buss CPA sets up accounting systems built around those requirements, alongside tax planning for partnership structures and owner compensation. See the [attorneys](/industries/attorneys) page for details.
 
 ### Engineers
 icon: Cog
 
-Engineering firms often bill on a mix of hourly, fixed-fee, and project milestones, which makes revenue recognition and job profitability tracking harder than a standard service business. Buss CPA builds reporting that shows margin by project and by client. More on the [engineers](/industries/engineers) page.
+Engineering firms across greater Sioux Falls often bill on a mix of hourly, fixed-fee, and project milestones, which makes revenue recognition and job profitability tracking harder than a standard service business. Buss CPA builds reporting that shows margin by project and by client. More on the [engineers](/industries/engineers) page.
 
 ### Family offices and trusts
 icon: Building2
