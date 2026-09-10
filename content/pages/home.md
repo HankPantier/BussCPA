@@ -43,9 +43,9 @@ On the tax side, contractors face decisions that don't come up in most industrie
 <!-- block: content-split | variant: image-right | image: farm-operation-payroll.jpg | alt: "Farmer reviewing financial paperwork near agricultural equipment" | query: "farmer reviewing paperwork farm equipment" -->
 ## Agricultural accounting for South Dakota farm operations
 
-Farm payroll and tax planning don't run on the same clock as other industries. Seasonal labor, equipment purchases timed around depreciation rules, commodity price swings, and land transfers between generations all shape how a farm operation should structure its books. A CPA firm that treats a farm like a small retail business will miss most of that.
+Farm and ranch payroll and tax planning don't run on the same clock as other industries. Seasonal labor, equipment purchases timed around depreciation rules, commodity price swings, livestock cycles, and land transfers between generations all shape how an operation should structure its books. A CPA firm that treats a farm or ranch like a small retail business will miss most of that.
 
-Buss CPA works with agriculture clients across South Dakota to build payroll systems that handle seasonal hires correctly, tax strategies that account for equipment and input cost timing, and cash flow planning that matches when the crop actually gets paid for, not when the calendar says a bill is due. Farm income can swing hard from one year to the next, and the tax plan needs to move with it. Details on this work live on the [agriculture](/industries/agriculture) page.
+Buss CPA works with agriculture clients across greater Sioux Falls and South Dakota to build payroll systems that handle seasonal hires correctly, tax strategies that account for equipment and input cost timing, and cash flow planning that matches when the crop or livestock sale actually gets paid for, not when the calendar says a bill is due. Farm and ranch income can swing hard from one year to the next, and the tax plan needs to move with it. Details on this work live on the [agriculture](/industries/agriculture) page.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for attorneys, engineers, and family offices
