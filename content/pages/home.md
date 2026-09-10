@@ -70,7 +70,7 @@ Multiple entities, generational wealth transfer, and trust reporting requirement
 <!-- block: checklist-section | variant: with-image-left | image: personal-tax-planning-meeting.jpg | alt: "Individual reviewing personal tax documents with an advisor" | query: "person reviewing tax documents advisor" -->
 ## Personal tax and advisory services for individuals and households
 
-Buss CPA doesn't only work with businesses. Hartford SD households come to the firm for personal income tax preparation and the kind of advisory work that catches problems before filing season, not after. That includes:
+Buss CPA doesn't only work with businesses. Individuals and households across the greater Sioux Falls area come to the firm for personal income tax preparation and the kind of advisory work that catches problems before filing season, not after. That includes:
 
 - Personal income tax preparation and filing
 - Tax planning around life events like retirement, a home sale, or an inheritance
