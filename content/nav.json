@@ -1,7 +1,7 @@
 {
   "primary": [
     {
-      "label": "Accounting services built for your industry",
+      "label": "Accounting Services",
       "url": "/services",
       "children": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "label": "Industry accounting expertise you can rely on",
+      "label": "Industry Expertise",
       "url": "/industries",
       "children": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "label": "Meet the team behind your outsourced accounting department",
+      "label": "Meet the Team",
       "url": "/who-we-are",
       "children": [
         {
@@ -83,11 +83,11 @@
       ]
     },
     {
-      "label": "Start outsourcing your accounting with confidence",
+      "label": "Get Started",
       "url": "/get-started"
     },
     {
-      "label": "Blog | BussCPA",
+      "label": "Resources",
       "url": "/resources-new",
       "children": [
         {
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "label": "Talk with an accountant who knows your business",
+      "label": "Contact",
       "url": "/contact"
     },
     {
