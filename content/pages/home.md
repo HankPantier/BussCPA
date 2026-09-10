@@ -100,7 +100,7 @@ A: Yes. Buss CPA prepares personal income tax returns for individuals and househ
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and client shaking hands after a consultation meeting" | query: "advisor client handshake meeting office" -->
 ## Start with a conversation about your accounting needs
 
-Whether the books are behind, the tax bill was a surprise last April, or a construction crew just landed its biggest contract yet, the next step is the same: talk to someone who can look at the actual numbers. Buss CPA works with automotive businesses, construction companies, farm operations, professional firms, and individual households throughout Hartford SD, and every engagement starts with a real conversation, not a sales pitch.
+Whether the books are behind, the tax bill was a surprise last April, or a construction crew just landed its biggest contract yet, the next step is the same: talk to someone who can look at the actual numbers. Buss CPA works with construction companies, farm and ranch operations, law firms, engineering practices, family offices, and individual households throughout the greater Sioux Falls and Hartford SD area, and every engagement starts with a real conversation, not a sales pitch.
 
 [Schedule a consultation](/contact) and find out what a fixed-fee, digitally connected accounting relationship looks like for your business or household.
 
