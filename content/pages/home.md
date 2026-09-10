@@ -108,7 +108,7 @@ Whether the books are behind, the tax bill was a surprise last April, or a const
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA is a CPA firm in Hartford, South Dakota offering outsourced accounting, construction and agricultural tax planning, personal income tax preparation, and advisory services for businesses and households. Its BASE program bundles bookkeeping, payroll, and tax work into one fixed monthly fee with real-time digital access to financial data.
+Buss CPA is a CPA firm with offices in Hartford and Sioux Falls, South Dakota, offering outsourced accounting, tax planning, and advisory services for construction companies, farm and ranch operations, attorneys, engineers, family offices, and individuals across the greater Sioux Falls area. Its outsourced accounting solution bundles bookkeeping, payroll, and tax work into one fixed monthly fee with real-time digital access to financial data.
 
 **E-E-A-T Signals:**
 - CPA firm based in Hartford, South Dakota
