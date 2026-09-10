@@ -111,6 +111,10 @@
     {
       "label": "Pricing",
       "url": "/pricing"
+    },
+    {
+      "label": "Team of 3",
+      "url": "/team-of-3"
     }
   ]
 }
