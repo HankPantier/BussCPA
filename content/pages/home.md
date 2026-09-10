@@ -1,7 +1,7 @@
 ---
 title: "Expert Accounting & Advisory Services | Buss CPA | Buss CPA"
 url: "/"
-meta_title: "Accounting Services Hartford SD | Buss CPA"
+meta_title: "Accounting Services Sioux Falls & Hartford SD | Buss CPA"
 meta_description: "Buss CPA delivers outsourced accounting, tax, and advisory services for Hartford SD businesses and households, with fixed fees and real-time digital access."
 target_keyword: "accounting services Hartford SD"
 secondary_keywords: ["CPA Hartford South Dakota","outsourced accounting Hartford SD","construction accounting Hartford SD","agricultural accounting Hartford SD","farm accounting Hartford SD","attorney tax services Hartford SD","family office accounting Hartford SD","personal income tax CPA Hartford SD","outsourced bookkeeping Hartford SD","farm tax planning South Dakota"]
