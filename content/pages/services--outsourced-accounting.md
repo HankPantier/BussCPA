@@ -60,24 +60,24 @@ Farm and ranch operations across South Dakota run on a different calendar than m
 Buss CPA structures its farm and ranch accounting around that seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
 
 <!-- block: feature-grid | variant: 3-col -->
-## Accounting support for attorneys, engineers, and professional firms
+## Accounting support for attorneys, engineers, and family offices
 
-Law firms, engineering firms, and family offices carry compliance obligations that a standard bookkeeping package isn't built to handle. Trust accounting rules, project-based billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
+Law firms, engineering firms, and family offices across the Sioux Falls region carry compliance obligations that a standard bookkeeping package isn't built to handle. Trust accounting rules, project-based billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
 
 ### Attorneys and law firms
 icon: Scale
 
-Trust accounting and IOLTA reconciliation require precision most bookkeepers never touch. Buss CPA's outsourced accounting program keeps client funds separated correctly and reporting audit-ready. See our [accounting services for attorneys](/industries/attorneys).
+Trust accounting and IOLTA reconciliation require precision most bookkeepers never touch. Buss CPA keeps client funds separated correctly and reporting audit-ready for law firms in Sioux Falls and Hartford. See our [accounting services for attorneys](/industries/attorneys).
 
 ### Engineering firms
 icon: Wrench
 
-Project-based billing and work-in-progress reporting need accounting that tracks revenue by contract, not just by month. We build reports around your project list. Visit our [accounting for engineers](/industries/engineers).
+Project-based billing and work-in-progress reporting need accounting that tracks revenue by contract, not just by month. We build reports around your project list for engineering firms throughout the greater Sioux Falls area. Visit our [accounting for engineers](/industries/engineers).
 
 ### Family offices and trusts
 icon: Building2
 
-Multigenerational wealth and trust structures need reporting that satisfies fiduciary duty and family transparency at once. Buss CPA's outsourced accounting program delivers both without added complexity.
+Multigenerational wealth and trust structures need reporting that satisfies fiduciary duty and family transparency at once. Buss CPA delivers both for family offices and trusts across South Dakota, without added complexity.
 
 <!-- block: process-steps | variant: vertical -->
 ## How our secure digital process works
