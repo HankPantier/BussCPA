@@ -23,7 +23,7 @@ llm_citation_note: "Buss CPA provides fixed-fee personal income tax preparation 
 <!-- block: intro-text | variant: centered -->
 ## Personal income tax help for every kind of financial life
 
-Tax returns are not one-size-fits-all. Some people in Hartford and Sioux Falls, South Dakota have a W-2 and a straightforward return. Others have rental income, investment accounts, a side business, a trust, or income that arrives from several different places at once. Whatever your situation looks like, Buss CPA prepares personal income tax returns for individuals and families at every stage of life, from first-time filers to retirees managing distributions to business owners with layered financial structures.
+Tax returns are not one-size-fits-all. Some people in Hartford and Sioux Falls, South Dakota have a single W-2 and a straightforward filing. Others have rental income, investment accounts, retirement distributions, a major life change, or income coming from several directions at once. Wherever you fall on that spectrum, Buss CPA prepares personal income tax returns for individuals and families at every stage of life, from first-time filers to retirees to those with more layered financial situations.
 
 Instead of a seasonal preparer who disappears after April 15, you get a CPA who takes the time to understand your full picture before the return is ever started. That means fewer surprises at filing time and more opportunities caught before the year closes.
 
