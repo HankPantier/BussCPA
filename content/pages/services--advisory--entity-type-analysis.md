@@ -92,7 +92,9 @@ Entity choice isn't a set-it-and-forget-it decision. These milestones are the on
 
 Entity type analysis works best as a recurring checkpoint, not a one-time filing decision. Businesses that use Buss CPA's outsourced accounting services get real-time access to their financial data, which means entity performance can be reviewed against actual numbers each year instead of guesswork.
 
-Our outsourced accounting services fold entity strategy into the same relationship that handles your monthly books, payroll, and tax filings for one fixed fee. If your revenue jumps, you hire your first crew, or you're weighing a second entity for a new farm operation, the conversation happens as part of a relationship that already knows your numbers, not a separate engagement starting from zero.
+Our outsourced accounting services fold entity strategy into the same relationship that handles your monthly books, payroll, and tax filings for one fixed fee. Whether you're a Sioux Falls contractor who just landed a larger bonding line, an agriculture operation heading into a harvest season with different cash flow, an attorney bringing on a junior partner, an engineering firm eyeing a merger, or a family trust navigating a generational transition, the conversation happens as part of a relationship that already knows your numbers. No separate engagement. No starting from scratch.
+
+Buss CPA has offices in Hartford and Sioux Falls, so clients across the greater Sioux Falls area have direct access to advisors who understand South Dakota's business environment and the specific regulatory and financial pressures of your industry.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a business consultation" | query: "business consultation handshake office" -->
 ## Get a personalized entity analysis
