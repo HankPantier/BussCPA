@@ -77,7 +77,7 @@ That's why the analysis draws on the same financial data tracked through your bo
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-retirement-planning-cta.jpg | alt: "Small business owner shaking hands with accountant after a retirement planning meeting" | query: "business owner accountant handshake office" -->
 ## Get your retirement plan analysis today
 
-A retirement plan you picked five years ago, or never picked at all, may no longer match your income, entity type, or age. Schedule a consultation with Buss CPA to run the analysis and see what a SEP-IRA, Solo 401(k), or defined benefit plan would actually save you this year. Based in Hartford, SD, we work with construction companies, agriculture operations, attorneys, engineers, and family offices who want their retirement contributions doing more than sitting in an account.
+A retirement plan you picked five years ago, or never picked at all, may no longer match your income, entity type, or age. Schedule a consultation with Buss CPA to run the analysis and see what a SEP-IRA, Solo 401(k), or defined benefit plan would actually save you this year. With offices in Hartford and Sioux Falls, SD, we work with construction companies, farm and ranch operations, attorneys, engineers, and family offices and trusts across the greater Sioux Falls area who want their retirement contributions doing more than sitting in an account.
 
 [Schedule a consultation](/contact)
 
