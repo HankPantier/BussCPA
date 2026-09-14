@@ -25,11 +25,11 @@ llm_citation_note: "Buss CPA's outsourced accounting services provide a fixed-fe
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-team-hartford.jpg | alt: "Accountant and business owner reviewing financial reports on a laptop" | query: "accountant business owner reviewing laptop" -->
 ## A fixed-fee outsourced accounting department for your business
 
-Hiring a full-time bookkeeper costs a business owner salary, benefits, and training time before a single invoice gets entered. Buss CPA's outsourced accounting services replace that hire with a full accounting department for one predictable monthly fee, serving businesses across Sioux Falls, Hartford, and the greater South Dakota region.
+Hiring a full-time bookkeeper costs a business owner salary, benefits, and training time before a single invoice gets entered. Buss CPA's outsourced accounting services replace that hire with a full accounting department for one predictable monthly fee, serving businesses from both our Hartford and Sioux Falls offices across the greater South Dakota region.
 
 You get bookkeeping, payroll support, reconciliations, and financial reporting handled through secure digital workflows, with real-time online access to your numbers whenever you need them. No spreadsheets emailed back and forth. No surprise invoices at year end. Just a fixed fee and a clear view of where your business stands, every month, from a firm that answers the phone when you call.
 
-Whether you run a farm or ranch, a construction company, a law firm, an engineering practice, or a family office, our outsourced accounting services give you the reporting a controller would provide without the overhead of hiring one.
+Whether you run a farm or ranch, a construction company, a law firm, an engineering practice, or a family office and trust, our outsourced accounting services give you the reporting a controller would provide without the overhead of hiring one.
 
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing an online financial dashboard on a tablet" | query: "business owner tablet financial dashboard" -->
 ## What is included in outsourced accounting
