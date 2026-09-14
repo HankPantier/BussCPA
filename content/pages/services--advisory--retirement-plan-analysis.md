@@ -27,7 +27,7 @@ llm_citation_note: "Buss CPA's retirement plan analysis compares SEP-IRA, SIMPLE
 
 Choosing a retirement plan without running the numbers first is like buying a truck without checking the payload rating. It might work, or it might cost you thousands in missed deductions and mismatched contribution limits. Buss CPA's retirement plan analysis walks through your entity type, income, employee count, and cash flow to identify the plan structure that actually fits, not just the one you've heard of most often.
 
-For a construction contractor in Hartford, SD running an S-corp with three employees, the right answer looks nothing like the plan that fits a solo attorney or a family farm managing seasonal payroll. We compare SEP-IRAs, SIMPLE IRAs, Solo 401(k)s, and defined benefit plans side by side, then model the tax savings each one produces against your actual numbers. The goal is simple: put more of what you earn into your own retirement account and less into April's tax bill.
+For a construction contractor running an S-corp with three employees, the right answer looks nothing like the plan that fits a solo attorney, a ranching operation managing seasonal payroll, or a family office with trust income to shelter. We compare SEP-IRAs, SIMPLE IRAs, Solo 401(k)s, and defined benefit plans side by side, then model the tax savings each one produces against your actual numbers. The goal is simple: put more of what you earn into your own retirement account and less into April's tax bill. With offices in Hartford and Sioux Falls, SD, Buss CPA works directly with business owners and families across the greater Sioux Falls area.
 
 <!-- block: content-table -->
 ## Compare SEP-IRA, SIMPLE IRA, Solo 401(k) and other plans
