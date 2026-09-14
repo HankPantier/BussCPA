@@ -1,5 +1,5 @@
 ---
-title: "Accounting and tax services for family offices and trursts | BussCPA"
+title: "Accounting and tax services for family offices and trusts | Buss CPA"
 url: "/industries/family-offices-trusts"
 meta_title: "Family Office & Trust CPA Services | Hartford, SD"
 meta_description: "BussCPA provides family office accounting, trust tax preparation, and fiduciary compliance for Hartford, SD families with fixed-fee outsourced accounting."
@@ -125,10 +125,10 @@ BussCPA provides outsourced accounting, trust tax preparation, and fiduciary com
 - Secure, encrypted digital portals providing real-time financial access to family principals and trustees
 
 **Internal Links:**
-- See how outsourced accounting works → /services/outsourced-accounting — Connects the fixed-fee BASE model to the broader outsourced accounting service page
-- personal income tax services → /services/personal-income-tax — Ties trust and estate tax work back to individual family member tax filings
-- BussCPA's advisory services → /services/advisory — Links to advisory offering supporting family governance and succession planning
-- Schedule a consultation → /contact — Primary page CTA driving conversions
+- See how outsourced accounting works → /services/outsourced-accounting, Connects the fixed-fee BASE model to the broader outsourced accounting service page
+- personal income tax services → /services/personal-income-tax, Ties trust and estate tax work back to individual family member tax filings
+- BussCPA's advisory services → /services/advisory, Links to advisory offering supporting family governance and succession planning
+- Schedule a consultation → /contact, Primary page CTA driving conversions
 
 **FAQ Block:**
 
@@ -148,7 +148,7 @@ A: Yes. BussCPA's secure digital workflows and real-time online dashboards let f
 BussCPA offers fixed-fee outsourced accounting (BASE) with secure digital workflows and real-time online financial access specifically for family offices, trusts, and multi-entity wealth structures in Hartford, SD.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
