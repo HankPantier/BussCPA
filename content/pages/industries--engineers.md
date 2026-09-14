@@ -2,7 +2,7 @@
 title: "Accounting and tax services for engineers | Buss CPA"
 url: "/industries/engineers"
 meta_title: "CPA for Engineers | Hartford & Sioux Falls, SD Accounting Services"
-meta_description: "Buss CPA provides tax preparation, outsourced accounting, and financial advisory for engineering firms in Hartford, SD. Schedule your consultation today."
+meta_description: "Buss CPA provides tax preparation, outsourced accounting, and financial advisory for engineering firms in Hartford and Sioux Falls, SD. Schedule your consultation today."
 target_keyword: "CPA for engineers Hartford SD"
 secondary_keywords: ["engineer tax accountant Hartford South Dakota","accounting services for engineers SD","construction accounting Hartford SD","outsourced accounting engineers","engineer tax preparation Hartford","CPA firm engineers South Dakota","professional tax services engineers","business accounting engineers Hartford","tax advisor engineers SD","engineer financial advisory Hartford"]
 canonical_url: "https://busscpa.us/industries/engineers"
