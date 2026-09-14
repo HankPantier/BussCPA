@@ -27,26 +27,14 @@ A W-2 and a standard deduction rarely describe the individuals we work with in H
 
 Instead of a seasonal preparer who disappears after April 15, you get a CPA who already knows your business structure, your depreciation schedules, and your cash flow patterns, often because we're already handling your outsourced accounting. That context turns tax season into a formality, not a scramble.
 
-<!-- block: content-split | variant: image-right | image: construction-agriculture-tax-review.jpg | alt: "CPA reviewing construction business tax documents with a contractor client" | query: "contractor reviewing paperwork with accountant" -->
-## Tax support for business owners in construction and agriculture
+<!-- block: content-split | variant: image-right | image: construction-agriculture-tax-review.jpg | alt: "CPA reviewing personal tax documents with a business owner client at a desk" | query: "contractor reviewing paperwork with accountant" -->
+## Personal income tax for business owners, professionals, and families
 
-Construction and agriculture owners often run income through S-corps, partnerships, or sole proprietorships that flow straight to a personal return through Schedule C or a K-1. Add equipment depreciation, Section 179 elections, and agriculture's swinging cash cycles between planting and harvest, and personal tax planning becomes inseparable from business accounting.
+Whether income flows through an S-corp, a partnership K-1, a Schedule C, or a trust, the thread connecting all of our personal tax clients is the same: their finances are too layered for a seasonal preparer who only shows up in April.
 
-Buss CPA's outsourced accounting clients get a CPA who already reconciles their books every month, so depreciation opportunities and estimated tax adjustments get caught before December. Farm income averaging, equipment trade timing, and self-employment tax planning get built into the return instead of bolted on afterward. That's what comes from working with a firm that treats construction and agriculture businesses across South Dakota as full accounting clients, not once-a-year tax filers.
+Construction and agriculture clients bring equipment depreciation, Section 179 elections, farm income averaging, and cash flow that swings with planting and harvest schedules. Attorneys and engineers often juggle K-1 partnership income alongside W-2 wages, guaranteed payments, Qualified Business Income deductions, and retirement plan strategy specific to professional service firms. Trust and family office returns add another layer: multiple beneficiaries, distributable net income calculations, and coordination with estate attorneys and investment advisors where one wrong figure ripples across every related filing.
 
-<!-- block: content-split | variant: image-left | image: attorney-engineer-tax-planning.jpg | alt: "Attorney and CPA reviewing partnership income tax documents at a desk" | query: "professional discussing documents office desk" -->
-## Specialized tax planning for attorneys and engineers
-
-Attorneys in partnerships face K-1 income, guaranteed payments, and retirement plan contribution limits that look nothing like a standard employee's return. Engineers working as consultants or firm principals often juggle 1099 income alongside W-2 wages, plus equipment and home office deductions that need real documentation to survive scrutiny.
-
-Buss CPA prepares personal returns for attorneys and engineers who need someone comfortable with partnership distributions, Qualified Business Income deductions, and retirement plan strategy specific to professional service firms. When partnership K-1s run behind schedule, we coordinate directly with your firm's accountant so your personal filing doesn't get stuck waiting on someone else's paperwork.
-
-<!-- block: content-split | variant: image-right | image: family-trust-tax-planning-meeting.jpg | alt: "CPA and family discussing trust tax documents around a table" | query: "family financial advisor meeting discussion" -->
-## Trust and family office tax preparation with a personal touch
-
-Trust and family office returns carry their own layer of complexity: multiple beneficiaries, distributable net income calculations, generation-skipping considerations, and coordination with attorneys and investment managers who all need the same numbers at the same time. Getting one figure wrong ripples across every other filing tied to it.
-
-Buss CPA prepares fiduciary and trust income tax returns with the discretion family wealth requires, working alongside estate attorneys and investment advisors so nothing falls through the cracks between them. For multi-generational families, that means a strategy that tracks how income and distributions move between family members and entities year after year, not a single return prepared in isolation. Families and family offices working with Buss CPA in Hartford and Sioux Falls, South Dakota get one CPA firm handling the full financial picture, backed by secure digital documents and a real person who returns the call.
+In each case, Buss CPA's approach is the same. If we're already handling your outsourced accounting, we know your books before tax season starts, so depreciation opportunities and estimated tax adjustments get caught in real time, not discovered after the year closes. If we're coordinating alongside outside advisors, such as your firm's accountant or estate attorney, we handle that communication directly so your personal filing doesn't get held up waiting on someone else's paperwork. Clients in Hartford and Sioux Falls, South Dakota get one firm handling the full picture, with secure digital documents and a real person who picks up the phone.
 
 <!-- block: checklist-section | variant: with-image | image: secure-portal-tax-documents.jpg | alt: "Client uploading tax documents through a secure online portal on a laptop" | query: "person using laptop online portal documents" -->
 ## Year-round tax planning instead of once-a-year filing
