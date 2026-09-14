@@ -2,7 +2,7 @@
 title: "Personal income tax help for complex finances | Buss CPA"
 url: "/services/personal-income-tax"
 meta_title: "Personal Income Tax CPA in Hartford & Sioux Falls, SD | Buss CPA"
-meta_description: "Complex tax return preparation for business owners, attorneys, engineers, and family trusts in Hartford, SD. Fixed-fee personal income tax help from a CPA who plans year-round."
+meta_description: "Complex tax return preparation for business owners, attorneys, engineers, and family trusts in Hartford and Sioux Falls, SD. Fixed-fee personal income tax help from a CPA who plans year-round."
 target_keyword: "personal income tax CPA Hartford SD"
 secondary_keywords: ["complex tax return preparation Hartford South Dakota","income tax help for high net worth individuals Hartford SD","family office tax planning Hartford SD","construction business tax accountant Hartford SD","agricultural income tax advisor South Dakota","attorney tax services Hartford SD","engineer tax planning Hartford SD","trust tax preparation Hartford SD","outsourced tax accounting Hartford South Dakota","complex financial tax filing Hartford SD","business owner tax returns Hartford SD","family trust tax help Hartford SD","CPA personal taxes Hartford SD","tax advisory services Hartford South Dakota","professional income tax planning Hartford SD"]
 canonical_url: "https://busscpa.us/services/personal-income-tax"
