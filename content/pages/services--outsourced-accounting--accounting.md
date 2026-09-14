@@ -32,7 +32,7 @@ You get a full accounting function, without the cost of hiring a controller or b
 
 Hourly bookkeeping services bill by the minute, and the invoice changes every month depending on how messy your records were or how many questions you asked. Outsourced accounting services from Buss CPA work differently. You pay one fixed monthly fee for the full outsourced accounting engagement, and that number doesn't move because you called with a question or because payroll ran twice.
 
-That matters for a growing business in Hartford, SD trying to budget accurately. You know your accounting cost in January and you know it in December. No line-item surprises, no per-transaction charges tacked onto an already unpredictable bill. Fixed pricing is one of the reasons clients stay with Buss CPA instead of switching providers every year to chase a better rate.
+That matters for a growing construction company, farm operation, law firm, or engineering practice in the greater Sioux Falls area trying to budget accurately. You know your accounting cost in January and you know it in December. No line-item surprises, no per-transaction charges tacked onto an already unpredictable bill. Fixed pricing is one of the reasons clients stay with Buss CPA instead of switching providers every year to chase a better rate.
 
 <!-- block: checklist-section | variant: with-image | image: digital-accounting-portal-dashboard.jpg | alt: "Laptop screen displaying a secure online financial dashboard portal" | query: "laptop financial dashboard online portal" -->
 ## Secure digital workflows and real-time online access
