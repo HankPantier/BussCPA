@@ -57,7 +57,7 @@ An S-Corp election lets owners split income between a reasonable salary and dist
 ### C-Corp
 icon: Building2
 
-A C-Corp pays corporate tax directly and shareholders pay tax again on dividends, the classic double-taxation structure. It makes sense for businesses planning to raise outside investment, retain significant earnings inside the company, or eventually go public. Rare for main street businesses, but a real consideration for engineering firms scaling toward acquisition.
+A C-Corp pays corporate tax directly and shareholders pay tax again on dividends, the classic double-taxation structure. It makes sense for businesses planning to raise outside investment, retain significant earnings inside the company, or eventually go public. Rare for most of the businesses we work with, but a real consideration for engineering firms scaling toward acquisition or family offices managing substantial retained assets.
 
 <!-- block: process-steps | variant: vertical -->
 ## How Buss CPA's entity analysis process works
