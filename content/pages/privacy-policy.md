@@ -2,7 +2,7 @@
 title: "Privacy Policy: How Buss CPA Protects Your Information | Buss CPA"
 url: "/privacy-policy"
 meta_title: "CPA Privacy Policy Hartford SD | Buss CPA Data Security"
-meta_description: "Buss CPA's Hartford, SD privacy policy explains how our CPA firm protects financial data for construction, agriculture, attorney, and family office clients using secure digital workflows."
+meta_description: "Read Buss CPA's privacy policy to learn how our Hartford, SD CPA firm collects, uses, and protects your personal and financial information using encrypted portals and secure digital workflows."
 target_keyword: "CPA privacy policy Hartford SD"
 secondary_keywords: ["how Buss CPA protects client information","accounting firm data security Hartford South Dakota","CPA confidentiality practices construction accounting","farm accounting privacy protection Hartford","attorney CPA client information protection","family office accounting data privacy","outsourced accounting confidentiality Hartford SD","trust accounting privacy Hartford South Dakota","engineer CPA data security practices","agricultural accounting firm confidentiality SD"]
 canonical_url: "https://busscpa.us/privacy-policy"
