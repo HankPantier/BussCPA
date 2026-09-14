@@ -26,34 +26,34 @@ Buss CPA operates differently. Our outsourced accounting services replace the se
 With offices in both Hartford and Sioux Falls, we serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're looking for accounting services in the Sioux Falls and Hartford area that treat your business like part of the team rather than a once-a-year transaction, this is the model.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for construction, agriculture, and specialized industries
+## Built for construction, agriculture, attorneys, engineers, and family offices across the Sioux Falls area
 
-Generic bookkeeping doesn't cut it once your business gets specific. Buss CPA works inside five niches where the accounting rules, deadlines, and pitfalls differ from a typical small business.
+Generic bookkeeping doesn't hold up once your business gets specific. Buss CPA works inside five niches where the accounting rules, deadlines, and pitfalls differ meaningfully from a typical small business, and where a generalist firm is most likely to miss something.
 
 ### Construction
 icon: Hammer
 
-Job costing, retainage, equipment depreciation, and multi-state contractor requirements need an accountant who has seen a punch list before. Project profitability tracking helps bids get sharper every year.
+Job costing, retainage, equipment depreciation, and multi-state contractor requirements need an accountant who has seen a punch list before. Project profitability tracking helps bids get sharper every year, and cash flow planning around draw schedules keeps operations running between invoices.
 
 ### Agriculture
 icon: TrendingUp
 
-Farm and ranch operations face payroll timing, commodity income, and depreciation schedules that don't match a typical business calendar. Agricultural clients get planning built around planting, harvest, and land transitions, not a generic template.
+Farm and ranch operations in South Dakota face payroll timing, commodity income swings, and depreciation schedules that don't match a typical business calendar. Agricultural clients get planning built around planting, harvest, calving, and land transitions, including Schedule F reporting, crop insurance proceeds, and seasonal labor payroll rules.
 
 ### Attorneys
 icon: Scale
 
-Trust accounting, client fund segregation, and partnership structures require precision. Law firms get books clean enough for compliance and partner distributions alike.
+Trust accounting, client fund segregation, IOLTA compliance, and partnership structures require precision. Law firms in Sioux Falls and surrounding areas get books clean enough for bar compliance and partner distributions alike.
 
 ### Engineers
 icon: Cog
 
-Project-based revenue and multi-entity structures are common in engineering firms. Reporting gets built to match how the work actually gets billed.
+Project-based revenue recognition, multi-entity structures, and deferred compensation arrangements are common in engineering practices. Reporting gets built to match how the work actually gets billed, not a one-size-fits-all chart of accounts.
 
 ### Family offices and trusts
 icon: ShieldCheck
 
-Multi-generational wealth needs coordinated tax planning across entities, trusts, and individuals. Coordination with attorneys and investment advisors keeps every filing aligned.
+Multi-generational wealth planning across South Dakota families needs coordinated tax work covering entities, trusts, and individuals together. Buss CPA coordinates with attorneys and investment advisors so every filing stays aligned and no distribution gets missed.
 
 <!-- block: process-steps | variant: horizontal -->
 ## What happens when you reach out
