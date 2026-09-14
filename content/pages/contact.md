@@ -61,10 +61,10 @@ Multi-generational wealth planning across South Dakota families needs coordinate
 Contacting an accounting firm for the first time shouldn't feel like a sales pitch. Here's what actually happens when you call or fill out the form.
 
 ### You talk to an accountant, not a call center
-A real member of the Buss CPA team asks about your business, your industry, and what's currently frustrating you about your books or your tax situation.
+A real member of the Buss CPA team picks up and asks about your business, your industry, and what's currently frustrating you about your books or your tax situation. No automated phone tree, no callback queue.
 
 ### We map out what you need
-Whether that's outsourced accounting services, advisory work, or personal income tax prep, we outline what a fit looks like and what it costs.
+Whether you're a contractor chasing job costs, a rancher managing seasonal payroll, a law firm keeping client funds straight, an engineering practice tracking project revenue, or a family managing a trust, we outline what a fit looks like and what it costs.
 
 ### You get a clear next step
 No pressure, no multi-week wait. You'll know what the engagement looks like and when work would start.
