@@ -2,7 +2,7 @@
 title: "Outsourced accounting services for your business | Buss CPA"
 url: "/services/outsourced-accounting"
 meta_title: "Outsourced Accounting Services Sioux Falls & Hartford SD | Buss CPA"
-meta_description: "Fixed-fee outsourced accounting for Sioux Falls and Hartford SD businesses. Bookkeeping, payroll, and real-time financial reporting for construction, agriculture, attorneys, engineers, and family offices."
+meta_description: "Fixed-fee outsourced accounting for Sioux Falls and Hartford SD businesses. Accounting, payroll, and real-time financial reporting for construction, agriculture, attorneys, engineers, and family offices."
 target_keyword: "outsourced accounting services Sioux Falls SD"
 secondary_keywords: ["outsourced accounting Sioux Falls South Dakota","outsourced accounting Hartford SD","bookkeeping services Sioux Falls SD","construction accounting Sioux Falls SD","agricultural accounting Sioux Falls SD","farm accounting services South Dakota","attorney accounting services Sioux Falls SD","engineer accounting services Sioux Falls SD","family office accounting South Dakota","accounting services for contractors Sioux Falls SD","outsourced bookkeeping Sioux Falls SD","small business accounting Sioux Falls SD","CFO services Sioux Falls SD","ranching accounting South Dakota"]
 canonical_url: "https://.us/services/outsourced-accounting"
