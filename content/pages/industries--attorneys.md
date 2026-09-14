@@ -50,7 +50,7 @@ A law firm's tax picture changes depending on entity type, and the deadlines don
 
 We prepare and file entity returns alongside individual returns for equity partners and solo attorneys, so tax obligations at the firm and personal level stay coordinated instead of siloed. Deduction planning covers continuing legal education, bar dues, malpractice insurance, and office expenses that generalist preparers sometimes miss entirely.
 
-Quarterly estimated payments get calculated ahead of time, not guessed at after the fact. Attorneys practicing in South Dakota also avoid state income tax on personal returns, but firm-level and multi-state filings for attorneys licensed elsewhere still need attention. Personal income tax services extend to a firm's partners individually, keeping both sides of the return aligned.
+Quarterly estimated payments get calculated ahead of time, not guessed at after the fact. Attorneys practicing in South Dakota also avoid state income tax on personal returns, but firm-level and multi-state filings for attorneys licensed in other states or serving clients across state lines still need attention. Personal income tax services extend to a firm's partners individually, keeping both sides of the return aligned.
 
 <!-- block: content-split | variant: image-right | image: advisory-meeting-law-firm.jpg | alt: "Advisor discussing financial strategy with law firm partners at a table" | query: "business advisory meeting professionals table" -->
 ## CFO-level advisory for growing law firms
