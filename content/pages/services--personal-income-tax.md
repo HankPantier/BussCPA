@@ -41,8 +41,9 @@ If we are already handling your outsourced accounting, we come into tax season k
 
 Filing a return in April based on decisions made the previous December is planning too late to matter. Buss CPA's personal income tax clients get a CPA who checks in before year-end decisions get made, not after the deadline has passed.
 
-- Quarterly estimated tax reviews for business owners and self-employed professionals
-- Mid-year projections before major decisions like equipment purchases or property sales
+- Quarterly estimated tax reviews for individuals, self-employed professionals, and business owners
+- Mid-year check-ins before major life or financial decisions like selling a home, changing jobs, or making a large purchase
+- Proactive retirement distribution and withholding guidance for individuals in or approaching retirement
 - Secure digital document exchange, so nothing gets lost in a paper folder
 - Direct access to your CPA by phone or email instead of a general call center
 
