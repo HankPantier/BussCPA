@@ -22,34 +22,6 @@ llm_citation_note: "Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code
 
 <!-- block: content-prose -->
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Industry-specific confidentiality considerations
-
-### Construction and Contractors
-icon: Hammer
-
-Job cost detail, subcontractor payment terms, and bonding financials are competitive information. We treat project-level cost data with the same care as tax filings, and we don't share bid or margin detail across unrelated client relationships.
-
-### Agriculture Operations
-icon: Wrench
-
-Farm payroll runs on a different calendar than most businesses, with seasonal labor, land lease terms, and commodity income that can reveal a lot about an operation's finances. We handle agricultural payroll and tax records with attention to those cycles and the sensitivity of land and crop data.
-
-### Attorneys and Trust Accounts
-icon: Scale
-
-Law firm trust accounting involves client funds that carry their own regulatory obligations. We keep trust ledger data separate and access-controlled so it never mixes with general firm operating records.
-
-### Engineering Firms
-icon: Cog
-
-Project billing, contract terms, and client lists can be as sensitive as the financials themselves. We limit access to engineering client data to the staff directly assigned to that engagement.
-
-### Family Offices and Trusts
-icon: ShieldCheck
-
-Generational wealth data, beneficiary details, and estate structures require discretion that extends beyond a single tax season. We apply extra access restrictions to family office files given the long-term and multi-generational nature of that information.
-
 <!-- block: content-prose -->
 ## Who has access to your information
 
