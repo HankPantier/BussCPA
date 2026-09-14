@@ -23,7 +23,7 @@ llm_citation_note: "BussCPA offers a fixed-fee outsourced accounting solution (B
 <!-- block: intro-text | variant: centered -->
 ## Accounting built around the realities of farm operations
 
-Farming and ranching doesn't run on a calendar quarter, and neither should your books. Crop insurance proceeds land in one month, cattle sell in another, and payroll spikes hard during planting, harvest and calving season. Most CPA firms build their processes around retail or service businesses, then try to make agriculture fit the same mold. BussCPA does it the other way around.
+Farming and ranching doesn't run on a calendar quarter, and neither should your books. Crop insurance proceeds land in one month, cattle sell in another, and payroll spikes hard during planting, harvest and calving season. Most CPA firms build their processes around retail or service businesses, then try to make agriculture fit the same mold. Buss CPA does it the other way around.
 
 From our offices in Hartford and Sioux Falls, SD, we work with row crop operations, cattle producers, and diversified farms across the greater Sioux Falls area. We understand why a Schedule F return looks nothing like a standard business filing, why seasonal labor changes payroll obligations month to month, and why a bad year for commodity prices can turn a profitable operation into a cash-flow puzzle. That's the accounting our farm and ranch clients get: built for how agriculture actually operates, not adapted from a template designed for someone else's business.
 
@@ -102,7 +102,7 @@ A: Yes. Buss CPA works with agriculture operations across the greater Sioux Fall
 <!-- block: cta-banner | variant: image-bg | image: south-dakota-farmland-sunrise.jpg | alt: "South Dakota farmland at sunrise with rows of crops" | query: "south dakota farmland sunrise crops" -->
 ## Local expertise serving Hartford and the greater Sioux Falls area
 
-BussCPA is based in Hartford, SD, working with agriculture operations across the greater Sioux Falls area who need an accountant who already understands row crops, livestock, and the rhythms of a farming calendar. Our team gives agriculture its own approach because we understand it needs one.
+Buss CPA is based in Hartford, SD, working with agriculture operations across the greater Sioux Falls area who need an accountant who already understands row crops, livestock, and the rhythms of a farming calendar. Our team gives agriculture its own approach because we understand it needs one.
 
 If your books, payroll, or tax planning haven't kept pace with your operation, let's talk before the next season starts. [Schedule a consultation](/contact) and find out what a fixed-fee outsourced accounting relationship looks like for a farm your size.
 
