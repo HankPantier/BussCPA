@@ -1,7 +1,7 @@
 ---
 title: "Accounting that keeps your books audit ready | Buss CPA"
 url: "/services/outsourced-accounting/accounting"
-meta_title: "Outsourced Accounting Hartford SD | Audit-Ready Books"
+meta_title: "Outsourced Accounting Sioux Falls & Hartford SD | Audit-Ready Books"
 meta_description: "Buss CPA delivers outsourced accounting in Hartford, SD with a fixed monthly fee, real-time online access, and audit-ready books for construction, agriculture, and professional service clients."
 target_keyword: "outsourced accounting Hartford SD"
 secondary_keywords: ["audit ready bookkeeping Hartford South Dakota","construction accounting Hartford SD","agriculture accounting Hartford SD","attorney accounting services Hartford SD","engineer accounting Hartford SD","family office accounting Hartford SD","trust accounting Hartford SD","farm accounting Hartford South Dakota","professional services accounting Hartford SD","construction CPA Hartford SD"]
