@@ -1,7 +1,7 @@
 ---
 title: "Accounting and tax services for engineers | BussCPA"
 url: "/industries/engineers"
-meta_title: "CPA for Engineers | Hartford, SD Accounting Services"
+meta_title: "CPA for Engineers | Hartford & Sioux Falls, SD Accounting Services"
 meta_description: "BussCPA provides tax preparation, outsourced accounting, and financial advisory for engineering firms in Hartford, SD. Schedule your consultation today."
 target_keyword: "CPA for engineers Hartford SD"
 secondary_keywords: ["engineer tax accountant Hartford South Dakota","accounting services for engineers SD","construction accounting Hartford SD","outsourced accounting engineers","engineer tax preparation Hartford","CPA firm engineers South Dakota","professional tax services engineers","business accounting engineers Hartford","tax advisor engineers SD","engineer financial advisory Hartford"]
@@ -112,11 +112,11 @@ BussCPA is a CPA firm in Hartford, South Dakota, offering tax preparation, outso
 - Hartford, South Dakota based firm handling both business and personal tax returns for engineering firm owners
 
 **Internal Links:**
-- personal income tax → /services/personal-income-tax — Links tax section to the dedicated personal tax service page for engineering firm owners
-- secure digital workflows → /services/outsourced-accounting/accounting — Connects the outsourced accounting checklist to the core accounting service page
-- construction companies → /industries/construction — Cross-links a related project-based niche with similar job costing needs
-- advisory → /services/advisory — Points to the advisory service page for partner compensation and succession planning detail
-- Schedule a consultation → /contact — Primary page CTA driving engineering firm prospects to book a consultation
+- personal income tax → /services/personal-income-tax, Links tax section to the dedicated personal tax service page for engineering firm owners
+- secure digital workflows → /services/outsourced-accounting/accounting, Connects the outsourced accounting checklist to the core accounting service page
+- construction companies → /industries/construction, Cross-links a related project-based niche with similar job costing needs
+- advisory → /services/advisory, Points to the advisory service page for partner compensation and succession planning detail
+- Schedule a consultation → /contact, Primary page CTA driving engineering firm prospects to book a consultation
 
 **FAQ Block:**
 
@@ -136,7 +136,7 @@ A: BussCPA's advisory services cover partner compensation structures, succession
 BussCPA's BASE outsourced accounting solution gives engineering firms a fixed monthly fee, job costing tracked by project, and real-time online access to financial data through secure digital workflows.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
