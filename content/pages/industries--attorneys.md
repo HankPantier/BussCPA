@@ -99,7 +99,7 @@ A: Both. Solo attorneys in Hartford and multi-partner firms with associates and 
 **Q: How is financial data kept secure for law firm clients?**
 A: Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files.
 
-<!-- block: cta-banner | variant: image-bg | image: hartford-sd-law-office-cta.jpg | alt: "Law office exterior in a small South Dakota town" | query: "small town law office storefront" -->
+<!-- block: cta-banner | variant: image-bg | image: sioux-falls-sd-law-office-cta.jpg | alt: "Law office exterior in Sioux Falls, South Dakota" | query: "law office storefront Sioux Falls South Dakota" -->
 ## Partner with a Sioux Falls area CPA who knows legal practices
 
 Law firms across Sioux Falls, Hartford, and the surrounding region deserve an accounting team that understands trust accounts, partner compensation, and entity tax filings without a learning curve. Buss CPA works alongside attorneys and firm administrators to keep the books accurate, the taxes filed on time, and the numbers available whenever a partner needs them.
