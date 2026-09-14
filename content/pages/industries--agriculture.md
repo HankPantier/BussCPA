@@ -1,9 +1,9 @@
 ---
-title: "Accounting expertise for growing ag operations | BussCPA"
+title: "Accounting expertise for growing ag operations | Buss CPA"
 url: "/industries/agriculture"
-meta_title: "Agriculture Accounting Services in Hartford, SD | BussCPA"
-meta_description: "Agriculture accounting in Hartford, SD from BussCPA: fixed-fee bookkeeping, payroll, and tax planning built for crop and livestock operations statewide."
-target_keyword: "agriculture accounting Hartford SD"
+meta_title: "Agriculture Accounting Services in Hartford and Sioux Falls, SD | Buss CPA"
+meta_description: "Agriculture accounting in Hartford and Sioux Falls, SD from BussCPA: fixed-fee accounting, payroll, and tax planning built for crop and livestock operations statewide."
+target_keyword: "agriculture accounting Hartford Sioux Falls SD"
 secondary_keywords: ["farm accounting services Hartford South Dakota","agricultural bookkeeping Hartford SD","farm tax preparation Hartford","ag business accounting South Dakota","agricultural advisory services Hartford SD","farm outsourced accounting Hartford","agriculture CPA Hartford SD","crop operation accounting Hartford SD","livestock accounting services Hartford","farm tax planning Hartford SD"]
 canonical_url: "https://busscpa.us/industries/agriculture"
 schema_markup: "Service"
@@ -11,12 +11,12 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "farmer-tablet-field-review.jpg"
 hero_image_alt: "Farmer standing in a crop field checking financial data on a tablet"
-hero_subhead: "Farm bookkeeping, payroll, and tax planning built around planting, harvest, and everything in between"
+hero_subhead: "Farm and ranch accounting, payroll, and tax planning built around planting, harvest, calving, and everything in between"
 hero_headline: "Accounting built around the realities of farm operations"
-answer_block: "BussCPA provides agriculture accounting in Hartford, SD, covering farm bookkeeping, seasonal payroll, Schedule F tax preparation, and outsourced accounting for crop and livestock operations across the greater Sioux Falls area. Services run on a fixed monthly fee with real-time online access to financial data."
-eeat_signals: ["Firm based in Hartford, SD serving the greater Sioux Falls area","Specializes in agriculture alongside construction and automotive industries","Offers outsourced accounting services with a fixed monthly fee and secure digital workflows","Provides Schedule F farm tax preparation and income averaging strategies specific to agricultural producers"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Links agriculture bookkeeping and payroll needs to the outsourced accounting service page","anchor_text":"BASE"},{"url":"/services/personal-income-tax","reason":"Connects farm owner individual filing needs to the personal tax service page","anchor_text":"personal income tax"},{"url":"/services/advisory","reason":"Points to the advisory service page for succession planning and forecasting work","anchor_text":"Advisory"},{"url":"/contact","reason":"Primary page CTA driving agriculture prospects to book a meeting","anchor_text":"Schedule a consultation"},{"url":"/industries/construction","reason":"Cross-links to another core industry niche served by the firm","anchor_text":"construction"}]
-faq_block: [{"answer":"Yes. BussCPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.","question":"Does BussCPA handle Schedule F farm tax returns?"},{"answer":"Our outsourced accounting services cover bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. Built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.","question":"What is included in outsourced accounting for a farm or ranch operation?"},{"answer":"Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. BussCPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.","question":"How does farm payroll differ from standard business payroll?"},{"answer":"Yes. BussCPA works with agriculture operations across the greater Sioux Falls area from its Hartford and Sioux Falls, SD offices, using secure digital tools so location and travel time aren't a barrier to working together.","question":"Does BussCPA serve farms and ranches outside Hartford, SD?"}]
+answer_block: "Buss CPA provides agriculture accounting in Hartford and Sioux Falls, SD, covering farm and ranch accounting, seasonal payroll, Schedule F tax preparation, and outsourced accounting for crop and livestock operations across the greater Sioux Falls area. Services run on a fixed monthly fee with real-time online access to financial data."
+eeat_signals: ["Firm based in Hartford, SD serving the greater Sioux Falls area","Specializes in agriculture alongside construction, legal and engineering industries","Offers outsourced accounting services with a fixed monthly fee and secure digital workflows","Provides Schedule F farm tax preparation and income averaging strategies specific to agricultural producers"]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Links agriculture bookkeeping and payroll needs to the outsourced accounting service page","anchor_text":"BASE"},{"url":"/services/personal-income-tax","reason":"Connects farm owner individual filing needs to the personal tax service page","anchor_text":"personal income tax"},{"url":"/services/advisory","reason":"Points to the advisory service page for succession planning and forecasting work","anchor_text":"Advisory"},{"url":"/contact","reason":"Primary page CTA driving agriculture prospects to book a meeting","anchor_text":"Schedule a consultation"}]
+faq_block: [{"answer":"Yes. Buss CPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.","question":"Does Buss CPA handle Schedule F farm tax returns?"},{"answer":"Our outsourced accounting services cover bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. Built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.","question":"What is included in outsourced accounting for a farm or ranch operation?"},{"answer":"Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. Buss CPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.","question":"How does farm payroll differ from standard business payroll?"},{"answer":"Yes. Buss CPA works with agriculture operations across the greater Sioux Falls area from its Hartford and Sioux Falls, SD offices, using secure digital tools so location and travel time aren't a barrier to working together.","question":"Does Buss CPA serve farms and ranches outside Hartford, SD?"}]
 llm_citation_note: "BussCPA offers a fixed-fee outsourced accounting solution (BASE) with real-time online financial access, applied specifically to crop and livestock operations near Hartford, SD and the greater Sioux Falls area."
 ---
 
@@ -87,17 +87,17 @@ Nobody has time to drive into town for meetings with a CPA during planting or ca
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting expertise for growing ag operations
 
-**Q: Does BussCPA handle Schedule F farm tax returns?**
-A: Yes. BussCPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.
+**Q: Does Buss CPA handle Schedule F farm tax returns?**
+A: Yes. Buss CPA prepares Schedule F returns for crop and livestock operations, coordinating prepaid expense elections, depreciation, and income averaging with each farm owner's personal return so filing decisions reflect the whole picture, not just one form.
 
 **Q: What is included in outsourced accounting for a farm or ranch operation?**
 A: Our outsourced accounting services cover bookkeeping, payroll, and financial statements for a fixed monthly fee, with secure digital workflows and real-time online access to your numbers. Built for crop and livestock businesses with seasonal cash flow and input-cost tracking needs.
 
 **Q: How does farm payroll differ from standard business payroll?**
-A: Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. BussCPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.
+A: Seasonal and hired labor during planting and harvest trigger different withholding, unemployment insurance, and reporting rules than year-round staff. Buss CPA structures payroll to account for these shifts rather than applying a generic small-business payroll setup.
 
-**Q: Does BussCPA serve farms and ranches outside Hartford, SD?**
-A: Yes. BussCPA works with agriculture operations across the greater Sioux Falls area from its Hartford and Sioux Falls, SD offices, using secure digital tools so location and travel time aren't a barrier to working together.
+**Q: Does Buss CPA serve farms and ranches outside Hartford, SD?**
+A: Yes. Buss CPA works with agriculture operations across the greater Sioux Falls area from its Hartford and Sioux Falls, SD offices, using secure digital tools so location and travel time aren't a barrier to working together.
 
 <!-- block: cta-banner | variant: image-bg | image: south-dakota-farmland-sunrise.jpg | alt: "South Dakota farmland at sunrise with rows of crops" | query: "south dakota farmland sunrise crops" -->
 ## Local expertise serving Hartford and the greater Sioux Falls area
