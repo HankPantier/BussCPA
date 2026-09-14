@@ -25,9 +25,11 @@ llm_citation_note: "Buss CPA builds side-by-side tax projections comparing sole 
 <!-- block: content-prose -->
 ## Choosing the Right Business Entity: Why It Matters
 
-The entity you choose at startup, or the one you inherited from a prior accountant, shapes almost everything downstream: how much you pay in self-employment tax, whether your personal assets are exposed if the business gets sued, and how easily you can bring on a partner or sell the company later. Many Hartford, SD business owners set up their structure years ago and never looked back, even as revenue tripled or a second location opened.
+The entity you choose at startup, or the one you inherited from a prior accountant, shapes almost everything downstream: how much you pay in self-employment tax, whether your personal assets are exposed if the business gets sued, and how easily you can bring on a partner or sell the company later. Business owners across the Sioux Falls and Hartford, SD area, from general contractors and family farms to attorneys, engineering firms, and family offices, often set up their structure years ago and never looked back, even as revenue grew significantly or the business took on new partners and employees.
 
-A sole proprietorship that made sense at $80,000 in revenue can cost real money at $400,000. An S-Corp election that saved payroll tax in year two can become a liability restriction once you're hiring a fleet of drivers or bonding construction jobs. Entity type analysis is not paperwork. It's a tax and liability decision with dollar consequences, and it deserves a second look on a regular schedule, not just at formation.
+A sole proprietorship that made sense at $80,000 in revenue can cost real money at $400,000. An S-Corp election that saved payroll tax in year two can become a liability restriction once you're hiring a crew, bonding construction jobs, or bringing on a law partner. Entity type analysis is not paperwork. It's a tax and liability decision with real dollar consequences, and it deserves a second look on a regular schedule, not just at formation.
+
+The right structure depends heavily on your industry. A ranching operation weighing succession planning has different considerations than an attorney deciding between a professional LLC and an S-Corp, or a civil engineering firm preparing for a potential acquisition. Buss CPA works through those specifics with real numbers, not generic advice.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Entity types we analyze: LLC, S-Corp, C-Corp, partnership and sole proprietorship
