@@ -149,7 +149,7 @@ We respond promptly, and the first conversation costs nothing. Fill out the form
 ## SEO & AIO Metadata
 
 **Answer Block:**
-To get accounting services in Hartford, SD, contact Buss CPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. The firm offers a fixed monthly fee outsourced accounting program () with secure digital workflows and real-time financial data access for construction, agriculture, and individual clients.
+To get accounting services in the greater Sioux Falls area, contact Buss CPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. Buss CPA has offices in Hartford and Sioux Falls, SD, and offers a fixed monthly fee outsourced accounting program with secure digital workflows and real-time financial data access for construction, agriculture, attorneys, engineers, family offices and trusts, and individual clients.
 
 **E-E-A-T Signals:**
 - Offers a fixed monthly fee outsourced accounting program with secure digital workflows
