@@ -41,7 +41,7 @@ Most attorneys didn't go to law school to reconcile a trust ledger at 9 p.m. Our
 
 The work runs through secure digital workflows built for confidentiality, which matters more in a law office than almost anywhere else. Bank feeds sync automatically, payroll runs on schedule, and monthly financial statements land in your inbox instead of a shoebox. Attorneys bill hours and manage cases. We handle the back office that keeps the lights on.
 
-This structure works whether you're a solo practitioner in Hartford or a multi-partner firm with associates and staff spread across departments. The fee stays fixed either way.
+This structure works whether you're a solo practitioner in Hartford or a multi-partner firm with associates and staff across the Sioux Falls metro. The fee stays fixed either way.
 
 <!-- block: content-split | variant: image-left | image: tax-planning-legal-documents.jpg | alt: "Tax documents and calculator on desk for legal practice tax planning" | query: "tax planning documents desk calculator" -->
 ## Tax planning and preparation for attorneys and firms
