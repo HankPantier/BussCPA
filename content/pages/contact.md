@@ -26,7 +26,7 @@ Buss CPA operates differently. Our outsourced accounting services replace the se
 With offices in Hartford and Sioux Falls, we serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're looking for accounting services in the greater Sioux Falls area that treat your business like part of the team rather than a once-a-year transaction, this is the model.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for construction, agriculture, attorneys, engineers, and family offices across the Sioux Falls area
+## Built for construction, agriculture, attorneys, engineers, and family offices and trusts across the greater Sioux Falls area
 
 Generic bookkeeping doesn't hold up once your business gets specific. Buss CPA works inside five niches where the accounting rules, deadlines, and pitfalls differ meaningfully from a typical small business, and where a generalist firm is most likely to miss something.
 
