@@ -1,10 +1,10 @@
 ---
 title: "Tax preparation and planning for businesses | Buss CPA"
 url: "/services/outsourced-accounting/tax"
-meta_title: "Business Tax Preparation in Hartford, SD | Buss CPA"
-meta_description: "Buss CPA offers business tax preparation and planning in Hartford, SD for construction, agriculture, and small business owners as part of its outsourced accounting services."
-target_keyword: "business tax preparation Hartford SD"
-secondary_keywords: ["CPA tax planning Hartford South Dakota","construction company tax preparation SD","agricultural business taxes Hartford","outsourced accounting Hartford SD","S-corp tax planning South Dakota","LLC tax preparation Hartford","farm tax preparation Hartford","attorney tax services South Dakota","engineer tax planning Hartford"]
+meta_title: "Business Tax Preparation in Sioux Falls & Hartford, SD | Buss CPA"
+meta_description: "Buss CPA offers business tax preparation and planning for construction, agriculture, attorneys, engineers, and family offices across the greater Sioux Falls, SD area, bundled under one fixed monthly fee."
+target_keyword: "business tax preparation Sioux Falls SD"
+secondary_keywords: ["CPA tax planning Sioux Falls South Dakota","construction company tax preparation Sioux Falls SD","agricultural business taxes South Dakota","farm tax preparation Hartford SD","attorney tax services Sioux Falls SD","engineer tax planning Sioux Falls SD","family office trust tax preparation South Dakota","outsourced accounting Sioux Falls SD","S-corp tax planning South Dakota","LLC tax preparation Hartford SD"]
 canonical_url: "https://busscpa.us/services/outsourced-accounting/tax"
 schema_markup: "Service"
 hero: "hero-split"
