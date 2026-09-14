@@ -1,5 +1,5 @@
 ---
-title: "QuickBooks Setup | BussCPA"
+title: "Accounting System Setup | BussCPA"
 url: "/services/advisory/quickbooks-setup"
 meta_title: "QuickBooks Setup Service in Hartford, SD | BussCPA"
 meta_description: "BussCPA's QuickBooks setup service builds the right chart of accounts, bank feeds, and app integrations from day one. Schedule a consultation to get started."
@@ -92,11 +92,11 @@ BussCPA's QuickBooks setup service configures your chart of accounts, bank and c
 - QuickBooks setup connects directly into BussCPA's outsourced accounting and advisory service lines for real-time financial visibility
 
 **Internal Links:**
-- outsourced accounting service → /services/outsourced-accounting — Shows how the setup feeds directly into BussCPA's ongoing bookkeeping and outsourced accounting offering
-- advisory team → /services/advisory — Links to the advisory service that depends on clean, correctly configured QuickBooks data
-- construction contractors → /industries/construction — Routes construction visitors to the industry page for job costing and contractor-specific needs
-- agriculture operations → /industries/agriculture — Routes agriculture visitors to the industry page covering payroll and seasonal tax needs
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a QuickBooks setup consultation
+- outsourced accounting service → /services/outsourced-accounting, Shows how the setup feeds directly into BussCPA's ongoing bookkeeping and outsourced accounting offering
+- advisory team → /services/advisory, Links to the advisory service that depends on clean, correctly configured QuickBooks data
+- construction contractors → /industries/construction, Routes construction visitors to the industry page for job costing and contractor-specific needs
+- agriculture operations → /industries/agriculture, Routes agriculture visitors to the industry page covering payroll and seasonal tax needs
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a QuickBooks setup consultation
 
 **FAQ Block:**
 
