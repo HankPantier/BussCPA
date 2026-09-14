@@ -4,7 +4,7 @@ url: "/terms-conditions"
 meta_title: "CPA Terms and Conditions | Buss CPA Hartford, SD"
 meta_description: "Review Buss CPA's website terms and conditions covering our Hartford, SD outsourced accounting, advisory, and personal income tax services and secure client portals."
 target_keyword: "CPA terms and conditions Hartford SD"
-secondary_keywords: ["Buss CPA website policies","accounting firm legal terms Hartford","CPA service agreement South Dakota","outsourced accounting terms conditions","tax preparation terms of service","construction accounting CPA Hartford","agricultural accounting firm policies","family office CPA agreement","estate planning CPA terms","business advisory service agreement"]
+secondary_keywords: ["Buss CPA website policies","accounting firm legal terms Hartford","CPA service agreement South Dakota","outsourced accounting terms conditions","tax preparation terms of service","construction accounting CPA Hartford","agricultural accounting firm policies","family office CPA agreement","business advisory service agreement","Client Center portal terms","South Dakota Board of Accountancy CPA","engagement letter outsourced accounting"]
 canonical_url: "https://busscpa.us/terms-conditions"
 schema_markup: "WebPage"
 hero: "page-header"
