@@ -63,7 +63,7 @@ A C-Corp pays corporate tax directly and shareholders pay tax again on dividends
 ## How Buss CPA's entity analysis process works
 
 ### Gather your current financial picture
-We start with your last two years of tax returns, current P&L, and ownership structure. For agriculture clients, that includes payroll setup and any farm-specific elections already in place.
+We start with your last two years of tax returns, current P&L, and ownership structure. For agriculture and ranching clients, that includes payroll setup, any farm-specific elections already in place, and how land and equipment are currently held. For attorneys, engineers, and family offices, we look at how ownership is structured and whether professional licensing or trust considerations affect available entity options.
 
 ### Build side-by-side tax projections
 We model your actual numbers under each viable entity type, sole proprietorship, partnership, LLC, S-Corp, and C-Corp, showing the projected federal and state tax liability for each scenario, not a generic estimate.
