@@ -67,7 +67,7 @@ Law firms, engineering firms, and family offices and trusts across the greater S
 ### Attorneys and law firms
 icon: Scale
 
-Trust accounting and IOLTA reconciliation require precision most bookkeepers never touch. Buss CPA keeps client funds separated correctly and reporting audit-ready for law firms in Sioux Falls and Hartford. See our [accounting services for attorneys](/industries/attorneys).
+Trust accounting and IOLTA reconciliation require precision most bookkeepers never touch. Buss CPA keeps client funds separated correctly and reporting audit-ready for law firms throughout the Sioux Falls metro and surrounding South Dakota communities. See our [accounting services for attorneys](/industries/attorneys).
 
 ### Engineering firms
 icon: Wrench
