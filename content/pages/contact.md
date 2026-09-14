@@ -4,7 +4,7 @@ url: "/contact"
 meta_title: "CPA & Accounting Services in Sioux Falls & Hartford, SD | Buss CPA"
 meta_description: "Contact Buss CPA for accounting services in Sioux Falls and Hartford, SD. Fixed-fee outsourced accounting for construction, agriculture, attorneys, engineers, and family offices, plus personal tax prep."
 target_keyword: "accounting services Sioux Falls SD"
-secondary_keywords: ["CPA Hartford South Dakota","construction accounting Hartford SD","agricultural accounting SD","outsourced accounting Hartford","attorney CPA Hartford SD","family office accounting South Dakota","tax preparation Hartford SD","engineer accountant Hartford","business advisory Hartford SD","farm accounting South Dakota","small business CPA Hartford"]
+secondary_keywords: ["CPA Sioux Falls South Dakota","CPA Hartford South Dakota","construction accounting Sioux Falls SD","agricultural accounting South Dakota","farm accounting South Dakota","outsourced accounting Sioux Falls","attorney CPA Sioux Falls SD","family office accounting South Dakota","tax preparation Sioux Falls SD","engineer accountant Sioux Falls","business advisory Sioux Falls SD","ranch accounting South Dakota","small business CPA Sioux Falls"]
 canonical_url: "https://busscpa.us/contact"
 schema_markup: "ContactPage"
 hero: "page-header"
