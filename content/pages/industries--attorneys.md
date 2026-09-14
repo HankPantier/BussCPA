@@ -139,7 +139,7 @@ A: We prepare entity-level returns for partnerships, PLLCs, and S-corps, along w
 A: Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data.
 
 **Q: Do you work with solo practitioners or only larger law firms?**
-A: Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs.
+A: Both. Solo attorneys and multi-partner firms with associates and staff across the Sioux Falls and Hartford area use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs.
 
 **Q: How is financial data kept secure for law firm clients?**
 A: Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files.
