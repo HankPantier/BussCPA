@@ -1,7 +1,7 @@
 ---
 title: "Accounting and tax services for attorneys and law firms | Buss CPA"
 url: "/industries/attorneys"
-meta_title: "Accounting Services for Attorneys | Hartford SD CPA"
+meta_title: "Accounting Services for Attorneys | Sioux Falls & Hartford SD CPA"
 meta_description: "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today."
 target_keyword: "accounting services for attorneys Hartford SD"
 secondary_keywords: ["CPA for law firms Hartford South Dakota","tax services attorneys Hartford SD","outsourced accounting law firms Hartford","attorney tax preparation Hartford SD","law firm bookkeeping Hartford South Dakota","tax planning for lawyers Hartford SD","law firm CFO services Hartford South Dakota","attorney financial management Hartford"]
