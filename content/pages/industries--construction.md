@@ -3,7 +3,7 @@ title: "Accounting built for contractors and builders | Buss CPA"
 url: "/industries/construction"
 meta_title: "Construction Accounting Services in Sioux Falls & Hartford, SD | Buss CPA"
 meta_description: "Outsourced accounting, job costing, tax planning, and advisory for contractors and builders in Sioux Falls and Hartford, South Dakota. Schedule a consultation with Buss CPA."
-target_keyword: "construction accounting Hartford SD"
+target_keyword: "construction accounting Sioux Falls SD"
 secondary_keywords: ["contractor accountant Hartford South Dakota","construction CPA near me","builder accounting services Hartford","construction tax preparation SD","outsourced accounting for contractors","construction bookkeeping Hartford","CPA for builders South Dakota","construction advisory services","contractor tax planning Hartford SD","general contractor CPA Hartford"]
 canonical_url: "https://busscpa.us/industries/construction"
 schema_markup: "Service"
