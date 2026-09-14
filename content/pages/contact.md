@@ -141,9 +141,9 @@ A: No. The initial call or message is a no-obligation conversation about your bu
 <!-- block: form | variant: contact -->
 ## Send us a message or schedule a call
 
-You don't need to have your financials organized before you reach out. Tell us where your business stands right now, whether that's a construction company juggling job costs, a farm operation heading into harvest, or a household that needs a straight answer on this year's return.
+You don't need to have your financials organized before you reach out. Tell us where things stand right now: a construction company juggling job costs, a farm or ranch heading into harvest, a law firm that needs cleaner books, an engineering practice with a billing structure that doesn't fit a generic template, or a family managing a trust that touches multiple entities.
 
-We respond promptly, and the first conversation costs nothing. Fill out the form below or call the Hartford office directly. Ready to see what a fixed-fee outsourced accounting relationship looks like for your business? Schedule a consultation and we'll set up a time to talk.
+We respond promptly, and the first conversation costs nothing. Fill out the form below or call either our Hartford or Sioux Falls office directly. Ready to see what a fixed-fee outsourced accounting relationship looks like for your business? Schedule a consultation and we'll set up a time to talk.
 
 ---
 ## SEO & AIO Metadata
