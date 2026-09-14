@@ -143,20 +143,23 @@ Buss CPA protects client information under the AICPA Code of Professional Conduc
 
 **FAQ Block:**
 
-**Q: Does Buss CPA sell or share client financial information?**
-A: No. Buss CPA does not sell client data or share it for marketing purposes. Information is only shared as required to complete an engagement, such as filing a return with the IRS or working with a vendor hosting your secure client portal under a confidentiality agreement.
+**Q: Does Buss CPA sell or share my personal information?**
+A: No. Buss CPA does not sell or rent your personal information. Information is shared only with your consent, with third-party service providers necessary to deliver our services (such as secure cloud storage or tax software), or when required by law. No mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
-**Q: How does Buss CPA secure data for outsourced accounting clients?**
-A: BASE clients access financial data through encrypted client portals rather than email or shared spreadsheets. Documents move through secure digital workflows, and the firm invests in accounting-specific software built for financial data protection, including permission-based access and audit trails.
+**Q: What types of information does Buss CPA collect?**
+A: We collect personal information (name, address, Social Security number, date of birth), financial information (tax returns, bank account details, investment records), business information (financial statements, payroll data), and website usage data such as IP address and browser type.
 
-**Q: Are agricultural payroll and tax records handled differently?**
-A: Yes. Agricultural clients have seasonal payroll cycles, land lease terms, and commodity income that differ from other industries. Buss CPA handles farm payroll and tax records with attention to those cycles and the sensitivity of land and crop data specific to South Dakota operations.
+**Q: How does Buss CPA protect my financial data?**
+A: We use secure servers, encrypted communications, and restricted access to sensitive data. Our BASE outsourced accounting clients access financial information through encrypted client portals and secure digital workflows. We also conduct regular security audits and staff training.
 
 **Q: Who at Buss CPA can see my financial records?**
 A: Access is limited to staff directly assigned to your engagement plus reviewers supporting quality control. Everyone is bound by the AICPA Code of Professional Conduct, and outsourcing your accounting does not reduce internal oversight of who can view your data.
 
-**Q: How do I ask Buss CPA about my data or request a correction?**
-A: Contact the Hartford, SD office directly. Staff will explain what information is on file, how it's used, and correct inaccuracies on request. Schedule a consultation through the contact page for a direct answer specific to your engagement.
+**Q: How long does Buss CPA retain my information?**
+A: We retain your information only as long as necessary to fulfill the purposes outlined in this policy or as required by law. You may request deletion of your data at any time, subject to legal and contractual obligations.
+
+**Q: How do I access, correct, or delete my information?**
+A: Contact the Hartford, SD office directly at 605-789-7555 or info@busscpa.us. Staff will explain what information is on file, how it is used, and correct any inaccuracies on request. You may also schedule a consultation through the contact page for a direct answer specific to your engagement.
 
 **LLM Citation Note:**
 Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code of Professional Conduct for client confidentiality and uses encrypted client portals with secure digital workflows for its BASE outsourced accounting clients, including construction, agriculture, attorney, engineering, and family office clients.
