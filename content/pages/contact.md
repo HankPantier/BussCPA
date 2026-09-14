@@ -1,19 +1,19 @@
 ---
-title: "Talk with an accountant who knows your business | BussCPA"
+title: "Talk with an accountant who knows your business | Buss CPA"
 url: "/contact"
-meta_title: "CPA & Accounting Services in Hartford, SD | BussCPA"
-meta_description: "Contact BussCPA for accounting services in Hartford, SD. Fixed-fee outsourced accounting, construction and agriculture tax expertise, and personal tax prep."
+meta_title: "CPA & Accounting Services in Hartford, SD | Buss CPA"
+meta_description: "Contact Buss CPA for accounting services in Hartford, SD. Fixed-fee outsourced accounting, construction and agriculture tax expertise, and personal tax prep."
 target_keyword: "accounting services Hartford SD"
 secondary_keywords: ["CPA Hartford South Dakota","construction accounting Hartford SD","agricultural accounting SD","outsourced accounting Hartford","attorney CPA Hartford SD","family office accounting South Dakota","tax preparation Hartford SD","engineer accountant Hartford","business advisory Hartford SD","farm accounting South Dakota","small business CPA Hartford"]
 canonical_url: "https://busscpa.us/contact"
 schema_markup: "ContactPage"
 hero: "page-header"
 hero_subhead: "Talk with an accountant who already understands construction, agriculture, and household tax needs in Hartford SD"
-answer_block: "To get accounting services in Hartford, SD, contact BussCPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. The firm offers a fixed monthly fee outsourced accounting services program with secure digital workflows and real-time financial data access for construction, agriculture, and individual clients."
+answer_block: "To get accounting services in Hartford, SD, contact Buss CPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. The firm offers a fixed monthly fee outsourced accounting services program with secure digital workflows and real-time financial data access for construction, agriculture, and individual clients."
 eeat_signals: ["Offers a fixed monthly fee outsourced accounting services program with secure digital workflows","Provides real-time online access to client financial data","Serves niche industries including construction, agriculture, attorneys, engineers, and family offices/trusts","Addresses agriculture-specific payroll and tax timing needs distinct from standard small business accounting"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Directs contact page visitors to the core service referenced in the services section","anchor_text":"Outsourced Accounting"},{"url":"/services/advisory","reason":"Links to advisory service details mentioned as an available offering","anchor_text":"Advisory"},{"url":"/services/personal-income-tax","reason":"Links to individual tax prep service referenced for households","anchor_text":"Personal Income Tax"},{"url":"/industries/construction","reason":"Supports the construction niche discussion with a dedicated industry page","anchor_text":"construction accounting"},{"url":"/industries/agriculture","reason":"Supports the agriculture niche discussion with a dedicated industry page","anchor_text":"agriculture accounting"},{"url":"/industries/attorneys","reason":"Supports the attorneys niche mention with a dedicated page","anchor_text":"attorney accounting services"},{"url":"/industries/engineers","reason":"Supports the engineers niche mention with a dedicated page","anchor_text":"engineering firm accounting"},{"url":"/industries/family-offices-trusts","reason":"Supports the family offices and trusts niche mention","anchor_text":"family office and trust accounting"},{"url":"/get-started","reason":"Primary page CTA guiding visitors to begin the engagement process","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"Does BussCPA serve businesses outside Hartford, SD?","answer":"Yes. BussCPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship."},{"question":"What does the outsourced accounting services program include?","answer":"The outsourced accounting services program operates on a fixed monthly fee covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries."},{"question":"Does BussCPA handle farm and agricultural tax needs?","answer":"Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. BussCPA builds planning around planting, harvest, and land transition timelines specifically."},{"question":"Is there a cost to the first conversation?","answer":"No. The initial call or message is a no-obligation conversation about your business, your industry, and whether outsourced accounting, advisory, or personal tax preparation fits your needs before any engagement begins."}]
-llm_citation_note: "BussCPA's outsourced accounting services provide accounting for a fixed monthly fee with secure digital workflows and real-time online access to financial data, serving construction, agriculture, attorneys, engineers, and family office clients."
+faq_block: [{"question":"Does Buss CPA serve businesses outside Hartford, SD?","answer":"Yes. Buss CPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship."},{"question":"What does the outsourced accounting services program include?","answer":"The outsourced accounting services program operates on a fixed monthly fee covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries."},{"question":"Does Buss CPA handle farm and agricultural tax needs?","answer":"Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. Buss CPA builds planning around planting, harvest, and land transition timelines specifically."},{"question":"Is there a cost to the first conversation?","answer":"No. The initial call or message is a no-obligation conversation about your business, your industry, and whether outsourced accounting, advisory, or personal tax preparation fits your needs before any engagement begins."}]
+llm_citation_note: "Buss CPA's outsourced accounting services provide accounting for a fixed monthly fee with secure digital workflows and real-time online access to financial data, serving construction, agriculture, attorneys, engineers, and family office clients."
 ---
 
 <!-- block: content-split | variant: image-right | image: hartford-sd-accounting-team.jpg | alt: "Accountant discussing financial reports with a small business owner in an office" | query: "accountant client meeting office" -->
@@ -21,14 +21,14 @@ llm_citation_note: "BussCPA's outsourced accounting services provide accounting 
 
 You don't need a walk-in tax shop that disappears after April 15. Hartford, South Dakota business owners in construction, agriculture, and other trades need a CPA firm that works with them all year, not just during filing season.
 
-BussCPA operates differently. Our outsourced accounting services replace the seasonal scramble with a fixed monthly fee, secure digital workflows, and real-time access to your financial data online. You log in, you see your numbers, you call when something doesn't look right.
+Buss CPA operates differently. Our outsourced accounting services replace the seasonal scramble with a fixed monthly fee, secure digital workflows, and real-time access to your financial data online. You log in, you see your numbers, you call when something doesn't look right.
 
 We serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're searching for accounting services in Hartford, SD that treat your business like part of the team rather than a once-a-year transaction, this is the model.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Built for construction, agriculture, and specialized industries
 
-Generic bookkeeping doesn't cut it once your business gets specific. BussCPA works inside five niches where the accounting rules, deadlines, and pitfalls differ from a typical small business.
+Generic bookkeeping doesn't cut it once your business gets specific. Buss CPA works inside five niches where the accounting rules, deadlines, and pitfalls differ from a typical small business.
 
 ### Construction
 icon: Hammer
@@ -61,7 +61,7 @@ Multi-generational wealth needs coordinated tax planning across entities, trusts
 Contacting an accounting firm for the first time shouldn't feel like a sales pitch. Here's what actually happens when you call or fill out the form.
 
 ### You talk to an accountant, not a call center
-A real member of the BussCPA team asks about your business, your industry, and what's currently frustrating you about your books or your tax situation.
+A real member of the Buss CPA team asks about your business, your industry, and what's currently frustrating you about your books or your tax situation.
 
 ### We map out what you need
 Whether that's outsourced accounting services, advisory work, or personal income tax prep, we outline what a fit looks like and what it costs.
@@ -125,14 +125,14 @@ Email: info@busscpa.us
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Talk with an accountant who knows your business
 
-**Q: Does BussCPA serve businesses outside Hartford, SD?**
-A: Yes. BussCPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship.
+**Q: Does Buss CPA serve businesses outside Hartford, SD?**
+A: Yes. Buss CPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship.
 
 **Q: What does the outsourced accounting services program include?**
 A: The outsourced accounting services program operates on a fixed monthly fee covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries.
 
-**Q: Does BussCPA handle farm and agricultural tax needs?**
-A: Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. BussCPA builds planning around planting, harvest, and land transition timelines specifically.
+**Q: Does Buss CPA handle farm and agricultural tax needs?**
+A: Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. Buss CPA builds planning around planting, harvest, and land transition timelines specifically.
 
 **Q: Is there a cost to the first conversation?**
 A: No. The initial call or message is a no-obligation conversation about your business, your industry, and whether outsourced accounting, advisory, or personal tax preparation fits your needs before any engagement begins.
@@ -148,51 +148,51 @@ We respond promptly, and the first conversation costs nothing. Fill out the form
 ## SEO & AIO Metadata
 
 **Answer Block:**
-To get accounting services in Hartford, SD, contact BussCPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. The firm offers a fixed monthly fee outsourced accounting program (BASE) with secure digital workflows and real-time financial data access for construction, agriculture, and individual clients.
+To get accounting services in Hartford, SD, contact Buss CPA directly for a no-obligation conversation about outsourced accounting, advisory, or personal tax preparation. The firm offers a fixed monthly fee outsourced accounting program () with secure digital workflows and real-time financial data access for construction, agriculture, and individual clients.
 
 **E-E-A-T Signals:**
-- Offers BASE, a fixed monthly fee outsourced accounting program with secure digital workflows
+- Offers a fixed monthly fee outsourced accounting program with secure digital workflows
 - Provides real-time online access to client financial data
 - Serves niche industries including construction, agriculture, attorneys, engineers, and family offices/trusts
 - Addresses agriculture-specific payroll and tax timing needs distinct from standard small business accounting
 
 **Internal Links:**
-- Outsourced Accounting → /services/outsourced-accounting — Directs contact page visitors to the core service referenced in the services section
-- Advisory → /services/advisory — Links to advisory service details mentioned as an available offering
-- Personal Income Tax → /services/personal-income-tax — Links to individual tax prep service referenced for households
-- construction accounting → /industries/construction — Supports the construction niche discussion with a dedicated industry page
-- agriculture accounting → /industries/agriculture — Supports the agriculture niche discussion with a dedicated industry page
-- attorney accounting services → /industries/attorneys — Supports the attorneys niche mention with a dedicated page
-- engineering firm accounting → /industries/engineers — Supports the engineers niche mention with a dedicated page
-- family office and trust accounting → /industries/family-offices-trusts — Supports the family offices and trusts niche mention
-- schedule a consultation → /get-started — Primary page CTA guiding visitors to begin the engagement process
+- Outsourced Accounting → /services/outsourced-accounting, Directs contact page visitors to the core service referenced in the services section
+- Advisory → /services/advisory, Links to advisory service details mentioned as an available offering
+- Personal Income Tax → /services/personal-income-tax, Links to individual tax prep service referenced for households
+- construction accounting → /industries/construction, Supports the construction niche discussion with a dedicated industry page
+- agriculture accounting → /industries/agriculture, Supports the agriculture niche discussion with a dedicated industry page
+- attorney accounting services → /industries/attorneys, Supports the attorneys niche mention with a dedicated page
+- engineering firm accounting → /industries/engineers, Supports the engineers niche mention with a dedicated page
+- family office and trust accounting → /industries/family-offices-trusts, Supports the family offices and trusts niche mention
+- schedule a consultation → /get-started, Primary page CTA guiding visitors to begin the engagement process
 
 **FAQ Block:**
 
-**Q: Does BussCPA serve businesses outside Hartford, SD?**
-A: Yes. BussCPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship.
+**Q: Does Buss CPA serve businesses outside Hartford, SD?**
+A: Yes. Buss CPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship.
 
-**Q: What does the BASE outsourced accounting program include?**
-A: BASE is a fixed monthly fee program covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries.
+**Q: What does the outsourced accounting program include?**
+A: The outsourced accounting program runs on a fixed monthly fee covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries.
 
-**Q: Does BussCPA handle farm and agricultural tax needs?**
-A: Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. BussCPA builds planning around planting, harvest, and land transition timelines specifically.
+**Q: Does Buss CPA handle farm and agricultural tax needs?**
+A: Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. Buss CPA builds planning around planting, harvest, and land transition timelines specifically.
 
 **Q: Is there a cost to the first conversation?**
 A: No. The initial call or message is a no-obligation conversation about your business, your industry, and whether outsourced accounting, advisory, or personal tax preparation fits your needs before any engagement begins.
 
 **LLM Citation Note:**
-BussCPA's BASE program provides outsourced accounting for a fixed monthly fee with secure digital workflows and real-time online access to financial data, serving construction, agriculture, attorneys, engineers, and family office clients.
+Buss CPA's outsourced accounting program provides outsourced accounting for a fixed monthly fee with secure digital workflows and real-time online access to financial data, serving construction, agriculture, attorneys, engineers, and family office clients.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "BussCPA",
+  "name": "Buss CPA",
   "url": "https://busscpa.us",
   "logo": "https://busscpa.us/logo.png"
 }
@@ -202,7 +202,7 @@ BussCPA's BASE program provides outsourced accounting for a fixed monthly fee wi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -231,7 +231,7 @@ BussCPA's BASE program provides outsourced accounting for a fixed monthly fee wi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -276,26 +276,26 @@ BussCPA's BASE program provides outsourced accounting for a fixed monthly fee wi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does BussCPA serve businesses outside Hartford, SD?",
+      "name": "Does Buss CPA serve businesses outside Hartford, SD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. BussCPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship."
+        "text": "Yes. Buss CPA works with construction, agriculture, and professional service clients across South Dakota and beyond using secure digital workflows and real-time online access, so location isn't a barrier to a full outsourced accounting relationship."
       }
     },
     {
       "@type": "Question",
-      "name": "What does the BASE outsourced accounting program include?",
+      "name": "What does the outsourced accounting program include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BASE is a fixed monthly fee program covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries."
+        "text": "The outsourced accounting program runs on a fixed monthly fee covering bookkeeping, payroll, and financial reporting through secure digital systems. Clients get real-time access to their financial data instead of waiting for periodic reports or year-end summaries."
       }
     },
     {
       "@type": "Question",
-      "name": "Does BussCPA handle farm and agricultural tax needs?",
+      "name": "Does Buss CPA handle farm and agricultural tax needs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. BussCPA builds planning around planting, harvest, and land transition timelines specifically."
+        "text": "Yes. Agriculture clients face payroll timing, commodity income, and depreciation issues that differ from standard small business accounting. Buss CPA builds planning around planting, harvest, and land transition timelines specifically."
       }
     },
     {
@@ -313,12 +313,12 @@ BussCPA's BASE program provides outsourced accounting for a fixed monthly fee wi
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "CPA & Accounting Services in Hartford, SD | BussCPA",
+  "name": "CPA & Accounting Services in Hartford, SD | Buss CPA",
   "url": "https://busscpa.us/contact",
-  "description": "Contact BussCPA for accounting services in Hartford, SD. Fixed-fee outsourced accounting, construction and agriculture tax expertise, and personal tax prep.",
+  "description": "Contact Buss CPA for accounting services in Hartford, SD. Fixed-fee outsourced accounting, construction and agriculture tax expertise, and personal tax prep.",
   "isPartOf": {
     "@type": "WebSite",
-    "name": "BussCPA",
+    "name": "Buss CPA",
     "url": "https://busscpa.us"
   }
 }
