@@ -27,14 +27,14 @@ Tax returns are not one-size-fits-all. Some people in Hartford and Sioux Falls, 
 
 Instead of a seasonal preparer who disappears after April 15, you get a CPA who takes the time to understand your full picture before the return is ever started. That means fewer surprises at filing time and more opportunities caught before the year closes.
 
-<!-- block: content-split | variant: image-right | image: construction-agriculture-tax-review.jpg | alt: "CPA reviewing personal tax documents with a business owner client at a desk" | query: "contractor reviewing paperwork with accountant" -->
-## Personal income tax for individuals, families, and business owners alike
+<!-- block: content-split | variant: image-right | image: construction-agriculture-tax-review.jpg | alt: "CPA reviewing personal tax documents with a client at a desk" | query: "person reviewing paperwork with accountant" -->
+## Personal income tax for individuals and families at every stage of life
 
 The thread connecting all of our personal tax clients is not the complexity of their return. It is the fact that they want a real CPA in their corner, not a seasonal storefront that processes returns in volume and moves on.
 
-Some clients come to us with a single W-2 and a question about whether they are leaving deductions on the table. Others have rental properties, brokerage accounts, retirement distributions, or income from a side business layered on top of their regular wages. Business owners, construction and agriculture clients, attorneys, engineers, and family office trustees bring additional considerations like K-1 partnership income, equipment depreciation, farm income averaging, and distributable net income calculations across multiple beneficiaries. In every case, Buss CPA's approach is the same: understand the full picture first, then prepare the return.
+Some clients come to us with a single W-2 and a question about whether they are leaving deductions on the table. Others have rental properties, brokerage accounts, retirement distributions, or income coming from several places at once. Life changes like getting married, buying or selling a home, welcoming a child, changing jobs, or approaching retirement all carry tax implications that generic software does not catch. In every situation, Buss CPA's approach is the same: understand your full picture first, then prepare the return.
 
-If we are already handling your outsourced accounting, we come into tax season knowing your books. If you are an individual or household coming to us specifically for personal tax, we take the time at the start of the relationship to understand where your income comes from, what your goals are, and what a good outcome looks like for you. Clients across Hartford and Sioux Falls, South Dakota get a CPA who answers the phone, works through a secure digital portal, and does not hand your file off to someone you have never met.
+Whether you are an individual, a household, or someone whose finances have grown more complicated over time, we take the time at the start of the relationship to understand where your income comes from, what your goals are, and what a good outcome looks like for you. Clients across Hartford and Sioux Falls, South Dakota get a CPA who answers the phone, works through a secure digital portal, and does not hand your file off to someone you have never met.
 
 <!-- block: checklist-section | variant: with-image | image: secure-portal-tax-documents.jpg | alt: "Client uploading tax documents through a secure online portal on a laptop" | query: "person using laptop online portal documents" -->
 ## Year-round tax planning instead of once-a-year filing
