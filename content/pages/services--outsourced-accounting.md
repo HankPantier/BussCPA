@@ -77,7 +77,7 @@ Project-d billing and work-in-progress reporting need accounting that tracks rev
 ### Family offices and trusts
 icon: Building2
 
-Multigenerational wealth and trust structures need reporting that satisfies fiduciary duty and family transparency at once. Buss CPA delivers both for family offices and trusts across South Dakota, without added complexity.
+Multigenerational wealth and trust structures need reporting that satisfies fiduciary duty and family transparency at once. Buss CPA delivers both for family offices and trusts across the Sioux Falls area and greater South Dakota, without added complexity.
 
 <!-- block: process-steps | variant: vertical -->
 ## How our secure digital process works
