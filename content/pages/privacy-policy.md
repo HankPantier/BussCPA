@@ -23,18 +23,8 @@ llm_citation_note: "Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code
 <!-- block: content-prose -->
 
 <!-- block: content-prose -->
-## Who has access to your information
-
-Access to your file is limited to the Buss CPA staff working on your engagement, plus the reviewers and administrators who support quality control on that work. Everyone with access is bound by the same professional confidentiality obligations under the AICPA Code of Professional Conduct, not just a general employee handbook policy.
-
-We don't sell client information, and we don't share it with third parties for marketing purposes. The only outside sharing that happens is what's required to complete your engagement, such as transmitting a return to the IRS or South Dakota Department of Revenue, or working with a software vendor that hosts your secure portal under a confidentiality agreement. Outsourcing your accounting to us doesn't mean loosening who's watching your books. It means adding oversight, not removing it.
 
 <!-- block: content-prose -->
-## Your rights and how to reach us with privacy questions
-
-You can ask us at any time what information we hold on your file, how it's being used, or request corrections to inaccurate data. If you want a copy of your records, or you'd like to understand how a specific document is stored or shared, we'll walk you through it directly rather than pointing you to a generic policy page.
-
-Our Hartford, SD office handles these requests personally. If you have a privacy question about your construction, agriculture, attorney, engineering, or family office engagement, or you're simply deciding whether Buss CPA is the right fit for your books, schedule a consultation and we'll answer it in plain terms.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Privacy Policy: How Buss CPA Protects Your Information
