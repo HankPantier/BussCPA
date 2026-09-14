@@ -119,7 +119,7 @@ A: Yes. Business owners get coordinated business and personal tax planning under
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "CPA shaking hands with a client in a modern Hartford SD office" | query: "professional handshake office consultation" -->
 ## Ready to hand off the accounting work?
 
-Running estimated tax numbers at midnight or reconciling job costs on a Sunday isn't the job you signed up for. Buss CPA's outsourced accounting services package takes over the accounting function entirely: fixed fee, real-time access, industry expertise included. Schedule a consultation and find out what your books would look like with an outsourced accounting department behind them.
+Running estimated tax numbers at midnight or reconciling job costs on a Sunday isn't the job you signed up for. Buss CPA takes over the accounting function entirely: fixed fee, real-time access, and industry expertise included. Whether you farm in eastern South Dakota, run a construction company in Sioux Falls, manage a law practice, lead an engineering firm, or oversee a family trust, schedule a consultation and find out what your books would look like with a dedicated outsourced accounting team behind them.
 
 ---
 ## SEO & AIO Metadata
