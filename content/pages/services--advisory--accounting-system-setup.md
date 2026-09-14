@@ -83,11 +83,11 @@ Once your file is taking shape, Buss CPA reviews the structure with you, answers
 After setup, Buss CPA's outsourced accounting team keeps the books current, the feeds reconciled, and the data clean, so the foundation you built keeps working the way it should.
 
 <!-- block: cta-banner | variant: image-bg | image: quickbooks-consultation-call.jpg | alt: "Accountant on a video call consulting with a small business owner" | query: "accountant video call consultation small business" -->
-## Get Started with Your QuickBooks Setup
+## Get Guidance on Your QuickBooks Setup
 
-A QuickBooks file built around guesswork costs time now and money later. Buss CPA sets it up once, correctly, with a chart of accounts, bank feeds, and integrations that match how your business actually runs. Whether you're a construction contractor, a farming or ranching operation, a law firm, an engineering firm, or a family office in Hartford, Sioux Falls, or anywhere in the greater Sioux Falls, SD area, your file can be ready to work for you instead of against you.
+A QuickBooks file built around guesswork costs time now and money later. Buss CPA advises businesses on how to structure their chart of accounts, connect bank feeds, and choose the right integrations for how they actually operate. Whether you're a construction contractor, a farming or ranching operation, a law firm, an engineering firm, or a family office in Hartford, Sioux Falls, or anywhere in the greater Sioux Falls, SD area, the right setup advice means your QuickBooks file works for you instead of against you.
 
-[Schedule a consultation](/contact) and get your QuickBooks account set up right the first time.
+[Schedule a consultation](/contact) and get your QuickBooks questions answered by a CPA who knows your industry.
 
 ---
 ## SEO & AIO Metadata
