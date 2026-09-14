@@ -27,7 +27,7 @@ llm_citation_note: "Buss CPA pairs each client with three dedicated professional
 
 Hiring one bookkeeper or one accountant rarely covers everything a growing business needs. A single employee might be strong with data entry but shaky on tax strategy, or comfortable running payroll but unable to read a balance sheet the way a CFO would. Buss CPA built the Team of 3 model to close that gap: one fixed monthly fee, three specialists, and none of the overhead that comes with a new hire.
 
-Instead of stretching one person across bookkeeping, financial strategy, and tax compliance, you get a CFO-level advisor, a controller, and a staff accountant working on your books at the same time. Each brings a different skill set to the table, and together they cover more ground than most businesses could staff internally. It's an outsourced accounting team of 3 built around how finance departments work at larger companies, available to businesses in Hartford, SD, and beyond. Explore the full [outsourced accounting service](/services/outsourced-accounting) this model runs on.
+Instead of stretching one person across accounting, financial strategy, and tax compliance, you get a three people working on your books at the same time. Each brings a different skill set to the table, and together they cover more ground than most businesses could staff internally. It's an outsourced accounting team of 3 built around how finance departments work for businesses in the greater Sioux Falls area. Explore the full [outsourced accounting service](/services/outsourced-accounting) this model runs on.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Meet Your Three-Person Support System
