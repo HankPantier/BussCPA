@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-team-hartford.jpg"
 hero_image_alt: "Accounting team reviewing client financial reports on a laptop in a modern office"
-hero_subhead: "Fixed-fee outsourced accounting built for agriculture, construction, attorneys, engineers, and family offices in the Sioux Falls and Hartford area"
+hero_subhead: "Fixed-fee outsourced accounting built for agriculture, construction, attorneys, engineers, and family offices across the greater Sioux Falls area, including Hartford and Sioux Falls"
 hero_headline: "Accounting built around how your industry works"
 answer_block: "Buss CPA provides outsourced accounting services in Sioux Falls and Hartford, SD through a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves agriculture operations, construction companies, attorneys, engineers, family offices, and individuals throughout the greater Sioux Falls area and across South Dakota."
 eeat_signals: ["Offers an end-to-end outsourced accounting services package with a fixed monthly fee","Serves industry niches including construction, agriculture, attorneys, engineers, and family offices/trusts","Provides real-time online access to financial data through secure digital workflows","Handles agriculture-specific payroll and tax needs distinct from other industries","Combines outsourced accounting, advisory, and personal income tax services under one firm"]
