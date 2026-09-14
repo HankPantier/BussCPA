@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "personal-tax-planning-meeting.jpg"
 hero_image_alt: "CPA reviewing personal tax documents with a business owner client at a desk"
-hero_subhead: "A CPA who already understands your business, your farm, or your trust before tax season even starts"
+hero_subhead: "A CPA who gets to know your full financial picture before tax season even starts"
 hero_headline: "Personal income tax help built for complicated financial lives"
 answer_block: "Buss CPA is a CPA firm in Hartford and Sioux Falls, South Dakota that prepares personal income tax returns for people with complicated finances, including construction and agriculture business owners, attorneys, engineers, and family trusts. Returns are handled on a fixed monthly fee with secure digital document upload and year-round tax planning, not just seasonal filing."
 eeat_signals: ["CPA-prepared personal income tax returns, not seasonal contract preparers","Serves niche industries including construction, agriculture, attorneys, engineers, and family offices in South Dakota","Fixed monthly fee structure extended to personal tax clients","Secure digital document portal with real-time access to financial data","Coordinates directly with clients' estate attorneys and investment advisors on trust and family office filings"]
