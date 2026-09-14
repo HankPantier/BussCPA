@@ -23,7 +23,7 @@ llm_citation_note: "Buss CPA offers fixed-fee outsourced accounting (BASE) with 
 <!-- block: content-prose -->
 ## Trusted financial partners for family offices and trusts
 
-Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. Buss CPA built its outsourced accounting services to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a traditional bookkeeper.
+Family offices and trust administrators carry a weight most CPA firms never see up close: multiple entities, layered fiduciary duties, and reporting that has to satisfy beneficiaries, attorneys, and tax authorities at once. Buss CPA built its outsourced accounting services to handle exactly that kind of complexity without the overhead of an in-house finance team or the guesswork of a general accountant.
 
 Every engagement runs on a fixed monthly fee, so a family office in Hartford, Sioux Falls or anywhere in South Dakota knows its accounting cost before the year starts. Financial data lives in secure digital workflows with real-time online access, meaning a trustee or family principal can check entity-level statements from a phone at 9 p.m. without waiting on a callback. That combination, fixed pricing, encrypted access, modern tools, is what wealth continuity actually requires: consistent numbers, delivered on time, every time.
 
@@ -39,7 +39,7 @@ Fiduciary responsibility adds another layer most business owners never deal with
 <!-- block: checklist-section | variant: with-image | image: trust-accounting-documents.jpg | alt: "Trust accounting statements and fiduciary reports organized on a desk" | query: "trust documents financial paperwork desk" -->
 ## Trust and fiduciary accounting built for compliance
 
-Trust accounting has its own rulebook, and a generic bookkeeping approach doesn't hold up to a beneficiary's scrutiny or a court's review. Buss CPA tracks trust income, principal, and distributions the way fiduciary standards require, with documentation that stands up when someone asks for it.
+Trust accounting has its own rulebook, and a generalized approach doesn't hold up to a beneficiary's scrutiny or a court's review. Buss CPA tracks trust income, principal, and distributions the way fiduciary standards require, with documentation that stands up when someone asks for it.
 
 - Beneficiary statements prepared on a consistent schedule, with income and principal clearly separated
 - Trust income tracking that distinguishes taxable distributions from principal disbursements
@@ -81,7 +81,7 @@ That might mean modeling how a farm transfer affects three separate trusts, or w
 
 Most trust departments and legacy CPA firms still run on paper statements and quarterly mail. Buss CPA's outsourced accounting services replace that with a system built for a family office managing several entities at once.
 
-- One fixed monthly fee covers bookkeeping, reporting, and payroll across entities, no year-end surprise invoice
+- One fixed monthly fee covers accounting, reporting, and payroll across entities, no year-end surprise invoice
 - Bank-level encrypted portals give trustees and family principals real-time online access to account balances and reports
 - Digital document workflows eliminate mailed statements and lost paperwork between attorneys, trustees, and accountants
 - Investment in current accounting technology means faster monthly close and fewer reconciliation errors
@@ -104,9 +104,9 @@ A: Yes. Buss CPA regularly manages bookkeeping, reporting, and tax filings acros
 A: Yes. Buss CPA's secure digital workflows and real-time online dashboards let family offices and trustees anywhere in South Dakota work with the firm without needing to visit the office in person.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-meeting.jpg | alt: "CPA and client shaking hands after a family office consultation meeting" | query: "professional handshake office meeting consultation" -->
-## Work with a dedicated CPA team near Hartford, SD
+## Work with a dedicated CPA team that serves South Dakota
 
-Family offices and trustees across Hartford and the surrounding South Dakota region need an accounting team that understands entity complexity without needing it explained twice. Buss CPA answers the phone, keeps records straight across every trust and holding company involved, and gives family principals the same real-time visibility a much larger firm would charge more for.
+Family offices and trustees across Hartford, Sioux Falls and the surrounding South Dakota region need an accounting team that understands entity complexity without needing it explained twice. Buss CPA answers the phone, keeps records straight across every trust and holding company involved, and gives family principals the same real-time visibility a much larger firm would charge more for.
 
 Schedule a consultation to walk through your family office's structure and see how outsourced accounting services fit.
 
