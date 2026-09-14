@@ -56,7 +56,7 @@ Advisory only works if the numbers behind it are current. Buss CPA's secure digi
 
 Advisory work billed by the hour creates a bad incentive: you hesitate to call because you're not sure what the meeting will cost. Buss CPA bundles advisory into the same fixed monthly fee as our [outsourced accounting services](/services/outsourced-accounting). One invoice covers your books, payroll, tax filings, and the strategy conversations that come out of them.
 
-That structure removes the guesswork. You can ask about an equipment purchase, a new hire, or a distribution plan without watching a meter run. For a construction firm managing seasonal cash flow or a family office reviewing trust distributions, predictable billing matters as much as the advice itself.
+That structure removes the guesswork. You can ask about an equipment purchase, a new hire, or a distribution plan without watching a meter run. For a construction firm managing project cash flow, a farm planning around a commodity-driven income year, or a family office reviewing trust distributions, predictable billing matters as much as the advice itself. And when you have a question, you can pick up the phone and someone answers.
 
 <!-- block: process-steps | variant: vertical -->
 ## What working with a Buss CPA advisor looks like
