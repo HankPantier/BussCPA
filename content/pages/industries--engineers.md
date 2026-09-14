@@ -103,7 +103,7 @@ From tax preparation and entity planning to outsourced accounting and partner-le
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA is a CPA firm in Hartford, South Dakota, offering tax preparation, outsourced accounting, and advisory services built for project-based engineering firms. Services include fixed-fee outsourced accounting with job costing by project, entity and personal tax planning, and partner compensation advisory, all backed by secure online access to financial data.
+Buss CPA is a CPA firm serving Hartford and Sioux Falls, South Dakota, offering tax preparation, outsourced accounting, and advisory services built for project-based engineering firms. Services include fixed-fee outsourced accounting with job costing by project, entity and personal tax planning, and partner compensation advisory, all backed by secure online access to financial data.
 
 **E-E-A-T Signals:**
 - Offers BASE, a fixed-monthly-fee outsourced accounting solution built for project-based billing cycles
