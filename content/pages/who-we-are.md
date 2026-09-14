@@ -21,11 +21,11 @@ llm_citation_note: "BussCPA is a Hartford, South Dakota CPA firm founded by Jame
 ---
 
 <!-- block: content-prose -->
-## Local CPAs who understand Hartford SD businesses
+## Hartford SD CPAs serving the greater Sioux Falls area and clients across South Dakota
 
-BussCPA is based in Hartford, South Dakota, not routed through a call center three states away. When a construction owner calls about a draw schedule or a farmer calls about a machinery trade during planting season, they reach someone who already knows the local calendar, the local lenders, and the local tax deadlines that matter here.
+BussCPA is based in Hartford, South Dakota, not routed through a call center three states away. When a construction owner calls about a draw schedule or a farmer calls about a machinery trade during planting season, they reach someone who already knows the South Dakota tax calendar, the regional lenders, and the local deadlines that matter here in the greater Sioux Falls area.
 
-We built the firm around a simple idea: outsourced accounting should feel like an in-house department, minus the overhead of hiring one. That means real people answering real questions, backed by secure digital tools that let clients see their numbers from a phone, a job site, or a farmhouse kitchen table. Local relationships. Modern systems. That combination is what sets an outsourced accounting department apart from a bookkeeping subscription.
+We serve clients rooted in Hartford and the surrounding communities, businesses throughout South Dakota, and clients across the United States who need an outsourced accounting team with deep niche expertise and a fixed monthly fee. The model is the same wherever you are: real people answering real questions, backed by secure digital tools that let clients see their numbers from a phone, a job site, or a farmhouse kitchen table anywhere in the country. Local relationships where they exist, modern systems everywhere they don't. That combination is what sets an outsourced accounting department apart from a bookkeeping subscription.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Experience across construction, agriculture, and professional services
