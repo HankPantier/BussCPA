@@ -64,7 +64,7 @@ Household employee payroll, from estate managers to personal assistants, comes w
 <!-- block: checklist-section | variant: with-image | image: payroll-tax-compliance-review.jpg | alt: "Accountant reviewing payroll tax compliance documents at a desk" | query: "accountant reviewing tax documents desk" -->
 ## Staying compliant with South Dakota and federal payroll tax rules
 
-South Dakota doesn't charge state income tax, which simplifies withholding, but federal payroll tax rules still apply in full, and multi-state complications show up fast for Hartford businesses with employees or job sites across the Iowa, Minnesota, or Nebraska border. Missing a deposit deadline or a new-hire report doesn't just cost a penalty. It puts your entire payroll process under IRS scrutiny.
+South Dakota doesn't charge state income tax, which simplifies withholding, but federal payroll tax rules still apply in full, and multi-state complications show up fast for Sioux Falls and Hartford area businesses with employees or job sites across the Iowa, Minnesota, or Nebraska border. Missing a deposit deadline or a new-hire report doesn't just cost a penalty. It puts your entire payroll process under IRS scrutiny.
 
 Buss CPA manages the filings and deadlines that keep a business out of that position:
 
