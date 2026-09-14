@@ -72,7 +72,7 @@ Trust accounting and IOLTA reconciliation require precision most bookkeepers nev
 ### Engineering firms
 icon: Wrench
 
-Project-d billing and work-in-progress reporting need accounting that tracks revenue by contract, not just by month. We build reports around your project list for engineering firms throughout the greater Sioux Falls area. Visit our [accounting for engineers](/industries/engineers).
+Project-d billing and work-in-progress reporting need accounting that tracks revenue by contract, not just by month. We build reports around your project list for engineering firms across the greater Sioux Falls region, served from our Hartford and Sioux Falls offices. Visit our [accounting for engineers](/industries/engineers).
 
 ### Family offices and trusts
 icon: Building2
