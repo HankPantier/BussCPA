@@ -1,10 +1,10 @@
 ---
 title: "Careers in Accounting & Advisory | Buss CPA | BussCPA"
 url: "/careers"
-meta_title: "Accounting Careers Hartford SD | Buss CPA Firm Jobs"
-meta_description: "Explore accounting careers at Buss CPA in Hartford, SD. Modern digital workflows, niche industries, and advisory-focused roles await across South Dakota."
+meta_title: "Accounting Careers Hartford & Sioux Falls SD | Buss CPA Jobs"
+meta_description: "Explore accounting careers at Buss CPA, with offices in Hartford and Sioux Falls, SD. Modern digital workflows, niche industries, and advisory-focused roles across South Dakota."
 target_keyword: "accounting careers Hartford SD"
-secondary_keywords: ["accounting jobs Hartford South Dakota","CPA firm careers South Dakota","accounting advisory positions Hartford","construction accounting jobs SD","agriculture accounting careers Hartford","accounting internships Hartford SD","junior accountant jobs Hartford","tax advisor careers South Dakota","outsourced accounting jobs South Dakota","CPA jobs Hartford SD"]
+secondary_keywords: ["accounting jobs Hartford South Dakota","CPA firm careers South Dakota","accounting advisory positions Hartford","construction accounting jobs SD","agriculture accounting careers Hartford","accounting internships Hartford SD","junior accountant jobs Hartford","tax advisor careers South Dakota","outsourced accounting jobs South Dakota","CPA jobs Hartford SD","accounting careers Sioux Falls SD","CPA firm jobs Sioux Falls South Dakota","accounting internships Sioux Falls SD","CPA jobs Sioux Falls SD"]
 canonical_url: "https://busscpa.us/careers"
 schema_markup: "FAQPage"
 hero: "hero-split"
