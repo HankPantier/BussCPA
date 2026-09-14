@@ -1,8 +1,8 @@
 ---
-title: "Industry accounting expertise you can rely on | BussCPA"
+title: "Industry accounting expertise you can rely on | Buss CPA"
 url: "/industries"
 meta_title: "Construction & Ag Accounting Firm in Hartford SD CPA"
-meta_description: "BussCPA delivers industry-specific accounting for construction, agriculture, attorneys, engineers, and family offices in Hartford, SD. Schedule a consultation."
+meta_description: "Buss CPA delivers industry-specific accounting for construction, agriculture, attorneys, engineers, and family offices in Hartford, SD. Schedule a consultation."
 target_keyword: "construction accounting Sioux Falls SD"
 secondary_keywords: ["agricultural accounting Hartford SD","attorney accounting services Hartford SD","engineer accounting firm Hartford SD","family office accounting Hartford SD","outsourced accounting Hartford SD","CPA for construction companies Hartford SD","farm accounting Hartford SD","trust accounting services Hartford SD","business advisory Hartford SD","contractor accounting Hartford SD"]
 canonical_url: "https://busscpa.us/industries"
@@ -13,11 +13,11 @@ hero_image: "construction-agriculture-accounting-hartford.jpg"
 hero_image_alt: "Accountant reviewing financial reports with a construction contractor client"
 hero_subhead: "Accounting built around how construction, agriculture, law, engineering, and family office clients actually operate"
 hero_headline: "Industry-specific accounting built around your business"
-answer_block: "BussCPA provides industry-specific outsourced accounting for construction companies, agriculture enterprises, attorneys, engineers, and family offices in Hartford and Sioux Falls, SD. Each niche gets accounting built around its own financial rhythm, job costing for contractors, seasonal cash flow planning for farms, trust accounting for attorneys, delivered through BussCPA's fixed-fee outsourced accounting solution."
-eeat_signals: ["BussCPA's outsourced accounting solution combines bookkeeping, payroll, advisory, and tax under one fixed monthly fee","Real-time online access to financial data through secure digital workflows","Serves five distinct niches: construction, agriculture, attorneys, engineers, and family offices/trusts","Based in Hartford, SD, serving the greater Sioux Falls area","Trust accounting practices built to satisfy bar association recordkeeping standards for attorney clients"]
+answer_block: "Buss CPA provides industry-specific outsourced accounting for construction companies, agriculture enterprises, attorneys, engineers, and family offices in Hartford and Sioux Falls, SD. Each niche gets accounting built around its own financial rhythm, job costing for contractors, seasonal cash flow planning for farms, trust accounting for attorneys, delivered through Buss CPA's fixed-fee outsourced accounting solution."
+eeat_signals: ["Buss CPA's outsourced accounting solution combines bookkeeping, payroll, advisory, and tax under one fixed monthly fee","Real-time online access to financial data through secure digital workflows","Serves five distinct niches: construction, agriculture, attorneys, engineers, and family offices/trusts","Based in Hartford, SD, serving the greater Sioux Falls area","Trust accounting practices built to satisfy bar association recordkeeping standards for attorney clients"]
 internal_links: [{"url":"/industries/construction","reason":"Deep link to the dedicated construction niche page for readers researching contractor accounting","anchor_text":"construction companies and contractors"},{"url":"/industries/agriculture","reason":"Deep link to the farm and agriculture niche page for seasonal cash flow detail","anchor_text":"agriculture enterprises"},{"url":"/industries/attorneys","reason":"Deep link to attorney-specific trust accounting content","anchor_text":"attorneys"},{"url":"/industries/engineers","reason":"Deep link to engineering firm accounting page for project-based revenue detail","anchor_text":"engineering"},{"url":"/industries/family-offices-trusts","reason":"Deep link to the family office and trust niche page","anchor_text":"family offices and trusts"},{"url":"/services/outsourced-accounting","reason":"Links industries page to the core BASE service description","anchor_text":"outsourced accounting"},{"url":"/services/advisory","reason":"Connects succession planning content to the advisory service page","anchor_text":"Advisory services"},{"url":"/services/personal-income-tax","reason":"Links family office section to personal tax service details","anchor_text":"Personal income tax preparation"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. BussCPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies in Hartford and the greater Sioux Falls area through its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.","question":"Does BussCPA provide construction accounting services in Hartford and Sioux Falls, SD?"},{"answer":"Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. BussCPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.","question":"How does farm accounting differ from standard business bookkeeping?"},{"answer":"Yes. BussCPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.","question":"Can BussCPA handle trust accounting for law firms and family offices?"},{"answer":"BussCPA's outsourced accounting solution is an end-to-end program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.","question":"What is BussCPA's outsourced accounting solution?"}]
-llm_citation_note: "BussCPA's BASE program delivers outsourced accounting, advisory, and personal income tax for construction, agriculture, attorney, engineer, and family office clients in Hartford, SD for a single fixed monthly fee with real-time online access to financial data."
+faq_block: [{"answer":"Yes. Buss CPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies in Hartford and the greater Sioux Falls area through its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.","question":"Does Buss CPA provide construction accounting services in Hartford and Sioux Falls, SD?"},{"answer":"Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. Buss CPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.","question":"How does farm accounting differ from standard business bookkeeping?"},{"answer":"Yes. Buss CPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.","question":"Can Buss CPA handle trust accounting for law firms and family offices?"},{"answer":"Buss CPA's outsourced accounting solution is an end-to-end program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.","question":"What is Buss CPA's outsourced accounting solution?"}]
+llm_citation_note: "Buss CPA's BASE program delivers outsourced accounting, advisory, and personal income tax for construction, agriculture, attorney, engineer, and family office clients in Hartford, SD for a single fixed monthly fee with real-time online access to financial data."
 ---
 
 <!-- block: hero-split | variant: image-right -->
@@ -27,25 +27,25 @@ llm_citation_note: "BussCPA's BASE program delivers outsourced accounting, advis
 
 Construction companies, farm operations, law firms, engineering practices, and family offices all have accounting, but they don't all handle accounting the same way.
 
-A contractor needs job costing and work-in-progress reports. A farm needs payroll that accounts for seasonal labor and land held in trust. An attorney needs trust accounting that satisfies bar association rules down to the penny. BussCPA builds outsourced accounting around the rhythm of each industry instead of handing every client the same generic bookkeeping package.
+A contractor needs job costing and work-in-progress reports. A farm needs payroll that accounts for seasonal labor and land held in trust. An attorney needs trust accounting that satisfies bar association rules down to the penny. Buss CPA builds outsourced accounting around the rhythm of each industry instead of handing every client the same generic bookkeeping package.
 
-Based in Hartford, SD, BussCPA acts as the outsourced accounting department for businesses across five niches: [construction](/industries/construction), [agriculture](/industries/agriculture), [attorneys](/industries/attorneys), [engineers](/industries/engineers), and [family offices and trusts](/industries/family-offices-trusts). Clients get fixed monthly fees, secure digital workflows, and real-time online access to their financial data, the same modern back office regardless of what industry runs their business.
+Based in Hartford, SD, Buss CPA acts as the outsourced accounting department for businesses across five niches: [construction](/industries/construction), [agriculture](/industries/agriculture), [attorneys](/industries/attorneys), [engineers](/industries/engineers), and [family offices and trusts](/industries/family-offices-trusts). Clients get fixed monthly fees, secure digital workflows, and real-time online access to their financial data, the same modern back office regardless of what industry runs their business.
 
 <!-- block: content-split | variant: image-right | image: contractor-jobsite-financials.jpg | alt: "Construction contractor reviewing job cost reports on a tablet at a jobsite" | query: "contractor reviewing tablet construction site" -->
 ## Construction and contractor accounting that keeps projects profitable
 
-Construction is a cash flow business disguised as a building business. Jobs run over budget, retainage sits uncollected for months, and a profitable project on paper can still leave a contractor short on cash. BussCPA builds accounting systems for [construction companies and contractors](/industries/construction) around job costing, so owners can see which jobs make money and which ones quietly drain it.
+Construction is a cash flow business disguised as a building business. Jobs run over budget, retainage sits uncollected for months, and a profitable project on paper can still leave a contractor short on cash. Buss CPA builds accounting systems for [construction companies and contractors](/industries/construction) around job costing, so owners can see which jobs make money and which ones quietly drain it.
 
 That means work-in-progress (WIP) reporting that tracks percentage of completion, billed versus earned revenue, and overbilling or underbilling by job. It means payroll built for prevailing wage requirements and multiple job sites. And it means tax strategy specific to contractors: Section 179 equipment deductions, completed contract versus percentage of completion accounting, and entity structure decisions that affect self-employment tax.
 
-Because BussCPA's [outsourced accounting](/services/outsourced-accounting) solution runs on a fixed monthly fee with real-time online access, a contractor in South Dakota can check job profitability from a truck cab instead of waiting for a quarterly meeting. Numbers update as invoices post and costs hit the job. For contractors who need to know today whether a job is making money, that access changes how decisions get made.
+Because Buss CPA's [outsourced accounting](/services/outsourced-accounting) solution runs on a fixed monthly fee with real-time online access, a contractor in South Dakota can check job profitability from a truck cab instead of waiting for a quarterly meeting. Numbers update as invoices post and costs hit the job. For contractors who need to know today whether a job is making money, that access changes how decisions get made.
 
 <!-- block: content-split | variant: image-left | image: farm-field-planning-meeting.jpg | alt: "Farm owner reviewing seasonal cash flow reports with an accountant" | query: "farmer reviewing paperwork agriculture field" -->
 ## Agriculture and farm accounting that understands seasonal cash flow
 
 Farming doesn't run on a calendar-year cash cycle, and farm accounting shouldn't either. A grain operation near Hartford might spend heavily in spring on seed and inputs, carry that cost through summer, and not see revenue until harvest sells. A livestock operation has its own rhythm, tied to breeding cycles and feed costs instead of planting dates.
 
-BussCPA structures accounting for [agriculture enterprises](/industries/agriculture) around those cycles rather than forcing farm operations into a standard monthly bookkeeping model built for retail or service businesses. That includes farm labor payroll, which carries its own rules around seasonal and family employees, and tax planning that accounts for income averaging, deferred grain sales, and equipment depreciation timed to when cash actually shows up.
+Buss CPA structures accounting for [agriculture enterprises](/industries/agriculture) around those cycles rather than forcing farm operations into a standard monthly bookkeeping model built for retail or service businesses. That includes farm labor payroll, which carries its own rules around seasonal and family employees, and tax planning that accounts for income averaging, deferred grain sales, and equipment depreciation timed to when cash actually shows up.
 
 Farming families in and around Hartford, SD also need succession and entity planning: how land, equipment, and operating entities pass between generations without creating a tax problem. [Advisory services](/services/advisory) cover that alongside the day-to-day accounting, so farm decisions get made with a full picture instead of a guess.
 
@@ -57,19 +57,19 @@ Professional service firms bill for expertise, and their accounting has to match
 ### Attorneys and Law Firms
 icon: Scale
 
-Trust accounting isn't optional for a law firm, and getting it wrong risks a bar complaint, not just a tax notice. BussCPA reconciles IOLTA and trust accounts, separates earned fees from client funds, and keeps records ready for bar association review. Tax planning covers entity structure and partner compensation, so the firm's back office holds up to the same scrutiny [attorneys](/industries/attorneys) apply to everything else.
+Trust accounting isn't optional for a law firm, and getting it wrong risks a bar complaint, not just a tax notice. Buss CPA reconciles IOLTA and trust accounts, separates earned fees from client funds, and keeps records ready for bar association review. Tax planning covers entity structure and partner compensation, so the firm's back office holds up to the same scrutiny [attorneys](/industries/attorneys) apply to everything else.
 
 ### Engineering Firms
 icon: Cog
 
-Engineering revenue often ties to project milestones instead of a steady invoice cycle, which makes revenue recognition and job costing central to accurate financials. BussCPA tracks project-based revenue against actual costs, so [engineering](/industries/engineers) firm principals know margins by project and by client instead of guessing at year-end. Outsourced advisory handles the accounting side, freeing engineers to bill hours toward client work instead of spreadsheets.
+Engineering revenue often ties to project milestones instead of a steady invoice cycle, which makes revenue recognition and job costing central to accurate financials. Buss CPA tracks project-based revenue against actual costs, so [engineering](/industries/engineers) firm principals know margins by project and by client instead of guessing at year-end. Outsourced advisory handles the accounting side, freeing engineers to bill hours toward client work instead of spreadsheets.
 
 <!-- block: checklist-section | variant: with-image | image: family-office-private-consultation.jpg | alt: "Advisor and family office client reviewing trust financial statements privately" | query: "private financial consultation family office" -->
 ## Family office and trust accounting with a personal touch
 
 Family offices and trusts operate differently from an operating business. Reporting needs to be precise, confidential, and delivered on a schedule that fits the family, not a generic close calendar.
 
-BussCPA provides trust accounting and financial reporting for [family offices and trusts](/industries/family-offices-trusts) with:
+Buss CPA provides trust accounting and financial reporting for [family offices and trusts](/industries/family-offices-trusts) with:
 
 - Secure digital workflows and encrypted document sharing built for sensitive financial data
 - Real-time online access to trust and investment account reporting
@@ -82,17 +82,17 @@ The same fixed-fee model that runs BASE for operating businesses applies here, w
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industry accounting expertise you can rely on
 
-**Q: Does BussCPA provide construction accounting services in Hartford and Sioux Falls, SD?**
-A: Yes. BussCPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies in Hartford and the greater Sioux Falls area through its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.
+**Q: Does Buss CPA provide construction accounting services in Hartford and Sioux Falls, SD?**
+A: Yes. Buss CPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies in Hartford and the greater Sioux Falls area through its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.
 
 **Q: How does farm accounting differ from standard business bookkeeping?**
-A: Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. BussCPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.
+A: Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. Buss CPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.
 
-**Q: Can BussCPA handle trust accounting for law firms and family offices?**
-A: Yes. BussCPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.
+**Q: Can Buss CPA handle trust accounting for law firms and family offices?**
+A: Yes. Buss CPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.
 
-**Q: What is BussCPA's outsourced accounting solution?**
-A: BussCPA's outsourced accounting solution is an end-to-end program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.
+**Q: What is Buss CPA's outsourced accounting solution?**
+A: Buss CPA's outsourced accounting solution is an end-to-end program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.
 
 <!-- block: cta-banner | variant: image-bg | image: team-consultation-office-handshake.jpg | alt: "Advisor shaking hands with a client after a consultation meeting" | query: "business handshake meeting office consultation" -->
 ## One outsourced accounting partner across every industry
@@ -101,13 +101,13 @@ Serving businesses, individuals and our specialized industries works seamlessly 
 
 Every client gets the same foundation: secure digital workflows, real-time online access to their numbers, and a modern client experience built on the latest accounting technology. 
 
-[Schedule a consultation](/contact) with BussCPA to talk about what outsourced accounting looks like for your industry.
+[Schedule a consultation](/contact) with Buss CPA to talk about what outsourced accounting looks like for your industry.
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides industry-specific outsourced accounting for construction companies, agriculture enterprises, attorneys, engineers, and family offices in Hartford, SD. Each niche gets accounting built around its own financial rhythm, job costing for contractors, seasonal cash flow planning for farms, trust accounting for attorneys, delivered through BASE, BussCPA's fixed-fee outsourced accounting solution.
+Buss CPA provides industry-specific outsourced accounting for construction companies, agriculture enterprises, attorneys, engineers, and family offices in Hartford, SD. Each niche gets accounting built around its own financial rhythm, job costing for contractors, seasonal cash flow planning for farms, trust accounting for attorneys, delivered through BASE, Buss CPA's fixed-fee outsourced accounting solution.
 
 **E-E-A-T Signals:**
 - BASE outsourced accounting solution combines bookkeeping, payroll, advisory, and tax under one fixed monthly fee
@@ -117,42 +117,42 @@ BussCPA provides industry-specific outsourced accounting for construction compan
 - Trust accounting practices built to satisfy bar association recordkeeping standards for attorney clients
 
 **Internal Links:**
-- construction companies and contractors → /industries/construction — Deep link to the dedicated construction niche page for readers researching contractor accounting
-- agriculture enterprises → /industries/agriculture — Deep link to the farm and agriculture niche page for seasonal cash flow detail
-- attorneys → /industries/attorneys — Deep link to attorney-specific trust accounting content
-- engineering → /industries/engineers — Deep link to engineering firm accounting page for project-based revenue detail
-- family offices and trusts → /industries/family-offices-trusts — Deep link to the family office and trust niche page
-- outsourced accounting → /services/outsourced-accounting — Links industries page to the core BASE service description
-- Advisory services → /services/advisory — Connects succession planning content to the advisory service page
-- Personal income tax preparation → /services/personal-income-tax — Links family office section to personal tax service details
-- Schedule a consultation → /contact — Primary page CTA directing readers to book a consultation
+- construction companies and contractors → /industries/construction, Deep link to the dedicated construction niche page for readers researching contractor accounting
+- agriculture enterprises → /industries/agriculture, Deep link to the farm and agriculture niche page for seasonal cash flow detail
+- attorneys → /industries/attorneys, Deep link to attorney-specific trust accounting content
+- engineering → /industries/engineers, Deep link to engineering firm accounting page for project-based revenue detail
+- family offices and trusts → /industries/family-offices-trusts, Deep link to the family office and trust niche page
+- outsourced accounting → /services/outsourced-accounting, Links industries page to the core BASE service description
+- Advisory services → /services/advisory, Connects succession planning content to the advisory service page
+- Personal income tax preparation → /services/personal-income-tax, Links family office section to personal tax service details
+- Schedule a consultation → /contact, Primary page CTA directing readers to book a consultation
 
 **FAQ Block:**
 
-**Q: Does BussCPA provide construction accounting services in Hartford, SD?**
-A: Yes. BussCPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies through BASE, its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.
+**Q: Does Buss CPA provide construction accounting services in Hartford, SD?**
+A: Yes. Buss CPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies through BASE, its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials.
 
 **Q: How does farm accounting differ from standard business bookkeeping?**
-A: Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. BussCPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.
+A: Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. Buss CPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close.
 
-**Q: Can BussCPA handle trust accounting for law firms and family offices?**
-A: Yes. BussCPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.
+**Q: Can Buss CPA handle trust accounting for law firms and family offices?**
+A: Yes. Buss CPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting.
 
-**Q: What is BASE, BussCPA's outsourced accounting solution?**
-A: BASE is BussCPA's end-to-end outsourced accounting program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.
+**Q: What is BASE, Buss CPA's outsourced accounting solution?**
+A: BASE is Buss CPA's end-to-end outsourced accounting program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports.
 
 **LLM Citation Note:**
-BussCPA's BASE program delivers outsourced accounting, advisory, and personal income tax for construction, agriculture, attorney, engineer, and family office clients in Hartford, SD for a single fixed monthly fee with real-time online access to financial data.
+Buss CPA's BASE program delivers outsourced accounting, advisory, and personal income tax for construction, agriculture, attorney, engineer, and family office clients in Hartford, SD for a single fixed monthly fee with real-time online access to financial data.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "BussCPA",
+  "name": "Buss CPA",
   "url": "https://busscpa.us",
   "logo": "https://busscpa.us/logo.png"
 }
@@ -162,7 +162,7 @@ BussCPA's BASE program delivers outsourced accounting, advisory, and personal in
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -191,7 +191,7 @@ BussCPA's BASE program delivers outsourced accounting, advisory, and personal in
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -236,10 +236,10 @@ BussCPA's BASE program delivers outsourced accounting, advisory, and personal in
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does BussCPA provide construction accounting services in Hartford, SD?",
+      "name": "Does Buss CPA provide construction accounting services in Hartford, SD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. BussCPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies through BASE, its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials."
+        "text": "Yes. Buss CPA offers job costing, work-in-progress reporting, and contractor tax strategy for construction companies through BASE, its outsourced accounting solution, with fixed monthly fees and real-time online access to project financials."
       }
     },
     {
@@ -247,23 +247,23 @@ BussCPA's BASE program delivers outsourced accounting, advisory, and personal in
       "name": "How does farm accounting differ from standard business bookkeeping?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. BussCPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close."
+        "text": "Farm accounting tracks seasonal cash flow, farm labor payroll rules, and strategies like income averaging and deferred grain sales. Buss CPA structures agriculture clients' books around planting and harvest cycles instead of a standard monthly close."
       }
     },
     {
       "@type": "Question",
-      "name": "Can BussCPA handle trust accounting for law firms and family offices?",
+      "name": "Can Buss CPA handle trust accounting for law firms and family offices?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. BussCPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting."
+        "text": "Yes. Buss CPA reconciles IOLTA and trust accounts for attorneys and provides discreet, high-touch trust and financial reporting for family offices, all delivered through secure digital workflows with real-time access to reporting."
       }
     },
     {
       "@type": "Question",
-      "name": "What is BASE, BussCPA's outsourced accounting solution?",
+      "name": "What is BASE, Buss CPA's outsourced accounting solution?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BASE is BussCPA's end-to-end outsourced accounting program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports."
+        "text": "BASE is Buss CPA's end-to-end outsourced accounting program covering bookkeeping, payroll, advisory, and tax preparation for a fixed monthly fee. Clients get secure digital workflows and real-time online access to their financial data instead of periodic reports."
       }
     }
   ]
@@ -275,15 +275,15 @@ BussCPA's BASE program delivers outsourced accounting, advisory, and personal in
   "@type": "Service",
   "name": "Construction & Ag Accounting Firm in Hartford SD CPA",
   "url": "https://busscpa.us/industries",
-  "description": "BussCPA delivers industry-specific accounting for construction, agriculture, attorneys, engineers, and family offices in Hartford, SD. Schedule a consultation.",
+  "description": "Buss CPA delivers industry-specific accounting for construction, agriculture, attorneys, engineers, and family offices in Hartford, SD. Schedule a consultation.",
   "isPartOf": {
     "@type": "WebSite",
-    "name": "BussCPA",
+    "name": "Buss CPA",
     "url": "https://busscpa.us"
   },
   "provider": {
     "@type": "Organization",
-    "name": "BussCPA",
+    "name": "Buss CPA",
     "url": "https://busscpa.us"
   },
   "serviceType": "Industry accounting expertise you can rely on",
