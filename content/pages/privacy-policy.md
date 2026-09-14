@@ -17,32 +17,10 @@ llm_citation_note: "Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Our commitment to protecting your information
-
-You hand Buss CPA your financial statements, payroll records, tax returns, and sometimes the details of a trust or estate. That's not casual information. As a CPA firm, we operate under the AICPA Code of Professional Conduct, a confidentiality standard that goes well beyond what South Dakota law requires of most businesses. It shapes how we collect data, how we store it, and who inside our Hartford office ever sees it.
-
-Whether you're a contractor tracking job costs, a farm operation managing seasonal payroll, an attorney overseeing client trust accounts, an engineering firm billing by project, or a family office managing generational wealth, the same rule applies: your information stays yours. This policy explains what we collect, how we protect it, and how to reach us if you have questions about any of it.
 
 <!-- block: checklist-section | variant: with-image | image: secure-client-documents.jpg | alt: "Accountant reviewing financial documents on a laptop with a secure lock icon overlay" | query: "accountant reviewing financial documents laptop" -->
-## What information we collect and why
-
-We collect only what's necessary to deliver outsourced accounting, advisory, or personal tax preparation. That typically includes:
-
-- Financial statements, bank feeds, and general ledger data for bookkeeping and reporting
-- Payroll records, including wage detail and worker classifications for construction crews and seasonal agricultural labor
-- Tax documents such as W-2s, 1099s, K-1s, and prior returns for individuals and businesses
-- Business records like contracts, job cost reports, and equipment schedules for contractors
-- Trust, estate, and beneficiary information for family office and attorney trust accounting engagements
-- Contact and identity information needed to set up secure portal access
-
-We don't collect data beyond what a given engagement requires, and we tell you upfront why each item matters to the work.
 
 <!-- block: content-prose -->
-## How we secure your data with modern technology
-
-Outsourced accounting only works if you can trust the pipes it runs through. Buss CPA's BASE clients access real-time financial data through encrypted client portals rather than email attachments or shared spreadsheets. Documents move through secure digital workflows, not paper folders sitting on a desk.
-
-We invest in best-of-breed accounting and document management platforms built for financial data, not general-purpose file sharing tools repurposed for the job. That means encryption in transit and at rest, permission-based access, and audit trails on who opened what and when. If your books update daily, that data is protected the same way every single day, not just at tax time.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Industry-specific confidentiality considerations
