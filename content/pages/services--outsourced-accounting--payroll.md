@@ -17,7 +17,7 @@ llm_citation_note: "Buss CPA processes payroll under a fixed monthly fee as part
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Payroll that fits your industry, not a generic template
+## Payroll that fits your industry
 
 Payroll processing looks different depending on what you do for a living. A construction crew running certified payroll on a prevailing wage job, a farm operation bringing on seasonal labor every spring, a law firm separating partner draws from associate paychecks, an engineering firm tying labor to project billing, a family office cutting checks to household staff: none of that fits into a one-size-fits-all package built for retail shops and coffee stands.
 
