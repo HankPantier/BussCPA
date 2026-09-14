@@ -87,6 +87,27 @@ A: It means you know the cost upfront, with no surprise hourly billing at filing
 **Q: How does Buss CPA handle agriculture income tax with seasonal cash flow?**
 A: Buss CPA builds farm income averaging, equipment trade timing, and self-employment tax planning into the return, using year-round bookkeeping data so cash flow swings between planting and harvest are accounted for before filing, not discovered at tax time.
 
+**Q: Do I need a CPA for my personal taxes if my situation seems simple?**
+A: Many people assume they only need a CPA when their finances are complicated, but that is not always true. If you have had a major life change like a marriage, divorce, home purchase or sale, new child, job change, or retirement, a CPA can catch implications that tax software misses. Even straightforward returns benefit from a second set of eyes on deductions, withholding accuracy, and year-ahead planning.
+
+**Q: What kinds of individuals does Buss CPA prepare personal tax returns for?**
+A: Buss CPA prepares personal income tax returns for a wide range of individuals and families, including W-2 employees, retirees managing distributions, people with rental income or investment accounts, individuals who have had significant life changes, and those with more complex financial situations including business income, K-1s, or trust interests. If you live or work in the Hartford or Sioux Falls, South Dakota area, we are equipped to help.
+
+**Q: How does year-round tax planning actually help me?**
+A: Most tax preparers see you once a year and file your return. Buss CPA checks in before major decisions get made, whether that is reviewing your withholding mid-year, talking through the tax impact of selling a home, or helping you time a retirement distribution. Planning ahead means fewer surprises in April and more opportunities to reduce what you owe.
+
+**Q: Can Buss CPA handle trust and family office tax filings?**
+A: Yes. Buss CPA prepares fiduciary and trust income tax returns, coordinating with estate attorneys and investment advisors to manage distributable net income calculations and multi-generational planning with discretion for family office clients in South Dakota.
+
+**Q: Do you work with attorneys and engineers on personal tax planning?**
+A: Yes. Buss CPA prepares personal returns for attorneys and engineers dealing with K-1 partnership income, guaranteed payments, 1099 consulting income, and Qualified Business Income deductions specific to professional service firms.
+
+**Q: What does fixed-fee personal tax service mean?**
+A: It means you know the cost upfront, with no surprise hourly billing at filing time. Documents move through a secure client portal, and your CPA provides year-round planning check-ins, not just a once-a-year appointment.
+
+**Q: How does Buss CPA handle agriculture income tax with seasonal cash flow?**
+A: Buss CPA builds farm income averaging, equipment trade timing, and self-employment tax planning into the return, using year-round bookkeeping data so cash flow swings between planting and harvest are accounted for before filing, not discovered at tax time.
+
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-cpa-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation in Hartford SD" | query: "handshake business meeting office consultation" -->
 ## Get personal income tax help from a South Dakota CPA
 
