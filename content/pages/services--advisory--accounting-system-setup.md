@@ -43,7 +43,17 @@ Every setup looks different because every business is different. A law firm mana
 
 A messy QuickBooks file costs more than it looks like it does. Bookkeepers spend hours reclassifying transactions that were never categorized correctly. Reports come out wrong, so decisions get made on bad numbers. Tax season turns into a scramble to reconcile accounts that should have matched all along.
 
-A properly structured system fixes this at the source. Bank feeds pull in automatically. Categories are built to match how the business actually earns and spends money. Reports run in minutes instead of days, and they're accurate when they do. For a construction contractor tracking job costs or an agriculture operation managing seasonal payroll, that accuracy is the difference between guessing at profitability and knowing it.
+A properly structured system fixes this at the source. Bank feeds pull in automatically. Categories are built to match how the business actually earns and spends money. Reports run in minutes instead of days, and they're accurate when they do.
+
+The stakes look a little different by industry, but the core problem is the same:
+
+- **Construction:** A contractor who can't see job-level profitability is guessing whether a project made money until the final invoice is closed. QuickBooks built for job costing changes that.
+- **Agriculture:** Seasonal cash flow, Schedule F reporting, and livestock versus crop tracking require a structure that a generic small-business setup won't produce on its own.
+- **Attorneys:** Law firms need IOLTA trust account separation, matter-level billing visibility, and client cost tracking that keeps the firm in compliance and the books clean.
+- **Engineers:** Project-based billing, overhead allocation, and subconsultant cost tracking require a chart of accounts that mirrors how engineering work actually gets priced and invoiced.
+- **Family offices and trusts:** Multi-entity structures, investment distributions, and beneficiary reporting need a setup that keeps each entity distinct without creating a reconciliation nightmare at year end.
+
+Across the greater Sioux Falls, SD area, Buss CPA configures QuickBooks to match the real complexity of your work, not a template that was built for someone else's business.
 
 <!-- block: content-split | variant: image-left | image: outsourced-accounting-dashboard.jpg | alt: "Business owner reviewing real-time financial dashboard on a tablet" | query: "business owner reviewing financial dashboard tablet" -->
 ## How your QuickBooks setup connects to outsourced accounting and advisory
