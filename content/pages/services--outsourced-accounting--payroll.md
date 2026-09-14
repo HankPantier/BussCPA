@@ -37,11 +37,11 @@ See how Buss CPA supports [construction companies and contractors](/industries/c
 <!-- block: content-split | variant: image-left | image: farm-payroll-seasonal-workers.jpg | alt: "Farm manager reviewing seasonal worker payroll records in a barn office" | query: "farm manager reviewing paperwork office" -->
 ## Agricultural payroll with seasonal and specialized tax handling
 
-Farm and ag payroll runs on a different calendar than most industries. Seasonal crews show up for planting and harvest, hourly rates shift by task, and federal agricultural payroll tax rules carve out exemptions that don't apply anywhere else, including different FUTA and Social Security treatment for certain farm labor.
+Farm and ranch payroll runs on a different calendar than most industries. Seasonal crews show up for planting, calving, and harvest. Hourly rates shift by task. And federal agricultural payroll tax rules carve out exemptions that don't apply anywhere else, including different FUTA and Social Security treatment for certain farm and ranch labor.
 
-Buss CPA handles the details ag operations can't afford to get wrong: H-2A visa worker payroll and the specific withholding rules that come with it, seasonal worker onboarding and termination paperwork, and agricultural payroll tax exemptions that reduce what an operation owes when workers qualify. We know which wages are exempt from FUTA, which crew leader arrangements change the tax picture, and how to keep records straight when a headcount triples for six weeks and drops back down after harvest.
+Buss CPA works with farming and ranching operations across eastern South Dakota, handling the details that ag clients can't afford to get wrong: H-2A visa worker payroll and the specific withholding rules that come with it, seasonal worker onboarding and termination paperwork, and agricultural payroll tax exemptions that reduce what an operation owes when workers qualify. We know which wages are exempt from FUTA, which crew leader arrangements change the tax picture, and how to keep records straight when headcount triples for six weeks during harvest or calving season and drops back down after.
 
-Farm payroll isn't small-business payroll with a different label. Explore how Buss CPA works with [agriculture enterprises](/industries/agriculture) year-round.
+Farm and ranch payroll isn't small-business payroll with a different label. Explore how Buss CPA works with [agriculture enterprises](/industries/agriculture) year-round.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Payroll support for attorneys, engineers, and family offices
