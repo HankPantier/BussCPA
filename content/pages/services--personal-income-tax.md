@@ -63,7 +63,7 @@ You get a completed return and a real conversation about what drove the numbers,
 Once filed, we set calendar reminders for estimated payments and mid-year check-ins so next season starts with a plan already in motion.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Personal income tax help for complex finances
+## Frequently Asked Questions About Personal Income Tax Help
 
 **Q: Does Buss CPA prepare personal tax returns for construction business owners in Hartford and Sioux Falls, SD?**
 A: Yes. Buss CPA regularly prepares personal returns for construction company owners whose income flows through S-corps, partnerships, or Schedule C filings, coordinating depreciation schedules and estimated tax payments with their outsourced accounting relationship throughout the year.
