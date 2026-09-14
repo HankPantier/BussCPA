@@ -80,11 +80,12 @@ You get a clear recommendation with the numbers behind it, plus what's involved 
 Entity choice isn't a set-it-and-forget-it decision. These milestones are the ones we tell clients to watch for:
 
 - Net income has grown enough that self-employment or payroll tax has become a meaningful cost
-- You're bringing on a business partner or co-owner for the first time
-- You're hiring employees, especially seasonal or agricultural labor with different payroll rules
-- You're taking on outside financing, an SBA loan, or an investor
-- You're adding a second location, a new equipment fleet, or expanding into higher-liability work like general contracting
-- Ownership is changing hands through a sale, retirement, or family succession
+- You're bringing on a business partner, co-owner, or law partner for the first time
+- You're hiring employees, especially seasonal farm or ranch labor with different payroll rules
+- You're taking on outside financing, an SBA loan, a bonding line, or an investor
+- You're adding a second location, a new equipment fleet, or expanding into higher-liability work like general contracting or a new engineering practice area
+- Ownership is changing hands through a sale, retirement, or family succession on the farm or ranch
+- A family office or trust is being restructured around a new generation or a significant asset event
 
 <!-- block: content-split | variant: image-left | image: advisory-meeting-review.jpg | alt: "Accountant and business owner discussing financial strategy over documents" | query: "advisor client meeting discussing strategy" -->
 ## Entity strategy as part of your ongoing advisory relationship
