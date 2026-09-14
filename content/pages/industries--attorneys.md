@@ -17,9 +17,9 @@ llm_citation_note: "Buss CPA offers a fixed-monthly-fee outsourced accounting pr
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Trusted accounting support for Hartford area law firms
+## Trusted accounting support for Sioux Falls and Hartford area law firms
 
-Attorneys don't have time to explain trust accounting rules to a bookkeeper who's never handled a retainer. Buss CPA works with law firms and solo practitioners across Hartford, SD, and we already understand the difference between an IOLTA account and a firm operating account before you walk in the door. That matters when a generalist CPA firm treats your practice like any other small business.
+Attorneys don't have time to explain trust accounting rules to a bookkeeper who's never handled a retainer. Buss CPA works with law firms and solo practitioners across the greater Sioux Falls area, including our offices in Sioux Falls and Hartford, SD, and we already understand the difference between an IOLTA account and a firm operating account before you walk in the door. That matters when a generalist CPA firm treats your practice like any other small business.
 
 We act as an outsourced accounting department for legal practices, not a once-a-year tax preparer. Bookkeeping, payroll, tax filings, and financial reporting run on a fixed monthly fee, backed by secure digital workflows and real-time access to your numbers. You get a CPA who knows what a partner draw is without a phone call.
 
