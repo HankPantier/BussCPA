@@ -34,14 +34,14 @@ With offices in Hartford and Sioux Falls, Buss CPA serves businesses and familie
 
 Contractors lose money on paper long before they lose it in the field. Without accurate job costing, a general contractor in Sioux Falls, Hartford, or anywhere in the surrounding region can look profitable on a monthly P&L while a single job quietly bleeds cash. Buss CPA builds job costing systems that track labor, materials, and subcontractor costs against each project, not just the business as a whole.
 
-Work-in-progress reporting is handled so over-billing and under-billing show up before they become a bonding problem or a bank covenant issue. Construction cash flow moves differently than most small businesses: draw schedules, retainage, and seasonal slowdowns all factor in. Buss CPA's outsourced accounting team functions as your back office across the Sioux Falls metro and the broader South Dakota market, tracking payables, running payroll across job sites, and delivering real-time numbers instead of a shoebox handed over in April. [Learn more about our construction accounting services](/industries/construction).
+Work-in-progress reporting is handled so over-billing and under-billing show up before they become a bonding problem or a bank covenant issue. Construction cash flow moves differently than most small businesses: draw schedules, retainage, and seasonal slowdowns all factor in. Buss CPA's outsourced accounting team functions as your back office across the Sioux Falls metro and the broader South Dakota market, tracking payables, running payroll across job sites, and delivering real-time numbers. [Learn more about our construction accounting services](/industries/construction).
 
 <!-- block: content-split | variant: image-left | image: farm-operation-accounting-review.jpg | alt: "Farmer and accountant discussing financial documents near farm equipment" | query: "farmer reviewing financial documents" -->
 ## Agriculture accounting and tax planning for South Dakota farm and ranch operations
 
 Farm and ranch operations run on a different clock than most businesses, and the accounting needs to match. Seasonal income concentrated into a few months a year changes how you plan estimated taxes, manage input costs, and time equipment purchases. Agricultural payroll adds another layer: seasonal and family labor, different withholding treatment under South Dakota's rules, and Schedule F reporting for crop insurance proceeds and government payments that simply don't apply to an office or retail shop.
 
-Buss CPA works with grain, livestock, and ranch operations across the greater Sioux Falls area and throughout South Dakota to build cash flow projections around planting, calving, and harvest cycles, structure entity elections that fit multi-generational farm ownership, and plan depreciation on equipment and land improvements before year-end instead of scrambling after. Section 179 elections, commodity-driven income swings, livestock deductions, and land lease income all get handled inside the same fixed monthly fee as the rest of your books. Whether you're farming east of Sioux Falls or ranching in a neighboring county, the accounting framework is built to fit how your operation actually works. [See how we support agriculture clients](/industries/agriculture).
+Buss CPA works with farmers and ranchers across the greater Sioux Falls area and throughout South Dakota to build cash flow projections around planting, calving, and harvest cycles, structure entity elections that fit multi-generational farm ownership, and plan depreciation on equipment and land improvements before year-end instead of scrambling after. Section 179 elections, commodity-driven income swings, livestock deductions, and land lease income all get handled inside the same fixed monthly fee as the rest of your books. Whether you're farming east of Sioux Falls or ranching in a neighboring county, the accounting framework is built to fit how your operation actually works. [See how we support agriculture clients](/industries/agriculture).
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for attorneys, engineers, and family offices
@@ -69,7 +69,9 @@ Multi-generational wealth means multiple entities, multiple beneficiaries, and r
 ### Outsourced Accounting
 icon: Calculator
 
-Bookkeeping, payroll, accounts payable, and monthly close, handled by a team that already knows your industry. You get real-time online access to your books instead of waiting for a quarterly report. [Explore outsourced accounting](/services/outsourced-accounting)
+Accounting, payroll, accounts payable, and monthly close, handled by a team that already knows your industry. You get real-time online access to your books instead of waiting for a quarterly report.
+
+[Explore outsourced accounting](/services/outsourced-accounting)
 
 ### Advisory
 icon: Lightbulb
@@ -91,12 +93,12 @@ For business owners, personal and business tax planning happen together instead 
 <!-- block: checklist-section | variant: with-image | image: secure-digital-accounting-dashboard.jpg | alt: "Business owner viewing real-time financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## A modern, secure client experience from day one
 
-Traditional firms hand you a shoebox request in January and a PDF in April. Buss CPA runs on a different model.
+Buss CPA runs on a modern model that is based on a strategy customized for your needs.
 
 - Fixed monthly fee, so your accounting cost doesn't swing with how busy tax season gets
 - Secure digital workflows for document sharing, e-signatures, and file storage
 - Real-time online access to your financial dashboard, updated continuously, not once a quarter
-- Investment in best-of-breed accounting technology, maintained and updated on our side, not yours
+- Investment in the latest accounting technology, maintained and updated on our side, not yours
 - A dedicated team that already understands agriculture and ranching, construction, law, engineering, and family office and trust accounting
 
 This is what an outsourced accounting department looks like when it's built for how businesses actually operate today. With offices in Hartford and Sioux Falls, Buss CPA is positioned to serve clients across the greater Sioux Falls area and throughout South Dakota. [Schedule a consultation](/contact) to see how it would work for your operation.
