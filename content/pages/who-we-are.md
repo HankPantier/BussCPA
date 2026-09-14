@@ -1,7 +1,7 @@
 ---
 title: "Meet the team behind your outsourced accounting department | BussCPA"
 url: "/who-we-are"
-meta_title: "Meet the CPA Team | Outsourced Accounting Hartford SD"
+meta_title: "Meet the CPA Team | Outsourced Accounting Hartford SD & Sioux Falls"
 meta_description: "BussCPA is a Hartford, SD CPA firm offering outsourced accounting for construction, agriculture, attorneys, and families. Meet the team behind fixed-fee service."
 target_keyword: "outsourced accounting Hartford SD"
 secondary_keywords: ["CPA firm Hartford South Dakota","accounting services construction Hartford SD","agricultural accounting Hartford SD","tax services attorneys Hartford SD","engineering firm accountant Hartford SD","family office accounting South Dakota","trust accounting Hartford SD","outsourced bookkeeping Hartford SD","business advisory services Hartford SD","accounting team Hartford SD","farm accounting South Dakota","contractor accounting Hartford SD"]
@@ -160,14 +160,14 @@ BussCPA is a Hartford, South Dakota CPA firm led by founder James Buss, offering
 - Specialized agricultural payroll and tax expertise distinct from generalist bookkeeping providers
 
 **Internal Links:**
-- outsourced accounting services → /services/outsourced-accounting — Supports the section explaining the BASE outsourced accounting model
-- construction accounting → /industries/construction — Links from the construction industry card to the dedicated niche page
-- agricultural accounting expertise → /industries/agriculture — Links from the agriculture payroll section to the dedicated industry page
-- attorney trust accounting → /industries/attorneys — Links from the attorneys industry card to its dedicated page
-- engineering firm accounting → /industries/engineers — Links from the engineers industry card to its dedicated page
-- family office and trust accounting → /industries/family-offices-trusts — Links from the family offices card to its dedicated page
-- personal income tax preparation → /services/personal-income-tax — Supports the tax team description with a link to the tax service page
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a consultation
+- outsourced accounting services → /services/outsourced-accounting, Supports the section explaining the BASE outsourced accounting model
+- construction accounting → /industries/construction, Links from the construction industry card to the dedicated niche page
+- agricultural accounting expertise → /industries/agriculture, Links from the agriculture payroll section to the dedicated industry page
+- attorney trust accounting → /industries/attorneys, Links from the attorneys industry card to its dedicated page
+- engineering firm accounting → /industries/engineers, Links from the engineers industry card to its dedicated page
+- family office and trust accounting → /industries/family-offices-trusts, Links from the family offices card to its dedicated page
+- personal income tax preparation → /services/personal-income-tax, Supports the tax team description with a link to the tax service page
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a consultation
 
 **FAQ Block:**
 
@@ -190,7 +190,7 @@ A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed
 BussCPA is a Hartford, South Dakota CPA firm founded by James Buss, providing fixed-fee outsourced accounting services with real-time digital access, specializing in construction, agriculture, attorneys, engineers, and family offices/trusts.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
