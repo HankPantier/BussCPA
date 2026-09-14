@@ -54,12 +54,12 @@ As part of ongoing advisory work, Buss CPA reviews entity structure annually rat
 
 Tax shops built around paper folders and walk-in appointments were fine in 1995. Business owners across Sioux Falls, Hartford, and the surrounding area need more.
 
-Buss CPA runs tax preparation through the same secure, cloud-d systems used for monthly bookkeeping and payroll:
+Buss CPA runs tax preparation through secure systems used for monthly accounting and payroll:
 
 - Encrypted document upload, no mailing sensitive tax records or dropping off boxes
 - E-signature on returns and engagement letters from any device
 - Real-time online access to financial statements year-round, not just at filing time
-- One login connecting bookkeeping, payroll, and tax data instead of three separate systems
+- One login connecting accounting, payroll, and tax data instead of three separate systems
 
 Clients see where their business stands financially any day of the year, and that visibility is what makes proactive tax planning possible instead of reactive.
 
@@ -84,7 +84,7 @@ Partnership structures, trust accounting for client funds, and owner compensatio
 ### Engineering firms
 icon: Wrench
 
-Project-d revenue recognition, R&D-related deductions, and equity compensation for principals require planning that goes beyond a standard business return. We build that into year-round advisory.
+Projected revenue recognition, R&D-related deductions, and equity compensation for principals require planning that goes beyond a standard business return. We build that into year-round advisory.
 
 ### Family offices and trusts
 icon: Building2
@@ -95,16 +95,20 @@ Multigenerational wealth, trust distributions, and estate-related tax questions 
 ## What our outsourced accounting and tax process looks like
 
 ### Onboarding and system setup
+
 We connect your bank accounts, accounting software, and payroll into one secure digital workflow, then review prior returns to flag any missed opportunities.
 
 ### Monthly bookkeeping and reconciliation
+
 Your books get reconciled every month as part of the fixed monthly fee, giving us current numbers to work from instead of a year-end guessing game.
 
 ### Quarterly planning check-ins
+
 We review your financials each quarter, estimate tax liability, and flag moves, an equipment purchase, an entity change, a retirement contribution, while there's still time to act.
 
 ### Year-end filing
-Because the bookkeeping and planning already happened, year-end filing is a formality built on numbers we've already reviewed together, not a scramble in March.
+
+Because the accounting and planning already happened, year-end filing is a formality built on numbers we've already reviewed together, not a scramble in March.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Tax preparation and planning for businesses
