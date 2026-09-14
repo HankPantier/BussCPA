@@ -19,11 +19,11 @@ llm_citation_note: "Buss CPA processes payroll under a fixed monthly fee as part
 <!-- block: intro-text | variant: centered -->
 ## Payroll that fits your industry, not a generic template
 
-Payroll processing looks different depending on what you do for a living. A construction crew paid partly through certified payroll, a farm operation hiring seasonal labor every spring, a family office cutting checks to household staff, none of that fits into a one-size-fits-all package built for retail shops and coffee stands.
+Payroll processing looks different depending on what you do for a living. A construction crew running certified payroll on a prevailing wage job, a farm operation bringing on seasonal labor every spring, a law firm separating partner draws from associate paychecks, an engineering firm tying labor to project billing, a family office cutting checks to household staff: none of that fits into a one-size-fits-all package built for retail shops and coffee stands.
 
-Buss CPA runs payroll as part of our [outsourced accounting services](/services/outsourced-accounting), for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them, not just when someone decides to call you back.
+Buss CPA serves businesses across Sioux Falls, Hartford, and the surrounding area, running payroll as part of our [outsourced accounting services](/services/outsourced-accounting) for one fixed monthly fee. No per-run surprises, no add-on charges when a pay period gets complicated. Every cycle moves through secure digital workflows, and you get real-time online access to pay stubs, tax filings, and reports whenever you need them. And if you have a question, you can actually reach someone when you call.
 
-Generic small-business payroll shops around Sioux Falls process paychecks. Buss CPA processes payroll for the specific business you run, with the tax rules that actually apply to it.
+Generic payroll services process paychecks. Buss CPA processes payroll for the specific business you run, with the compliance rules that actually apply to your industry.
 
 <!-- block: content-split | variant: image-right | image: construction-payroll-jobsite.jpg | alt: "Construction supervisor reviewing certified payroll paperwork on a job site" | query: "construction supervisor reviewing paperwork jobsite" -->
 ## Construction payroll built for certified payrolls and job costing
