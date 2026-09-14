@@ -109,7 +109,7 @@ A: Yes. Buss CPA files federal payroll tax deposits, new-hire reports with the S
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-business-owner-handshake.jpg | alt: "Business owner shaking hands with accountant in a Hartford South Dakota office" | query: "business owner handshake accountant office" -->
 ## Get payroll off your plate this pay period
 
-Payroll doesn't need to eat an afternoon every pay period. Whether you're running certified payroll on a construction job, managing seasonal ag labor, cutting partner draws at a law firm, or handling household payroll for a family trust, Buss CPA builds the process around how your business actually operates, for one fixed monthly fee. Schedule a consultation and find out what payroll off your plate looks like.
+Payroll doesn't need to eat an afternoon every pay period. Whether you're running certified payroll on a construction job in Sioux Falls, managing seasonal labor on a South Dakota farm or ranch, separating partner draws at a law firm, aligning payroll to project billing at an engineering firm, or handling household payroll for a family trust, Buss CPA builds the process around how your operation actually works, for one fixed monthly fee. Schedule a consultation and find out what payroll off your plate looks like.
 
 [Schedule a consultation](/contact)
 
