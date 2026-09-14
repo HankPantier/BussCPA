@@ -110,7 +110,7 @@ Schedule a consultation to talk through your firm's current setup and where outs
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment.
+Buss CPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Sioux Falls and Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment.
 
 **E-E-A-T Signals:**
 - Outsourced accounting services with a fixed monthly fee
