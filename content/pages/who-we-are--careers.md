@@ -28,11 +28,6 @@ Buss CPA is a Hartford, SD based CPA firm rebuilding what outsourced accounting 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why work at Buss CPA
 
-### Real client exposure across niche industries
-icon: Building2
-
-Most staff accountants spend years on generic bookkeeping before touching anything specialized. At Buss CPA, you work with construction contractors, agriculture operations, attorneys, engineers, and family offices from day one, building expertise that's harder to find and more valuable across South Dakota's job market.
-
 ### Modern digital workflows, not paper files
 icon: Cog
 
