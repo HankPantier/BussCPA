@@ -17,80 +17,97 @@ llm_citation_note: "Buss CPA's website terms distinguish general site content fr
 ---
 
 <!-- block: content-prose -->
-## Agreement to our website terms
+## Terms & Conditions
 
-When you visit busscpa.us, you agree to the terms on this page. They cover how you may use our site, its content, and tools like our Client Center login and Smart Tips downloads. Nothing here is meant to trip you up, it's a straightforward set of ground rules that keeps the site accurate and secure for the construction, agriculture, and family office clients we work with, along with everyone else who stops by.
+### 1. Introduction
 
-If you do not agree with any part of these terms, please do not use the site. Continued use after we post an update means you accept the revised version.
+This website is operated by Buss CPA. The terms "we", "us", and "our" refer to Buss CPA. The use of our website is subject to the following terms and conditions of use, as amended from time to time (the "Terms"). The Terms are to be read together by you with any terms, conditions or disclaimers provided in the pages of our website. Please review the Terms carefully. The Terms apply to all users of our website, including without limitation, users who are browsers, customers, merchants, vendors and/or contributors of content. If you access and use this website, you accept and agree to be bound by and comply with the Terms and our Privacy Policy. If you do not agree to the Terms or our Privacy Policy, you are not authorized to access our website, use any of our website's services or place an order on our website.
 
-<!-- block: content-prose -->
-## How this site relates to our accounting and advisory services
+### 2. Use of our Website
 
-Everything on this website, from blog posts to industry notes on agricultural payroll or construction job costing, is general information. It is not tax advice, accounting advice, or a substitute for a conversation with our team.
+You agree to use our website for legitimate purposes and not for any illegal or unauthorized purpose, including without limitation, in violation of any intellectual property or privacy law. By agreeing to the Terms, you represent and warrant that you are at least the age of majority in your state or province of residence and are legally capable of entering into a binding contract.
 
-Visiting this site, downloading a resource, or filling out a contact form does not create a CPA-client relationship and does not start an engagement for [outsourced accounting](/services/outsourced-accounting), [advisory](/services/advisory), or [personal income tax](/services/personal-income-tax) services. Those services begin only after we sign an engagement letter that spells out scope, fees, and responsibilities on both sides. If you need advice specific to your business or household, use our [contact page](/contact) or schedule time with our team directly, rather than relying on anything published here as a final answer.
+You agree to not use our website to conduct any activity that would constitute a civil or criminal offense or violate any law. You agree not to attempt to interfere with our website's network or security features or to gain unauthorized access to our systems.
 
-<!-- block: checklist-section | variant: standalone -->
-## Intellectual property and permitted use of our content
+You agree to provide us with accurate personal information, such as your email address, mailing address and other contact details in order to complete your order or contact you as needed. You agree to promptly update your account and information. You authorize us to collect and use this information to contact you in accordance with our Privacy Policy.
 
-Buss CPA owns the text, design, logos, and resources on this site, including our [Insights articles](/resources-new/quickreads). We built these tools to explain accounting topics clearly, and we want them shared responsibly.
+### 3. General Conditions
 
-- Read, print, or bookmark articles for your own personal or business reference
-- Share a direct link to any page or resource with colleagues or clients
-- Quote a short passage in your own writing if you credit Buss CPA and link back to busscpa.us
-- Republish full articles, guides, or Smart Tips content under your own name
-- Use the Buss CPA logo, branding, or firm name in marketing materials without written permission
-- Repackage or resell our resources as part of a paid product or service
+We reserve the right to refuse service to anyone, at any time, for any reason. We reserve the right to make any modifications to the website, including terminating, changing, suspending or discontinuing any aspect of the website at any time, without notice. We may impose additional rules or limits on the use of our website. You agree to review the Terms regularly and your continued access or use of our website will mean that you agree to any changes.
 
-<!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Business owner logging into a secure online accounting portal on a laptop" | query: "person using laptop secure login" -->
-## Client center, secure portals, and data handling
+You agree that we will not be liable to you or any third party for any modification, suspension or discontinuance of our website or for any service, content, feature or product offered through our website.
 
-Our outsourced accounting platform gives clients real-time online access to financial data through secure, encrypted portals. Whether you run a [construction company](/industries/construction), oversee a [family office](/industries/family-offices-trusts), or track [agricultural payroll](/industries/agriculture) across multiple properties, your information stays behind login credentials issued only to you and authorized users on your account.
+### 4. Products or Services
 
-You agree to keep your login credentials confidential and to notify us right away if you suspect unauthorized access to your Client Center account. Buss CPA invests in best-of-breed technology to protect financial records, but no online system is completely immune to risk, and you share responsibility for securing your own device and password. We do not sell or share client financial data with third parties outside the scope of delivering your outsourced accounting, advisory, or personal income tax engagement.
+All purchases through our website are subject to product availability. We may, in our sole discretion, limit or cancel the quantities offered on our website or limit the sales of our products or services to any person, household, geographic region or jurisdiction.
 
-<!-- block: content-prose -->
-## Limitation of liability and disclaimers
+Prices for our products are subject to change, without notice. Unless otherwise indicated, prices displayed on our website are quoted in American dollars.
 
-The articles, industry notes, and downloadable guides on this site, including anything covering agricultural payroll rules or construction job costing, are provided for general education. They reflect our understanding at the time of publication, but tax law and accounting standards change, and individual situations vary.
+We reserve the right, in our sole discretion, to refuse orders, including without limitation, orders that appear to be placed by distributors or resellers. If we believe that you have made a false or fraudulent order, we will be entitled to cancel the order and inform the relevant authorities.
 
-Buss CPA makes no warranty, express or implied, that this content is complete, current, or applicable to your specific circumstances. To the fullest extent allowed under South Dakota law, Buss CPA and its staff are not liable for decisions made based solely on information found on this website. If you need guidance you can rely on, schedule time with our team so we can look at your actual numbers, not a general example.
+We do not guarantee the accuracy of the color or design of the products on our website. We have made efforts to ensure the color and design of our products are displayed as accurately as possible on our website.
 
-<!-- block: content-prose -->
-## Governing law and jurisdiction
+### 5. Links to Third-Party Websites
 
-These terms are governed by the laws of the State of South Dakota, without regard to conflict-of-law principles. Any dispute arising from your use of this website falls under the jurisdiction of the courts serving Lincoln County, South Dakota, where our Hartford office is based.
+Links from or to websites outside our website are meant for convenience only. We do not review, endorse, approve or control, and are not responsible for any sites linked from or to our website, the content of those sites, the third parties named therein, or their products and services. Linking to any other site is at your sole risk and we will not be responsible or liable for any damages in connection with linking. Links to downloadable software sites are for convenience only and we are not responsible or liable for any difficulties or consequences associated with downloading the software. Use of any downloaded software is governed by the terms of the license agreement, if any, which accompanies or is provided with the software.
 
-Buss CPA operates under the licensing and conduct standards set by the South Dakota Board of Accountancy. These terms govern only your use of this website and do not modify any signed engagement letter, which controls if a conflict exists between the two documents.
+### 6. Use Comments, Feedback, and Other Submissions
 
-<!-- block: content-prose -->
-## Updates to these terms and how to contact us
+You acknowledge that you are responsible for the information, profiles, opinions, messages, comments and any other content (collectively, the "Content") that you post, distribute or share on or through our website or services available in connection with our website. You further acknowledge that you have full responsibility for the Content, including but limited to, with respect to its legality, and its trademark, copyright and other intellectual property ownership.
 
-We review these terms periodically and may update them as our services, technology, or South Dakota regulations change. The revision date at the bottom of this page reflects the most recent update, and continued use of the site after changes are posted means you accept the current version.
+You agree that any Content submitted by you in response to a request by us for a specific submission may be edited, adapted, modified, recreated, published, or distributed by us. You further agree that we are under no obligation to maintain any Content in confidence, to pay compensation for any Content or to respond to any Content.
 
-Questions about these terms, our data practices, or how a Client Center account works are welcome any time. The most direct way to get answers is to schedule a consultation, and we will walk through anything you want clarified before you become a client.
+You agree that you will not post, distribute or share any Content on our website that is protected by copyright, trademark, patent or any other proprietary right without the express consent of the owner of such proprietary right. You further agree that your Content will not be unlawful, abusive or obscene nor will it contain any malware or computer virus that could affect our website's operations. You will be solely liable for any Content that you make and its accuracy. We have no responsibility and assume no liability for any Content posted by you or any third-party.
 
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Terms & Conditions: Buss CPA Website Use
+We reserve the right to terminate your ability to post on our website and to remove and/or delete any Content that we deem objectionable. You consent to such removal and/or deletion and waive any claim against us for the removal and/or deletion of your Content.
 
-**Q: Does browsing the Buss CPA website create a client relationship?**
-A: No. Reading articles, downloading a Smart Tips guide, or filling out a form on busscpa.us does not create a CPA-client relationship. Outsourced accounting, advisory, and personal income tax engagements begin only after Buss CPA and the client sign a formal engagement letter.
+### 7. Your Personal Information
 
-**Q: What law governs Buss CPA's website terms?**
-A: These terms are governed by the laws of South Dakota, and disputes fall under the jurisdiction of courts serving Lincoln County. Buss CPA also operates under the licensing and conduct standards set by the South Dakota Board of Accountancy.
+Please see our Privacy Policy to learn about how we collect, use, and share your personal information.
 
-**Q: Can I share or reuse content from the Smart Tips or Insights sections?**
-A: You can read, print, bookmark, or link to articles for personal or business reference, and you can quote a short passage with credit and a link back to busscpa.us. Republishing full articles or reselling the content is not permitted.
+### 8. Errors and Omissions
 
-**Q: How does Buss CPA protect data shared through the Client Center portal?**
-A: Buss CPA uses encrypted, secure portals as part of its BASE outsourced accounting platform, giving clients real-time online access to their financial data. Clients are responsible for keeping login credentials confidential and reporting any suspected unauthorized access right away.
+Please note that our website may contain typographical errors or inaccuracies and may not be complete or current. We reserve the right to correct any errors, inaccuracies or omissions and to change or update information at any time, without prior notice (including after an order has been submitted). Such errors, inaccuracies or omissions may relate to product description, pricing, promotion and availability and we reserve the right to cancel or refuse any order placed based on incorrect pricing or availability information, to the extent permitted by applicable law.
 
-<!-- block: cta-banner | variant: color-bg -->
-## Ready to talk through the details
+We do not undertake to update, modify or clarify information on our website, except as required by law.
 
-If anything on this page raises a question about your account, your data, or how an engagement actually works, let's talk it through directly.
+### 9. Disclaimer and Limitation of Liability
 
-[Schedule a consultation](/contact)
+You assume all responsibility and risk with respect to your use of our website, which is provided "as is" without warranties, representations or conditions of any kind, either express or implied, with regard to information accessed from or via our website, including without limitation, all content and materials, and functions and services provided on our website, all of which are provided without warranty of any kind, including but not limited to warranties concerning the availability, accuracy, completeness or usefulness of content or information, uninterrupted access, and any warranties of title, non-infringement, merchantability or fitness for a particular purpose. We do not warrant that our website or its functioning or the content and material of the services made available thereby will be timely, secure, uninterrupted or error-free, that defects will be corrected, or that our websites or the servers that make our website available are free of viruses or other harmful components.
+
+The use of our website is at your sole risk and you assume full responsibility for any costs associated with your use of our website. We will not be liable for any damages of any kind related to the use of our website.
+
+In no event will we, or our affiliates, our or their respective content or service providers, or any of our or their respective directors, officers, agents, contractors, suppliers or employees be liable to you for any direct, indirect, special, incidental, consequential, exemplary or punitive damages, losses or causes of action, or lost revenue, lost profits, lost business or sales, or any other type of damage, whether based in contract or tort (including negligence), strict liability or otherwise, arising from your use of, or the inability to use, or the performance of, our website or the content or material or functionality through our website, even if we are advised of the possibility of such damages.
+
+Certain jurisdictions do not allow limitation of liability or the exclusion or limitation of certain damages. In such jurisdictions, some or all of the above disclaimers, exclusions, or limitations, may not apply to you and our liability will be limited to the maximum extent permitted by law.
+
+### 10. Indemnification
+
+You agree to defend and indemnify us, and hold us and our affiliates harmless, and our and their respective directors, officers, agents, contractors, and employees against any losses, liabilities, claims, expenses (including legal fees) in any way arising from, related to or in connection with your use of our website, your violation of the Terms, or the posting or transmission of any materials on or through the website by you, including but not limited to, any third party claim that any information or materials provided by you infringe upon any third party proprietary rights.
+
+### 11. Entire Agreement
+
+The Terms and any documents expressly referred to in them represent the entire agreement between you and us in relation to the subject matter of the Terms and supersede any prior agreement, understanding or arrangement between you and us, whether oral or in writing. Both you and we acknowledge that, in entering into these Terms, neither you nor we have relied on any representation, undertaking or promise given by the other or implied from anything said or written between you and us prior to such Terms, except as expressly stated in the Terms.
+
+### 12. Waiver
+
+Our failure to exercise or enforce any right or provision of the Terms will not constitute a waiver of such right or provision. A waiver by us of any default will not constitute a waiver of any subsequent default. No waiver by us is effective unless it is communicated to you in writing.
+
+### 13. Headings
+
+Any headings and titles herein are for convenience only.
+
+### 14. Severability
+
+If any of the provisions of the Terms are determined by any competent authority to be invalid, unlawful or unenforceable, such provision will to that extent be severed from the remaining Terms, which will continue to be valid and enforceable to the fullest extent permitted by law.
+
+### 15. Governing Law
+
+Any disputes arising out of or relating to the Terms, the Privacy Policy, use of our website, or our products or services offered on our website will be resolved in accordance with the laws of South Dakota without regard to its conflict of law rules. Any disputes, actions or proceedings relating to the Terms or your access to or use of our website must be brought before the courts of the State of South Dakota in the City of Hartford, South Dakota and you irrevocably consent to the exclusive jurisdiction and venue of such courts.
+
+### 16. Questions or Concerns
+
+Please send all questions, comments and feedback to us at info@busscpa.us.
 
 ---
 ## SEO & AIO Metadata
@@ -105,15 +122,15 @@ Using the Buss CPA website means you agree to these terms, which explain that si
 - Terms explicitly reference real-time online access to financial data through encrypted Client Center portals
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Clarifies which service these terms distinguish from general site content
-- advisory → /services/advisory — Names the second core service governed by a separate engagement letter
-- personal income tax → /services/personal-income-tax — Names the third core service excluded from general site content
-- contact page → /contact — Directs visitors to reach the firm directly for specific advice
-- Smart Tips guides → /smart-tips-magazine-gallery — Identifies the branded resource covered under intellectual property terms
-- Insights articles → /resources-new/quickreads — Identifies additional branded content covered under intellectual property terms
-- construction company → /industries/construction — Connects data handling terms to a named niche served by the firm
-- family office → /industries/family-offices-trusts — Connects data handling terms to a named niche served by the firm
-- agricultural payroll → /industries/agriculture — Connects data handling terms to a named niche with distinct payroll needs
+- outsourced accounting → /services/outsourced-accounting, Clarifies which service these terms distinguish from general site content
+- advisory → /services/advisory, Names the second core service governed by a separate engagement letter
+- personal income tax → /services/personal-income-tax, Names the third core service excluded from general site content
+- contact page → /contact, Directs visitors to reach the firm directly for specific advice
+- Smart Tips guides → /smart-tips-magazine-gallery, Identifies the branded resource covered under intellectual property terms
+- Insights articles → /resources-new/quickreads, Identifies additional branded content covered under intellectual property terms
+- construction company → /industries/construction, Connects data handling terms to a named niche served by the firm
+- family office → /industries/family-offices-trusts, Connects data handling terms to a named niche served by the firm
+- agricultural payroll → /industries/agriculture, Connects data handling terms to a named niche with distinct payroll needs
 
 **FAQ Block:**
 
@@ -133,7 +150,7 @@ A: Buss CPA uses encrypted, secure portals as part of its BASE outsourced accoun
 Buss CPA's website terms distinguish general site content from formal engagements, which begin only after a signed engagement letter for outsourced accounting, advisory, or personal income tax services, and the terms are governed by South Dakota law.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
