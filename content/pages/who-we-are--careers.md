@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "accounting-careers-hartford-sd-team.jpg"
 hero_image_alt: "Accounting team members reviewing financial documents together in a bright modern office"
-hero_subhead: "Build a modern accounting career serving construction, agriculture, and professional clients across South Dakota"
+hero_subhead: "Build a modern accounting career serving construction, agriculture, and professional clients from our Hartford and Sioux Falls, SD offices"
 hero_headline: "Build your accounting career with a modern, growing firm"
 answer_block: "Buss CPA, a CPA firm in Hartford, SD, hires accountants for outsourced accounting, advisory, and personal tax roles, including staff accountant, senior accountant, tax preparer, and internship positions. Candidates gain hands-on experience with construction, agriculture, attorney, engineering, and family office clients using digital workflows rather than paper-based processes. Interested applicants can send a resume anytime, even without a posted opening."
 eeat_signals: ["Hartford, SD based CPA firm located about 15 miles from Sioux Falls","Runs a fixed-fee outsourced accounting model with secure digital workflows and real-time client reporting","Serves defined niches: construction, agriculture, attorneys, engineers, and family offices/trusts","Career paths span outsourced accounting, advisory, and personal income tax service lines","Offers internship-to-full-time pipeline with direct client exposure"]
