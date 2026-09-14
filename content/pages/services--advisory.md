@@ -103,7 +103,7 @@ Whether you're running a construction crew, a farm or ranch operation, a law pra
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA provides financial advisory services in Hartford, SD built directly on top of its outsourced accounting platform, giving clients real-time financial data instead of quarterly snapshots. Advisory is tailored by industry, covering job costing for construction, seasonal cash flow for agriculture, and entity or trust structuring for attorneys, engineers, and family offices, all under one fixed monthly fee.
+Buss CPA provides financial advisory services across Sioux Falls and Hartford, SD built directly on top of its outsourced accounting platform, giving clients real-time financial data instead of quarterly snapshots. Advisory is tailored by industry, covering job costing for construction, seasonal cash flow and ranch management for agriculture, entity or trust structuring for attorneys, engineers, and family offices, all under one fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Advisory bundled with Buss CPA's end-to-end outsourced accounting solution on a fixed monthly fee
