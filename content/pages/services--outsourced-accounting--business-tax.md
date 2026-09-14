@@ -64,7 +64,7 @@ Buss CPA runs tax preparation through the same secure, cloud-d systems used for 
 Clients see where their business stands financially any day of the year, and that visibility is what makes proactive tax planning possible instead of reactive.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Tax services for attorneys, engineers and family offices
+## Tax services for attorneys, engineers, and family offices in the Sioux Falls area
 
 ### Attorneys and law practices
 icon: Scale
