@@ -90,13 +90,14 @@ icon: FileText
 Individual and household tax preparation, including returns tied to farm income, trust distributions, commodity sales, or a construction business run alongside household finances. [Learn more](/services/personal-income-tax)
 
 <!-- block: checklist-section | variant: with-image | image: modern-accounting-technology.jpg | alt: "Business owner reviewing financial dashboard on a laptop screen" | query: "laptop financial dashboard review" -->
-## Why local businesses choose an outsourced accounting partner
+## Why Sioux Falls and Hartford area businesses choose an outsourced accounting partner
 
-Traditional tax preparers close their doors after April. A part-time bookkeeper can't answer a payroll question on a Tuesday in October. Hartford, SD businesses that outsource their accounting get something different.
+Traditional tax preparers close their doors after April. A part-time bookkeeper can't answer a payroll question on a Tuesday in October. Construction companies, farm operations, law firms, engineering practices, and family offices in the greater Sioux Falls area that outsource their accounting get something different.
 
 - A fixed monthly fee instead of a surprise invoice at tax time
 - Secure digital workflows for uploading documents and reviewing statements
 - Real-time online access to your financial data, any day of the year
+- Industry-specific expertise across construction, agriculture, attorneys, engineers, and family offices
 - Technology built for a modern client experience, not a filing cabinet
 - Year-round advisory instead of a once-a-year meeting
 
