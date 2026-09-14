@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "engineer-reviewing-blueprints-office.jpg"
 hero_image_alt: "Engineer reviewing blueprints alongside financial documents at a desk"
-hero_subhead: "Project-based accounting, tax planning, and advisory support built for engineering firms in Hartford, South Dakota"
+hero_subhead: "Project-based accounting, tax planning, and advisory support built for engineering firms in Hartford and Sioux Falls, South Dakota"
 hero_headline: "Accounting built around how engineering firms operate"
 answer_block: "Buss CPA is a CPA firm in Hartford, South Dakota, offering tax preparation, outsourced accounting, and advisory services built for project-based engineering firms. Services include fixed-fee outsourced accounting with job costing by project, entity and personal tax planning, and partner compensation advisory, all backed by secure online access to financial data."
 eeat_signals: ["Offers BASE, a fixed-monthly-fee outsourced accounting solution built for project-based billing cycles","Provides secure digital workflows and real-time online access to financial data for clients","Serves defined professional service niches including engineers, construction, attorneys, and family offices","Hartford, South Dakota based firm handling both business and personal tax returns for engineering firm owners"]
