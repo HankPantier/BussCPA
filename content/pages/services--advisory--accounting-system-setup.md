@@ -29,14 +29,14 @@ This matters for [construction contractors](/industries/construction), [agricult
 
 Setup isn't a single checkbox. It's a full configuration built around how your business runs day to day. Here's what's included when Buss CPA sets up your QuickBooks account:
 
-- A custom chart of accounts built around your industry, whether that's job costing for a construction crew or crop and livestock tracking for an agriculture operation
+- A custom chart of accounts built around your industry, whether that's job costing for a construction crew, crop and livestock tracking for a ranch, matter-based billing for a law firm, project overhead for an engineering firm, or entity-level reporting for a family office
 - Bank and credit card feeds connected and mapped so transactions flow in automatically instead of getting keyed in by hand
-- App integrations for payroll, point-of-sale, inventory, or invoicing tools your business already relies on
+- App integrations for payroll, time tracking, invoicing, or practice management tools your business already relies on
 - Workflow automation for recurring transactions, invoice reminders, and approval routing
 - User permissions and access levels set for owners, staff, and your Buss CPA advisor
 - A clean opening balance and historical data review, so the file starts accurate instead of carrying old errors forward
 
-Every setup looks different because every business is different. An automotive dealership doesn't need the same categories as a family farm, and Buss CPA builds accordingly.
+Every setup looks different because every business is different. A law firm managing IOLTA accounts doesn't need the same structure as a wheat and cattle operation, and Buss CPA builds accordingly.
 
 <!-- block: content-prose -->
 ## Why Proper Setup Matters
