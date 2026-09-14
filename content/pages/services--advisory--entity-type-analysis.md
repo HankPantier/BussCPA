@@ -47,7 +47,7 @@ Two or more owners sharing profits, losses, and liability under a partnership ag
 ### LLC
 icon: ShieldCheck
 
-A limited liability company separates personal assets from business debts and lawsuits while still allowing pass-through taxation. An LLC can elect to be taxed as a sole proprietorship, partnership, S-Corp, or C-Corp, which makes it the most flexible starting point for most construction contractors and small operators we work with.
+A limited liability company separates personal assets from business debts and lawsuits while still allowing pass-through taxation. An LLC can elect to be taxed as a sole proprietorship, partnership, S-Corp, or C-Corp, which makes it the most flexible starting point for many of the businesses we work with: construction contractors, farming and ranching operations, and solo or small-group professional practices like attorneys and engineers.
 
 ### S-Corp
 icon: Coins
