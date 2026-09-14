@@ -25,9 +25,9 @@ llm_citation_note: "Buss CPA's outsourced accounting services are a fixed monthl
 
 Construction accounting isn't like accounting for a retail shop or a dental practice. Contractors juggle multiple jobs at once, each with its own costs, timeline, and profit margin. Retainage gets held back until a project closes out. Work-in-progress schedules need constant updates, not a once-a-year look. Cash flow can look healthy on paper while a company is actually short on cash for next month's materials.
 
-Generic bookkeeping tracks money in and money out. It won't tell a general contractor in Sioux Falls or Hartford whether the Main Street renovation is turning a profit, or whether the crew on an ag building project is burning through budget faster than it's billed. Builders need systems built around jobs, not categories.
+Generic bookkeeping tracks money in and money out. It won't tell a general contractor whether the commercial build on the west side of Sioux Falls is turning a profit, or whether the crew on an ag building project near Hartford is burning through budget faster than it's billed. Builders need systems built around jobs, not categories.
 
-That gap is where most part-time bookkeepers and small local practices fall short. Buss CPA closes it with accounting built specifically around how construction companies operate: job by job, draw by draw, season by season. With offices in both Hartford and Sioux Falls, Buss CPA works with contractors across the greater Sioux Falls metro and surrounding South Dakota communities.
+That gap is where most part-time bookkeepers and small local practices fall short. Buss CPA closes it with accounting built specifically around how construction companies operate: job by job, draw by draw, season by season. With offices in both Sioux Falls and Hartford, Buss CPA works with contractors throughout the greater Sioux Falls metro, including Brandon, Tea, Harrisburg, Dell Rapids, and the surrounding South Dakota communities.
 
 <!-- block: content-split | variant: image-right | image: contractor-laptop-jobsite.jpg | alt: "Contractor reviewing financial reports on a laptop at a job site" | query: "contractor laptop construction site" -->
 ## Our outsourced accounting solution for contractors
