@@ -314,9 +314,9 @@ Buss CPA's outsourced accounting program provides outsourced accounting for a fi
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "CPA & Accounting Services in Hartford, SD | Buss CPA",
+  "name": "CPA & Accounting Services in Sioux Falls & Hartford, SD | Buss CPA",
   "url": "https://busscpa.us/contact",
-  "description": "Contact Buss CPA for accounting services in Hartford, SD. Fixed-fee outsourced accounting, construction and agriculture tax expertise, and personal tax prep.",
+  "description": "Contact Buss CPA for accounting services in the greater Sioux Falls area, with offices in Hartford and Sioux Falls, SD. Fixed-fee outsourced accounting for construction, agriculture, attorneys, engineers, and family offices and trusts, plus personal tax prep.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Buss CPA",
