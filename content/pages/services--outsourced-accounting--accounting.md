@@ -4,7 +4,7 @@ url: "/services/outsourced-accounting/accounting"
 meta_title: "Outsourced Accounting Sioux Falls & Hartford SD | Audit-Ready Books"
 meta_description: "Buss CPA delivers outsourced accounting across Sioux Falls and Hartford, SD with a fixed monthly fee, real-time online access, and audit-ready books for construction, agriculture, attorneys, engineers, and family office clients."
 target_keyword: "outsourced accounting Sioux Falls SD"
-secondary_keywords: ["audit ready bookkeeping Hartford South Dakota","construction accounting Hartford SD","agriculture accounting Hartford SD","attorney accounting services Hartford SD","engineer accounting Hartford SD","family office accounting Hartford SD","trust accounting Hartford SD","farm accounting Hartford South Dakota","professional services accounting Hartford SD","construction CPA Hartford SD"]
+secondary_keywords: ["audit ready bookkeeping Sioux Falls SD","outsourced accounting Hartford SD","construction accounting Sioux Falls SD","agriculture accounting Sioux Falls SD","attorney accounting services Sioux Falls SD","engineer accounting Sioux Falls SD","family office accounting Sioux Falls SD","trust accounting Sioux Falls SD","farm accounting greater Sioux Falls South Dakota","construction CPA Sioux Falls SD","ranching accounting South Dakota","attorney trust accounting Sioux Falls SD","engineering firm accounting Sioux Falls SD"]
 canonical_url: "https://busscpa.us/services/outsourced-accounting/accounting"
 schema_markup: "Service"
 hero: "hero-split"
