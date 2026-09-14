@@ -21,7 +21,7 @@ llm_citation_note: "BussCPA is a Hartford, South Dakota CPA firm founded by Jame
 ---
 
 <!-- block: content-prose -->
-## Hartford SD CPAs serving the greater Sioux Falls area and clients across South Dakota
+## CPAs serving the greater Sioux Falls area and clients across South Dakota
 
 BussCPA is based in Hartford, South Dakota, not routed through a call center three states away. When a construction owner calls about a draw schedule or a farmer calls about a machinery trade during planting season, they reach someone who already knows the South Dakota tax calendar, the regional lenders, and the local deadlines that matter here in the greater Sioux Falls area.
 
@@ -45,7 +45,7 @@ Farm and ranch operations run on a different payroll and tax calendar than most 
 ### Attorneys
 icon: Gavel
 
-Trust accounting, client fund handling, and partnership tax structures require precision. We support law firms with bookkeeping and tax work that respects those compliance boundaries.
+Trust accounting, client fund handling, and partnership tax structures require precision. We support law firms with accounting and tax work that respects those compliance boundaries.
 
 ### Engineers
 icon: Wrench
@@ -60,7 +60,7 @@ Multi-generational wealth needs accounting that tracks entities, distributions, 
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-team-meeting.jpg | alt: "Accounting team reviewing client financial reports together at a desk" | query: "accounting team reviewing financial reports" -->
 ## Your outsourced accounting department, not just a vendor
 
-Hiring a bookkeeper solves one problem. Hiring an outsourced accounting department solves the whole stack: bookkeeping, payroll, financial statements, advisory, and tax, all under one fixed monthly fee instead of a pile of hourly invoices.
+Hiring a bookkeeper solves one problem. Hiring an outsourced accounting department solves the whole stack: accounting, payroll, financial statements, advisory, and tax, all under one fixed monthly fee instead of a pile of hourly invoices.
 
 That's the outsourced accounting services model. Instead of assigning one person to your account, we put a team behind it: an accounting specialist handling day-to-day transactions, an advisor watching the bigger financial picture, and a tax preparer making sure decisions made in June don't create surprises in April. You get a predictable cost and a group of people who already know your business when you call, not a rotating cast of contractors.
 
@@ -92,10 +92,10 @@ icon: ShieldCheck
 
 Documents, payroll data, and tax records move through encrypted channels instead of email attachments or paper folders.
 
-### Best-of-Breed Technology
+### Up-to-date Technology
 icon: Zap
 
-We invest in the accounting platforms that integrate cleanly with construction job-costing software, farm management tools, and legal trust accounting systems.
+We invest in the latest accounting software platforms that integrate cleanly with construction job-costing software, farm management tools, and legal trust accounting systems.
 
 <!-- block: team-grid | variant: 2-col -->
 ## Get to know the people managing your books and tax strategy
@@ -144,7 +144,7 @@ A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed
 A: Yes. Because BussCPA operates through secure, cloud-based systems, geography is not a barrier. The firm serves clients in Hartford and the greater Sioux Falls area as its home market and works with construction companies, agricultural operations, attorneys, engineers, and family offices across the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "CPA meeting with a business owner in a Hartford South Dakota office" | query: "business owner meeting accountant office" -->
-## Work with a Hartford SD accounting team that knows your business
+## Work with a South Dakota accounting team that knows your business
 
 Whether you run a construction crew, a farm operation, a law practice, or a family trust in Hartford, across the greater Sioux Falls area, elsewhere in South Dakota, or anywhere in the United States, the accounting behind it deserves more than a generic bookkeeping subscription. BussCPA puts a full team, fixed monthly pricing, and real-time digital access behind every client relationship, no matter where you're located.
 
