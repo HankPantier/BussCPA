@@ -84,10 +84,10 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact:
 
-**Buss CPA**
-800 S. Western Avenue, P.O. Box 487
-Hartford, SD 57033
-605-789-7555
+**Buss CPA**\
+800 S. Western Avenue\
+P.O. Box 487 Hartford, SD 57033\
+605-789-7555\
 info@busscpa.us
 
 <!-- block: faq-accordion -->
@@ -112,11 +112,6 @@ A: We retain your information only as long as necessary to fulfill the purposes 
 A: Contact the Hartford, SD office directly at 605-789-7555 or info@busscpa.us. Staff will explain what information is on file, how it is used, and correct any inaccuracies on request. You may also schedule a consultation through the contact page for a direct answer specific to your engagement.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-cpa-office.jpg | alt: "Exterior view of a small-town CPA office building in Hartford South Dakota" | query: "small town accounting office exterior" -->
-## Questions about how we handle your information
-
-Schedule a consultation with Buss CPA and get a direct answer about your privacy, your data, or your accounting needs.
-
-[Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
