@@ -2,7 +2,7 @@
 title: "Retirement Plan Analysis | Buss CPA"
 url: "/services/advisory/retirement-plan-analysis"
 meta_title: "Retirement Plan Analysis for Business Owners | Buss CPA"
-meta_description: "Buss CPA compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans to find the retirement strategy that cuts your tax bill. Schedule a consultation in Hartford, SD."
+meta_description: "Buss CPA compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans for farmers, contractors, attorneys, engineers, and family offices in the Sioux Falls and Hartford, SD area. Find the retirement strategy that cuts your tax bill."
 target_keyword: "retirement plan analysis for business owners"
 secondary_keywords: ["SEP-IRA vs Solo 401k","defined benefit plan for business owners","small business retirement plan comparison","retirement plan tax savings"]
 canonical_url: "https://busscpa.us/services/advisory/retirement-plan-analysis"
