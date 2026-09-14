@@ -69,7 +69,7 @@ We start with your last two years of tax returns, current P&L, and ownership str
 We model your actual numbers under each viable entity type, sole proprietorship, partnership, LLC, S-Corp, and C-Corp, showing the projected federal and state tax liability for each scenario, not a generic estimate.
 
 ### Weigh liability and growth factors alongside the tax math
-Tax savings mean less if the structure leaves your personal assets exposed or blocks a future ownership change. We factor in bonding requirements for construction contractors, succession plans for family farms, and investor readiness for growing firms.
+Tax savings mean less if the structure leaves your personal assets exposed or blocks a future ownership change. We factor in bonding and licensing requirements for construction contractors, succession and land transfer plans for farming and ranching operations, professional liability and state bar considerations for attorneys, acquisition readiness for engineering firms, and asset protection and generational transfer goals for family offices and trusts.
 
 ### Deliver a written recommendation
 You get a clear recommendation with the numbers behind it, plus what's involved in making the change: filings, deadlines, and payroll adjustments if an S-Corp election is on the table.
