@@ -52,7 +52,7 @@ As part of ongoing advisory work, Buss CPA reviews entity structure annually rat
 <!-- block: checklist-section | variant: with-image | image: digital-tax-portal-dashboard.jpg | alt: "Laptop screen showing a secure online accounting dashboard and document portal" | query: "laptop financial dashboard online portal" -->
 ## Secure digital tax workflows with real-time financial access
 
-Hartford tax shops built around paper folders and walk-in appointments were fine in 1995. Business owners in 2024 need more.
+Tax shops built around paper folders and walk-in appointments were fine in 1995. Business owners across Sioux Falls, Hartford, and the surrounding area need more.
 
 Buss CPA runs tax preparation through the same secure, cloud-d systems used for monthly bookkeeping and payroll:
 
