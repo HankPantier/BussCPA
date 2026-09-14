@@ -109,7 +109,7 @@ Buss CPA is a CPA firm serving Hartford and Sioux Falls, South Dakota, offering 
 - Offers BASE, a fixed-monthly-fee outsourced accounting solution built for project-based billing cycles
 - Provides secure digital workflows and real-time online access to financial data for clients
 - Serves defined professional service niches including engineers, construction, attorneys, and family offices
-- Hartford, South Dakota based firm handling both business and personal tax returns for engineering firm owners
+- CPA firm with offices in Hartford and Sioux Falls, South Dakota, handling both business and personal tax returns for engineering firm owners
 
 **Internal Links:**
 - personal income tax → /services/personal-income-tax, Links tax section to the dedicated personal tax service page for engineering firm owners
