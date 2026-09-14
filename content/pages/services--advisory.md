@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "advisory-services-hartford-sd.jpg"
 hero_image_alt: "CPA advisor and business owner reviewing financial reports together at a desk"
-hero_subhead: "Get advisory rooted in your real-time numbers, tailored to construction, agriculture, and professional practices in Hartford, SD"
+hero_subhead: "Get advisory rooted in your real-time numbers, tailored to farming and ranching, construction, attorneys, engineers, and family offices across Sioux Falls and Hartford, SD"
 hero_headline: "Strategic advisory built on your real financial data"
 answer_block: "Buss CPA provides financial advisory services in Hartford, SD built directly on top of its outsourced accounting platform, giving clients real-time financial data instead of quarterly snapshots. Advisory is tailored by industry, covering job costing for construction, seasonal cash flow for agriculture, and entity or trust structuring for attorneys, engineers, and family offices, all under one fixed monthly fee."
 eeat_signals: ["Advisory bundled with Buss CPA's end-to-end outsourced accounting solution on a fixed monthly fee","Secure digital workflows with real-time online access to financial data","Industry-specific advisory experience across construction, agriculture, attorneys, engineers, and family offices/trusts","Advisory calendars aligned to industry cycles, such as planting and harvest timing for agriculture clients"]
