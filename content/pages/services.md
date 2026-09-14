@@ -97,9 +97,9 @@ Traditional firms hand you a shoebox request in January and a PDF in April. Buss
 - Secure digital workflows for document sharing, e-signatures, and file storage
 - Real-time online access to your financial dashboard, updated continuously, not once a quarter
 - Investment in best-of-breed accounting technology, maintained and updated on our side, not yours
-- A dedicated team that already understands agriculture, construction, legal, engineering, and family office accounting
+- A dedicated team that already understands agriculture and ranching, construction, law, engineering, and family office and trust accounting
 
-This is what an outsourced accounting department looks like when it's built for how businesses actually operate today. Whether you're in Sioux Falls, Hartford, or anywhere in between, [schedule a consultation](/contact) to see how it would work for your operation.
+This is what an outsourced accounting department looks like when it's built for how businesses actually operate today. With offices in Hartford and Sioux Falls, Buss CPA is positioned to serve clients across the greater Sioux Falls area and throughout South Dakota. [Schedule a consultation](/contact) to see how it would work for your operation.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting services built for your industry
