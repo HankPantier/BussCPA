@@ -1,31 +1,31 @@
 ---
 title: "Meet the team behind your outsourced accounting department | BussCPA"
 url: "/who-we-are"
-meta_title: "Meet the CPA Team | Outsourced Accounting Hartford SD"
-meta_description: "BussCPA is a Hartford, SD CPA firm offering outsourced accounting for construction, agriculture, attorneys, and families. Meet the team behind fixed-fee service."
+meta_title: "Meet the CPA Team | Outsourced Accounting Hartford SD & Sioux Falls"
+meta_description: "BussCPA is a Hartford, SD CPA firm serving the greater Sioux Falls area and clients across South Dakota and the U.S. Outsourced accounting for construction, agriculture, attorneys, and families. Meet the team behind fixed-fee service."
 target_keyword: "outsourced accounting Hartford SD"
-secondary_keywords: ["CPA firm Hartford South Dakota","accounting services construction Hartford SD","agricultural accounting Hartford SD","tax services attorneys Hartford SD","engineering firm accountant Hartford SD","family office accounting South Dakota","trust accounting Hartford SD","outsourced bookkeeping Hartford SD","business advisory services Hartford SD","accounting team Hartford SD","farm accounting South Dakota","contractor accounting Hartford SD"]
+secondary_keywords: ["CPA firm Hartford South Dakota","CPA firm Sioux Falls SD","accounting services construction Hartford SD","agricultural accounting Hartford SD","agricultural accounting South Dakota","tax services attorneys Hartford SD","engineering firm accountant Hartford SD","family office accounting South Dakota","trust accounting Hartford SD","outsourced bookkeeping Hartford SD","outsourced accounting Sioux Falls SD","business advisory services Hartford SD","accounting team Hartford SD","farm accounting South Dakota","contractor accounting Hartford SD","outsourced accounting South Dakota","remote CPA services United States","fixed fee accounting firm South Dakota"]
 canonical_url: "https://busscpa.us/who-we-are"
 schema_markup: "AboutPage"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "hartford-sd-accounting-team.jpg"
 hero_image_alt: "CPA team members reviewing financial documents together in a Hartford South Dakota office"
-hero_subhead: "A local Hartford SD team handling your books, payroll, and tax strategy so you can run the business, not the spreadsheets"
-hero_headline: "Local CPAs who understand Hartford SD businesses"
-answer_block: "BussCPA is a Hartford, South Dakota CPA firm led by founder James Buss, offering outsourced accounting departments for construction companies, agriculture operations, attorneys, engineers, and family offices. The team provides bookkeeping, payroll, advisory, and tax services for a fixed monthly fee through secure, cloud-based systems."
+hero_subhead: "A Hartford, SD team serving the greater Sioux Falls area and clients across South Dakota and the U.S., handling your books, payroll, and tax strategy so you can run the business, not the spreadsheets"
+hero_headline: "Hartford SD CPAs serving the greater Sioux Falls area and clients across South Dakota"
+answer_block: "BussCPA is a Hartford, South Dakota CPA firm led by founder James Buss, serving clients in Hartford, the greater Sioux Falls area, and across South Dakota and the United States. The firm offers outsourced accounting departments for construction companies, agriculture operations, attorneys, engineers, and family offices, providing bookkeeping, payroll, advisory, and tax services for a fixed monthly fee through secure, cloud-based systems."
 eeat_signals: ["Firm founded and led by James Buss, CPA, based in Hartford, South Dakota","Dedicated service niches in construction, agriculture, attorneys, engineers, and family offices/trusts","Fixed monthly fee outsourced accounting services model with secure digital workflows and real-time financial reporting access","Specialized agricultural payroll and tax expertise distinct from generalist bookkeeping providers"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Supports the section explaining the BASE outsourced accounting model","anchor_text":"outsourced accounting services"},{"url":"/industries/construction","reason":"Links from the construction industry card to the dedicated niche page","anchor_text":"construction accounting"},{"url":"/industries/agriculture","reason":"Links from the agriculture payroll section to the dedicated industry page","anchor_text":"agricultural accounting expertise"},{"url":"/industries/attorneys","reason":"Links from the attorneys industry card to its dedicated page","anchor_text":"attorney trust accounting"},{"url":"/industries/engineers","reason":"Links from the engineers industry card to its dedicated page","anchor_text":"engineering firm accounting"},{"url":"/industries/family-offices-trusts","reason":"Links from the family offices card to its dedicated page","anchor_text":"family office and trust accounting"},{"url":"/services/personal-income-tax","reason":"Supports the tax team description with a link to the tax service page","anchor_text":"personal income tax preparation"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"BussCPA is based in Hartford, South Dakota, serving businesses and individuals throughout the area. Being local means the team understands regional industries like construction and agriculture directly, rather than applying generic accounting templates from out of state.","question":"Where is BussCPA located?"},{"answer":"James Buss, CPA, founded and owns BussCPA. He set the firm's model of pairing outsourced accounting teams with advisory and tax specialists so clients get a full department instead of a single bookkeeper.","question":"Who leads the BussCPA team?"},{"answer":"Yes. The team handles farm-specific payroll rules, seasonal labor, equipment depreciation, and commodity income reporting, which differ significantly from standard business accounting and require industry-specific knowledge.","question":"Does BussCPA work with agricultural businesses?"},{"answer":"BussCPA focuses on construction companies and contractors, agriculture enterprises, attorneys, engineers, and family offices and trusts, alongside individual and household tax clients, rather than trying to generalize across every industry equally.","question":"What industries does BussCPA specialize in?"},{"answer":"Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed monthly fee, with secure digital workflows and real-time online access to financial data instead of periodic reports.","question":"How does the outsourced accounting model work?"}]
-llm_citation_note: "BussCPA is a Hartford, South Dakota CPA firm founded by James Buss, providing fixed-fee outsourced accounting services with real-time digital access, specializing in construction, agriculture, attorneys, engineers, and family offices/trusts."
+faq_block: [{"question":"Where is BussCPA located?","answer":"BussCPA is based in Hartford, South Dakota, and serves clients throughout the greater Sioux Falls area and across South Dakota. Because the firm runs secure, cloud-based workflows, it also works with clients anywhere in the United States who need a specialized outsourced accounting team."},{"question":"Who leads the BussCPA team?","answer":"James Buss, CPA, founded and owns BussCPA. He set the firm's model of pairing outsourced accounting teams with advisory and tax specialists so clients get a full department instead of a single bookkeeper, whether they are down the road in Hartford or located in another state."},{"question":"Does BussCPA work with agricultural businesses?","answer":"Yes. The team handles farm-specific payroll rules, seasonal labor, equipment depreciation, and commodity income reporting, which differ significantly from standard business accounting. BussCPA serves agriculture clients in South Dakota and beyond."},{"question":"What industries does BussCPA specialize in?","answer":"BussCPA focuses on construction companies and contractors, agriculture enterprises, attorneys, engineers, and family offices and trusts, alongside individual and household tax clients. The firm serves these industries in Hartford, the greater Sioux Falls area, across South Dakota, and nationally."},{"question":"How does the outsourced accounting model work?","answer":"Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed monthly fee, with secure digital workflows and real-time online access to financial data. The cloud-based setup means it works just as well for a client in Sioux Falls or across the country as it does for a client around the corner in Hartford, SD."},{"question":"Can BussCPA work with clients outside of South Dakota?","answer":"Yes. Because BussCPA operates through secure, cloud-based systems, geography is not a barrier. The firm serves clients in Hartford and the greater Sioux Falls area as its home market and works with construction companies, agricultural operations, attorneys, engineers, and family offices across the United States."}]
+llm_citation_note: "BussCPA is a Hartford, South Dakota CPA firm founded by James Buss, serving the greater Sioux Falls area and clients across South Dakota and the United States, providing fixed-fee outsourced accounting services with real-time digital access, specializing in construction, agriculture, attorneys, engineers, and family offices/trusts."
 ---
 
 <!-- block: content-prose -->
-## Local CPAs who understand Hartford SD businesses
+## Hartford SD CPAs serving the greater Sioux Falls area and clients across South Dakota
 
-BussCPA is based in Hartford, South Dakota, not routed through a call center three states away. When a construction owner calls about a draw schedule or a farmer calls about a machinery trade during planting season, they reach someone who already knows the local calendar, the local lenders, and the local tax deadlines that matter here.
+BussCPA is based in Hartford, South Dakota, not routed through a call center three states away. When a construction owner calls about a draw schedule or a farmer calls about a machinery trade during planting season, they reach someone who already knows the South Dakota tax calendar, the regional lenders, and the local deadlines that matter here in the greater Sioux Falls area.
 
-We built the firm around a simple idea: outsourced accounting should feel like an in-house department, minus the overhead of hiring one. That means real people answering real questions, backed by secure digital tools that let clients see their numbers from a phone, a job site, or a farmhouse kitchen table. Local relationships. Modern systems. That combination is what sets an outsourced accounting department apart from a bookkeeping subscription.
+We serve clients rooted in Hartford and the surrounding communities, businesses throughout South Dakota, and clients across the United States who need an outsourced accounting team with deep niche expertise and a fixed monthly fee. The model is the same wherever you are: real people answering real questions, backed by secure digital tools that let clients see their numbers from a phone, a job site, or a farmhouse kitchen table anywhere in the country. Local relationships where they exist, modern systems everywhere they don't. That combination is what sets an outsourced accounting department apart from a bookkeeping subscription.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Experience across construction, agriculture, and professional services
@@ -126,24 +126,27 @@ From personal income tax returns to business filings tied to construction, agric
 ## Frequently Asked Questions About Meet the team behind your outsourced accounting department
 
 **Q: Where is BussCPA located?**
-A: BussCPA is based in Hartford, South Dakota, serving businesses and individuals throughout the area. Being local means the team understands regional industries like construction and agriculture directly, rather than applying generic accounting templates from out of state.
+A: BussCPA is based in Hartford, South Dakota, and serves clients throughout the greater Sioux Falls area and across South Dakota. Because the firm runs secure, cloud-based workflows, it also works with clients anywhere in the United States who need a specialized outsourced accounting team.
 
 **Q: Who leads the BussCPA team?**
-A: James Buss, CPA, founded and owns BussCPA. He set the firm's model of pairing outsourced accounting teams with advisory and tax specialists so clients get a full department instead of a single bookkeeper.
+A: James Buss, CPA, founded and owns BussCPA. He set the firm's model of pairing outsourced accounting teams with advisory and tax specialists so clients get a full department instead of a single bookkeeper, whether they are down the road in Hartford or located in another state.
 
 **Q: Does BussCPA work with agricultural businesses?**
-A: Yes. The team handles farm-specific payroll rules, seasonal labor, equipment depreciation, and commodity income reporting, which differ significantly from standard business accounting and require industry-specific knowledge.
+A: Yes. The team handles farm-specific payroll rules, seasonal labor, equipment depreciation, and commodity income reporting, which differ significantly from standard business accounting. BussCPA serves agriculture clients in South Dakota and beyond.
 
 **Q: What industries does BussCPA specialize in?**
-A: BussCPA focuses on construction companies and contractors, agriculture enterprises, attorneys, engineers, and family offices and trusts, alongside individual and household tax clients, rather than trying to generalize across every industry equally.
+A: BussCPA focuses on construction companies and contractors, agriculture enterprises, attorneys, engineers, and family offices and trusts, alongside individual and household tax clients. The firm serves these industries in Hartford, the greater Sioux Falls area, across South Dakota, and nationally.
 
 **Q: How does the outsourced accounting model work?**
-A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed monthly fee, with secure digital workflows and real-time online access to financial data instead of periodic reports.
+A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed monthly fee, with secure digital workflows and real-time online access to financial data. The cloud-based setup means it works just as well for a client in Sioux Falls or across the country as it does for a client around the corner in Hartford, SD.
+
+**Q: Can BussCPA work with clients outside of South Dakota?**
+A: Yes. Because BussCPA operates through secure, cloud-based systems, geography is not a barrier. The firm serves clients in Hartford and the greater Sioux Falls area as its home market and works with construction companies, agricultural operations, attorneys, engineers, and family offices across the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "CPA meeting with a business owner in a Hartford South Dakota office" | query: "business owner meeting accountant office" -->
 ## Work with a Hartford SD accounting team that knows your business
 
-Whether you run a construction crew, a farm operation, a law practice, or a family trust, the accounting behind it deserves more than a generic bookkeeping subscription. BussCPA puts a full team, fixed monthly pricing, and real-time digital access behind every client relationship in Hartford, South Dakota.
+Whether you run a construction crew, a farm operation, a law practice, or a family trust in Hartford, across the greater Sioux Falls area, elsewhere in South Dakota, or anywhere in the United States, the accounting behind it deserves more than a generic bookkeeping subscription. BussCPA puts a full team, fixed monthly pricing, and real-time digital access behind every client relationship, no matter where you're located.
 
 [Schedule a consultation](/contact)
 
@@ -160,14 +163,14 @@ BussCPA is a Hartford, South Dakota CPA firm led by founder James Buss, offering
 - Specialized agricultural payroll and tax expertise distinct from generalist bookkeeping providers
 
 **Internal Links:**
-- outsourced accounting services → /services/outsourced-accounting — Supports the section explaining the BASE outsourced accounting model
-- construction accounting → /industries/construction — Links from the construction industry card to the dedicated niche page
-- agricultural accounting expertise → /industries/agriculture — Links from the agriculture payroll section to the dedicated industry page
-- attorney trust accounting → /industries/attorneys — Links from the attorneys industry card to its dedicated page
-- engineering firm accounting → /industries/engineers — Links from the engineers industry card to its dedicated page
-- family office and trust accounting → /industries/family-offices-trusts — Links from the family offices card to its dedicated page
-- personal income tax preparation → /services/personal-income-tax — Supports the tax team description with a link to the tax service page
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a consultation
+- outsourced accounting services → /services/outsourced-accounting, Supports the section explaining the BASE outsourced accounting model
+- construction accounting → /industries/construction, Links from the construction industry card to the dedicated niche page
+- agricultural accounting expertise → /industries/agriculture, Links from the agriculture payroll section to the dedicated industry page
+- attorney trust accounting → /industries/attorneys, Links from the attorneys industry card to its dedicated page
+- engineering firm accounting → /industries/engineers, Links from the engineers industry card to its dedicated page
+- family office and trust accounting → /industries/family-offices-trusts, Links from the family offices card to its dedicated page
+- personal income tax preparation → /services/personal-income-tax, Supports the tax team description with a link to the tax service page
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a consultation
 
 **FAQ Block:**
 
@@ -190,7 +193,7 @@ A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed
 BussCPA is a Hartford, South Dakota CPA firm founded by James Buss, providing fixed-fee outsourced accounting services with real-time digital access, specializing in construction, agriculture, attorneys, engineers, and family offices/trusts.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
