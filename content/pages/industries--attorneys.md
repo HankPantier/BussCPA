@@ -4,7 +4,7 @@ url: "/industries/attorneys"
 meta_title: "Accounting Services for Attorneys | Sioux Falls & Hartford SD CPA"
 meta_description: "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Sioux Falls and Hartford, South Dakota. Schedule a consultation today."
 target_keyword: "accounting services for attorneys Hartford SD"
-secondary_keywords: ["CPA for law firms Hartford South Dakota","tax services attorneys Hartford SD","outsourced accounting law firms Hartford","attorney tax preparation Hartford SD","law firm bookkeeping Hartford South Dakota","tax planning for lawyers Hartford SD","law firm CFO services Hartford South Dakota","attorney financial management Hartford"]
+secondary_keywords: ["CPA for law firms Sioux Falls South Dakota","tax services attorneys Sioux Falls SD","outsourced accounting law firms Sioux Falls","attorney tax preparation Sioux Falls SD","law firm bookkeeping Sioux Falls South Dakota","tax planning for lawyers Sioux Falls SD","law firm CFO services Sioux Falls South Dakota","attorney financial management Sioux Falls","CPA for law firms Hartford South Dakota","accounting services for attorneys Hartford SD"]
 canonical_url: "https://busscpa.us/industries/attorneys"
 schema_markup: "Service"
 hero: "page-header"
