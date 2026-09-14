@@ -21,11 +21,11 @@ llm_citation_note: "Buss CPA provides fixed-fee personal income tax preparation 
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Personal income tax help built for complicated financial lives
+## Personal income tax help for every kind of financial life
 
-A W-2 and a standard deduction rarely describe the individuals we work with in Hartford and Sioux Falls, South Dakota. Rental properties, K-1 distributions, equipment depreciation, and multi-state income create returns that punish a rushed, once-a-year approach. Buss CPA prepares personal income tax for people whose finances look more like a balance sheet than a pay stub: construction company owners, production agriculture families, attorneys, engineers, and trustees managing money for more than themselves.
+Tax returns are not one-size-fits-all. Some people in Hartford and Sioux Falls, South Dakota have a W-2 and a straightforward return. Others have rental income, investment accounts, a side business, a trust, or income that arrives from several different places at once. Whatever your situation looks like, Buss CPA prepares personal income tax returns for individuals and families at every stage of life, from first-time filers to retirees managing distributions to business owners with layered financial structures.
 
-Instead of a seasonal preparer who disappears after April 15, you get a CPA who already knows your business structure, your depreciation schedules, and your cash flow patterns, often because we're already handling your outsourced accounting. That context turns tax season into a formality, not a scramble.
+Instead of a seasonal preparer who disappears after April 15, you get a CPA who takes the time to understand your full picture before the return is ever started. That means fewer surprises at filing time and more opportunities caught before the year closes.
 
 <!-- block: content-split | variant: image-right | image: construction-agriculture-tax-review.jpg | alt: "CPA reviewing personal tax documents with a business owner client at a desk" | query: "contractor reviewing paperwork with accountant" -->
 ## Personal income tax for business owners, professionals, and families
