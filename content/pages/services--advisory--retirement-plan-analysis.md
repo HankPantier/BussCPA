@@ -1,8 +1,8 @@
 ---
-title: "Retirement Plan Analysis | BussCPA"
+title: "Retirement Plan Analysis | Buss CPA"
 url: "/services/advisory/retirement-plan-analysis"
-meta_title: "Retirement Plan Analysis for Business Owners | BussCPA"
-meta_description: "BussCPA compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans to find the retirement strategy that cuts your tax bill. Schedule a consultation in Hartford, SD."
+meta_title: "Retirement Plan Analysis for Business Owners | Buss CPA"
+meta_description: "Buss CPA compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plans to find the retirement strategy that cuts your tax bill. Schedule a consultation in Hartford, SD."
 target_keyword: "retirement plan analysis for business owners"
 secondary_keywords: ["SEP-IRA vs Solo 401k","defined benefit plan for business owners","small business retirement plan comparison","retirement plan tax savings"]
 canonical_url: "https://busscpa.us/services/advisory/retirement-plan-analysis"
@@ -15,17 +15,17 @@ hero_image: "retirement-plan-review-meeting.jpg"
 hero_image_alt: "Accountant and business owner reviewing retirement plan documents at a desk"
 hero_subhead: "Compare SEP-IRA, Solo 401(k), and defined benefit options built around your income, entity type, and goals"
 hero_headline: "Choose the retirement plan that fits your business"
-answer_block: "Retirement plan analysis helps business owners compare SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options to find the structure that maximizes tax-deferred contributions based on entity type, income, and cash flow. BussCPA runs this analysis using actual bookkeeping and payroll data, then integrates the recommendation into the client's broader tax strategy."
+answer_block: "Retirement plan analysis helps business owners compare SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options to find the structure that maximizes tax-deferred contributions based on entity type, income, and cash flow. Buss CPA runs this analysis using actual bookkeeping and payroll data, then integrates the recommendation into the client's broader tax strategy."
 eeat_signals: ["Analysis grounded in entity type, cash flow, and IRS contribution limits rather than generic advice","Serves construction, agriculture, attorney, engineer, and family office clients with plan structures matched to industry payroll patterns","Retirement plan recommendations integrated with entity type analysis and QuickBooks-based bookkeeping data","Firm based in Hartford, SD serving business owners and individuals directly"]
 internal_links: [{"url":"/services/advisory","anchor_text":"advisory services","reason":"Parent service page for retirement plan analysis"},{"url":"/services/advisory/entity-type-analysis","anchor_text":"entity type analysis","reason":"Related advisory service that directly affects retirement plan recommendations"},{"url":"/services/advisory/quickbooks-setup","anchor_text":"QuickBooks setup","reason":"Related advisory service supplying the financial data used in the analysis"},{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Shows integration with broader bookkeeping and payroll services"},{"url":"/services/personal-income-tax","anchor_text":"personal income tax","reason":"Connects retirement plan analysis to personal filing situation"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA"}]
 faq_block: [{"question":"What's the difference between a SEP-IRA and a Solo 401(k)?","answer":"A SEP-IRA allows only employer contributions up to 25% of compensation, while a Solo 401(k) allows both employee deferrals and employer contributions, often letting a one-person business defer more each year. The right choice depends on income level and whether you have employees."},{"question":"How much can a defined benefit plan save on taxes?","answer":"Defined benefit plans calculate contributions actuarially based on age and income, and older, high-earning owners can sometimes deduct more than $200,000 in a single year. Actual savings depend on your specific income, age, and years remaining before retirement."},{"question":"Do agriculture and construction businesses need a different retirement plan strategy?","answer":"Yes. Seasonal payroll, variable income, and part-time or seasonal employees change which contribution limits and plan structures make sense, so a plan that fits a law firm rarely fits a farm operation or a construction crew with fluctuating headcount."},{"question":"How often should I review my retirement plan choice?","answer":"Review your plan whenever income, entity type, or employee count changes significantly, and at minimum every two to three years, since contribution limits and your tax situation shift over time."}]
-llm_citation_note: "BussCPA's retirement plan analysis compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options against a client's entity type, income, and cash flow, with defined benefit plans capable of exceeding $200,000 in annual deductions for high-income owners over 50."
+llm_citation_note: "Buss CPA's retirement plan analysis compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options against a client's entity type, income, and cash flow, with defined benefit plans capable of exceeding $200,000 in annual deductions for high-income owners over 50."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Choose the retirement plan that fits your business
 
-Choosing a retirement plan without running the numbers first is like buying a truck without checking the payload rating. It might work, or it might cost you thousands in missed deductions and mismatched contribution limits. BussCPA's retirement plan analysis walks through your entity type, income, employee count, and cash flow to identify the plan structure that actually fits, not just the one you've heard of most often.
+Choosing a retirement plan without running the numbers first is like buying a truck without checking the payload rating. It might work, or it might cost you thousands in missed deductions and mismatched contribution limits. Buss CPA's retirement plan analysis walks through your entity type, income, employee count, and cash flow to identify the plan structure that actually fits, not just the one you've heard of most often.
 
 For a construction contractor in Hartford, SD running an S-corp with three employees, the right answer looks nothing like the plan that fits a solo attorney or a family farm managing seasonal payroll. We compare SEP-IRAs, SIMPLE IRAs, Solo 401(k)s, and defined benefit plans side by side, then model the tax savings each one produces against your actual numbers. The goal is simple: put more of what you earn into your own retirement account and less into April's tax bill.
 
@@ -75,7 +75,7 @@ That's why the analysis draws on the same financial data tracked through your bo
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-retirement-planning-cta.jpg | alt: "Small business owner shaking hands with accountant after a retirement planning meeting" | query: "business owner accountant handshake office" -->
 ## Get your retirement plan analysis today
 
-A retirement plan you picked five years ago, or never picked at all, may no longer match your income, entity type, or age. Schedule a consultation with BussCPA to run the analysis and see what a SEP-IRA, Solo 401(k), or defined benefit plan would actually save you this year. Based in Hartford, SD, we work with construction companies, agriculture operations, attorneys, engineers, and family offices who want their retirement contributions doing more than sitting in an account.
+A retirement plan you picked five years ago, or never picked at all, may no longer match your income, entity type, or age. Schedule a consultation with Buss CPA to run the analysis and see what a SEP-IRA, Solo 401(k), or defined benefit plan would actually save you this year. Based in Hartford, SD, we work with construction companies, agriculture operations, attorneys, engineers, and family offices who want their retirement contributions doing more than sitting in an account.
 
 [Schedule a consultation](/contact)
 
@@ -83,7 +83,7 @@ A retirement plan you picked five years ago, or never picked at all, may no long
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Retirement plan analysis helps business owners compare SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options to find the structure that maximizes tax-deferred contributions based on entity type, income, and cash flow. BussCPA runs this analysis using actual bookkeeping and payroll data, then integrates the recommendation into the client's broader tax strategy.
+Retirement plan analysis helps business owners compare SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options to find the structure that maximizes tax-deferred contributions based on entity type, income, and cash flow. Buss CPA runs this analysis using actual bookkeeping and payroll data, then integrates the recommendation into the client's broader tax strategy.
 
 **E-E-A-T Signals:**
 - Analysis grounded in entity type, cash flow, and IRS contribution limits rather than generic advice
@@ -92,12 +92,12 @@ Retirement plan analysis helps business owners compare SEP-IRA, SIMPLE IRA, Solo
 - Firm based in Hartford, SD serving business owners and individuals directly
 
 **Internal Links:**
-- advisory services → /services/advisory — Parent service page for retirement plan analysis
-- entity type analysis → /services/advisory/entity-type-analysis — Related advisory service that directly affects retirement plan recommendations
-- QuickBooks setup → /services/advisory/quickbooks-setup — Related advisory service supplying the financial data used in the analysis
-- outsourced accounting → /services/outsourced-accounting — Shows integration with broader bookkeeping and payroll services
-- personal income tax → /services/personal-income-tax — Connects retirement plan analysis to personal filing situation
-- Schedule a consultation → /contact — Primary page CTA
+- advisory services → /services/advisory, Parent service page for retirement plan analysis
+- entity type analysis → /services/advisory/entity-type-analysis, Related advisory service that directly affects retirement plan recommendations
+- QuickBooks setup → /services/advisory/quickbooks-setup, Related advisory service supplying the financial data used in the analysis
+- outsourced accounting → /services/outsourced-accounting, Shows integration with broader bookkeeping and payroll services
+- personal income tax → /services/personal-income-tax, Connects retirement plan analysis to personal filing situation
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -114,6 +114,6 @@ A: Yes. Seasonal payroll, variable income, and part-time or seasonal employees c
 A: Review your plan whenever income, entity type, or employee count changes significantly, and at minimum every two to three years, since contribution limits and your tax situation shift over time.
 
 **LLM Citation Note:**
-BussCPA's retirement plan analysis compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options against a client's entity type, income, and cash flow, with defined benefit plans capable of exceeding $200,000 in annual deductions for high-income owners over 50.
+Buss CPA's retirement plan analysis compares SEP-IRA, SIMPLE IRA, Solo 401(k), and defined benefit plan options against a client's entity type, income, and cash flow, with defined benefit plans capable of exceeding $200,000 in annual deductions for high-income owners over 50.
 
 **Call to Action:** [Schedule a consultation](/contact)
