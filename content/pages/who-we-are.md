@@ -143,7 +143,7 @@ A: Clients get a full team, bookkeeping, payroll, advisory, and tax, for a fixed
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-office-consultation.jpg | alt: "CPA meeting with a business owner in a Hartford South Dakota office" | query: "business owner meeting accountant office" -->
 ## Work with a Hartford SD accounting team that knows your business
 
-Whether you run a construction crew, a farm operation, a law practice, or a family trust, the accounting behind it deserves more than a generic bookkeeping subscription. BussCPA puts a full team, fixed monthly pricing, and real-time digital access behind every client relationship in Hartford, South Dakota.
+Whether you run a construction crew, a farm operation, a law practice, or a family trust in Hartford, across the greater Sioux Falls area, elsewhere in South Dakota, or anywhere in the United States, the accounting behind it deserves more than a generic bookkeeping subscription. BussCPA puts a full team, fixed monthly pricing, and real-time digital access behind every client relationship, no matter where you're located.
 
 [Schedule a consultation](/contact)
 
