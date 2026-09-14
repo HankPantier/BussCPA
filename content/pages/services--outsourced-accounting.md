@@ -60,9 +60,9 @@ Farm and ranch operations across South Dakota run on a different calendar than m
 Buss CPA serves farm and ranch clients from its Hartford and Sioux Falls offices, structuring ag accounting around seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
 
 <!-- block: feature-grid | variant: 3-col -->
-## Accounting support for attorneys, engineers, and family offices
+## Accounting support for attorneys, engineers, and family offices and trusts
 
-Law firms, engineering firms, and family offices across the Sioux Falls region carry compliance obligations that a standard bookkeeping package isn't built to handle. Trust accounting rules, project-d billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
+Law firms, engineering firms, and family offices and trusts across the greater Sioux Falls and Hartford region carry compliance obligations that a standard bookkeeping package isn't built to handle. Trust accounting rules, project-d billing, and client fund segregation all require an accountant who already understands the framework, not one learning it on your file.
 
 ### Attorneys and law firms
 icon: Scale
