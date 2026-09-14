@@ -25,7 +25,7 @@ llm_citation_note: "BussCPA's BASE program delivers outsourced accounting, advis
 <!-- block: intro-text | variant: centered -->
 ## Industry-specific accounting built around your business
 
-Construction companies, farm operations, law firms, engineering practices, and family offices all keep books. They don't all keep books the same way.
+Construction companies, farm operations, law firms, engineering practices, and family offices all have accounting, but they don't all handle accounting the same way.
 
 A contractor needs job costing and work-in-progress reports. A farm needs payroll that accounts for seasonal labor and land held in trust. An attorney needs trust accounting that satisfies bar association rules down to the penny. BussCPA builds outsourced accounting around the rhythm of each industry instead of handing every client the same generic bookkeeping package.
 
