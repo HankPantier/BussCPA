@@ -50,7 +50,7 @@ Each client works from one platform for uploading documents and reviewing statem
 
 Construction accounting isn't general bookkeeping with a different label. Job costing has to tie back to specific projects, progress billing has to match contract terms, and retainage has to be tracked separately from operating cash. Miss any of those and a profitable job can look like a loss on paper.
 
-Buss CPA's outsourced accounting program is built around those realities for contractors and construction companies working in and around Hartford. Reports break down cost by job, not just by category, so a business owner can see which projects are actually making money before the final invoice goes out. For a deeper look at how this applies to your trade, visit our [construction accounting page](/industries/construction).
+Buss CPA works with contractors and construction companies across the Sioux Falls metro and surrounding communities. Reports break down cost by job, not just by category, so a business owner can see which projects are actually making money before the final invoice goes out. For a deeper look at how this applies to your trade, visit our [construction accounting page](/industries/construction).
 
 <!-- block: content-split | variant: image-right | image: farm-operation-financial-review.jpg | alt: "Farmer reviewing financial documents at a kitchen table on a farm" | query: "farmer reviewing financial paperwork farm" -->
 ## Specialized bookkeeping for agriculture enterprises
