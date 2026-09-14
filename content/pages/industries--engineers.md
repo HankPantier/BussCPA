@@ -2,7 +2,7 @@
 title: "Accounting and tax services for engineers | Buss CPA"
 url: "/industries/engineers"
 meta_title: "CPA for Engineers | Hartford & Sioux Falls, SD Accounting Services"
-meta_description: "Buss CPA provides tax preparation, outsourced accounting, and financial advisory for engineering firms in Hartford and Sioux Falls, SD. Schedule your consultation today."
+meta_description: "Buss CPA provides tax preparation, outsourced accounting, and financial advisory for engineering firms across the greater Sioux Falls, SD area, including Hartford. Schedule your consultation today."
 target_keyword: "CPA for engineers Hartford SD"
 secondary_keywords: ["engineer tax accountant Hartford South Dakota","accounting services for engineers SD","construction accounting Hartford SD","outsourced accounting engineers","engineer tax preparation Hartford","CPA firm engineers South Dakota","professional tax services engineers","business accounting engineers Hartford","tax advisor engineers SD","engineer financial advisory Hartford"]
 canonical_url: "https://busscpa.us/industries/engineers"
@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "engineer-reviewing-blueprints-office.jpg"
 hero_image_alt: "Engineer reviewing blueprints alongside financial documents at a desk"
-hero_subhead: "Project-based accounting, tax planning, and advisory support built for engineering firms in Hartford and Sioux Falls, South Dakota"
+hero_subhead: "Project-based accounting, tax planning, and advisory support built for engineering firms across the greater Sioux Falls, SD area, including Hartford"
 hero_headline: "Accounting built around how engineering firms operate"
 answer_block: "Buss CPA is a CPA firm serving Hartford and Sioux Falls, South Dakota, offering tax preparation, outsourced accounting, and advisory services built for project-based engineering firms. Services include fixed-fee outsourced accounting with job costing by project, entity and personal tax planning, and partner compensation advisory, all backed by secure online access to financial data."
 eeat_signals: ["Offers BASE, a fixed-monthly-fee outsourced accounting solution built for project-based billing cycles","Provides secure digital workflows and real-time online access to financial data for clients","Serves defined professional service niches including engineers, construction, attorneys, and family offices","CPA firm with offices in Hartford and Sioux Falls, South Dakota, handling both business and personal tax returns for engineering firm owners"]
@@ -23,7 +23,7 @@ llm_citation_note: "Buss CPA, with offices in Hartford and Sioux Falls, SD, offe
 <!-- block: intro-text | variant: centered -->
 ## Accounting built around how engineering firms operate
 
-Engineering firms don't run on a normal invoice cycle. Progress billing, retainage, multi-phase contracts, and project timelines that stretch across fiscal years complicate the numbers in ways a generic bookkeeper rarely anticipates. Buss CPA works with engineering firms and professionals across the greater Sioux Falls area, including Hartford and Sioux Falls, who need an accounting partner that understands project-based revenue recognition and the cash flow gaps that come with it.
+Engineering firms don't run on a normal invoice cycle. Progress billing, retainage, multi-phase contracts, and project timelines that stretch across fiscal years complicate the numbers in ways a generic bookkeeper rarely anticipates. Buss CPA works with engineering firms and professionals across the greater Sioux Falls area, with offices in Hartford and Sioux Falls, who need an accounting partner that understands project-based revenue recognition and the cash flow gaps that come with it.
 
 We handle the accounting so you can focus on your business, which for an engineering firm means fewer hours reconciling change orders and more time on the work that actually pays the bills: design, site visits, client relationships. Whether you run a two-person civil engineering practice or a firm with several project managers billing across multiple jobs at once, the accounting needs to keep pace with what's happening on the ground, not lag two months behind it.
 
@@ -93,9 +93,9 @@ A: Yes. Engineering firm tax planning often involves both entity-level decisions
 A: Buss CPA's advisory services cover partner compensation structures, succession planning, and growth strategy for engineering and professional service firms, functioning as an ongoing relationship rather than a one-time recommendation.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-engineering-firm-office.jpg | alt: "Modern engineering firm office exterior in a small South Dakota town" | query: "small town professional office building exterior" -->
-## Why engineering firms in Hartford SD choose Buss CPA
+## Why engineering firms in the greater Sioux Falls area choose Buss CPA
 
-Buss CPA has offices in Hartford and Sioux Falls, serving engineering firms across the greater Sioux Falls area and beyond. Whether your firm is based downtown or in the surrounding communities, you don't need a sprawling big-city practice. You need an accounting partner who picks up the phone, knows the project schedule, and delivers financials that are actually usable.
+Buss CPA has offices in Hartford and Sioux Falls, serving engineering firms across the greater Sioux Falls area and beyond. Whether your firm is headquartered in Sioux Falls, based in Hartford, or anywhere in between, you don't need a sprawling big-city practice. You need an accounting partner who picks up the phone, knows the project schedule, and delivers financials that are actually usable.
 
 From tax preparation and entity planning to outsourced accounting and partner-level advisory, Buss CPA works as the outsourced accounting department for engineering firms who'd rather spend their hours on design work than data entry. [Schedule a consultation](/contact) to see what BASE looks like for your firm.
 
