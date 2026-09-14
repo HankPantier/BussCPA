@@ -69,9 +69,9 @@ icon: GraduationCap
 Students get real client exposure, not just filing and coffee runs. Interns support staff accountants on live engagements across construction, agriculture, and personal tax work, and several convert to full-time offers.
 
 <!-- block: content-split | variant: image-left | image: hartford-sd-downtown-team.jpg | alt: "Team members walking together outside a small-town Hartford South Dakota office building" | query: "small town main street south dakota" -->
-## Life at Buss CPA in Hartford SD
+## Life at Buss CPA in Hartford and Sioux Falls, SD
 
-Hartford, SD sits roughly 15 miles from Sioux Falls, close enough for city amenities without the commute or the overhead. The office runs on a client-first culture: phones get answered, deadlines get met, and the team keeps reasonable hours even during tax season because digital workflows spread the work out instead of dumping it all into April. Based in Hartford, you get small-town parking, a short drive home, and the same client base and technology stack as accountants at much larger firms in Sioux Falls or Minneapolis. If you want Sioux Falls area opportunity without Sioux Falls area traffic, Hartford works.
+Buss CPA operates out of two South Dakota locations: Hartford, about 15 miles from Sioux Falls, and a Sioux Falls office for candidates who prefer a city address. Both offices run on the same client-first culture: phones get answered, deadlines get met, and the team keeps reasonable hours even during tax season because digital workflows spread the work out instead of dumping it all into April. Whichever office fits your commute, you get the same client base and technology stack, the kind that accountants at much larger regional firms work hard to access. Hartford offers small-town parking and a short drive home. Sioux Falls puts you in the heart of the state's largest business market. Either way, you're doing real advisory work for niche clients, not pushing paper.
 
 <!-- block: checklist-section | variant: with-image | image: resume-application-accounting-candidate.jpg | alt: "Candidate submitting a resume and cover letter for an accounting position" | query: "job applicant resume interview office" -->
 ## How to apply
