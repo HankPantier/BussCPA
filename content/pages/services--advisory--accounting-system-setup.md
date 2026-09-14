@@ -93,13 +93,13 @@ A QuickBooks file built around guesswork costs time now and money later. Buss CP
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA's QuickBooks setup service configures your chart of accounts, bank and credit card feeds, app integrations, and automations correctly from the start. It's built for automotive, construction, and agriculture businesses in Hartford, SD, and connects directly into Buss CPA's outsourced accounting and advisory services.
+Buss CPA advises businesses on how to set up QuickBooks correctly: the right chart of accounts structure, bank and credit card feed connections, app integrations, and workflow automations. Guidance is tailored for construction, agriculture, attorneys, engineers, and family offices and trusts in Hartford and Sioux Falls, SD, and works alongside Buss CPA's outsourced accounting and advisory services.
 
 **E-E-A-T Signals:**
-- Buss CPA is a CPA firm based in Hartford, SD serving businesses and individuals directly
+- Buss CPA is a CPA firm with offices in Hartford and Sioux Falls, SD serving businesses and individuals directly
 - Offers an end-to-end outsourced accounting solution with a fixed monthly fee and secure digital workflows
-- Builds industry-specific QuickBooks configurations for construction job costing and agriculture payroll needs
-- QuickBooks setup connects directly into Buss CPA's outsourced accounting and advisory service lines for real-time financial visibility
+- Provides industry-specific QuickBooks setup guidance for construction job costing, agriculture seasonal payroll, law firm trust accounting, engineering project billing, and family office reporting
+- QuickBooks setup advice connects directly into Buss CPA's outsourced accounting and advisory service lines for real-time financial visibility
 
 **Internal Links:**
 - outsourced accounting service → /services/outsourced-accounting, Shows how the setup feeds directly into Buss CPA's ongoing bookkeeping and outsourced accounting offering
