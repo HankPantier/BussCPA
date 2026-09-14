@@ -1,10 +1,10 @@
 ---
 title: "Entity Type Analysis | Buss CPA"
 url: "/services/advisory/entity-type-analysis"
-meta_title: "Business Entity Type Analysis | Buss CPA Hartford, SD"
-meta_description: "Compare LLC, S-Corp, C-Corp, partnership, and sole proprietorship options with a tax projection built on your real numbers. Schedule your entity analysis today."
+meta_title: "Business Entity Type Analysis | Buss CPA Hartford & Sioux Falls, SD"
+meta_description: "Compare LLC, S-Corp, C-Corp, partnership, and sole proprietorship options with a tax projection built on your real numbers. Serving construction, agriculture, attorneys, engineers, and family offices near Sioux Falls and Hartford, SD."
 target_keyword: "business entity type analysis"
-secondary_keywords: ["LLC vs S-Corp comparison","entity structure advisory","business tax entity selection","S-Corp election analysis"]
+secondary_keywords: ["LLC vs S-Corp comparison","entity structure advisory","business tax entity selection","S-Corp election analysis","entity structure for contractors Sioux Falls SD","farm entity planning South Dakota","attorney professional corporation vs LLC"]
 canonical_url: "https://busscpa.us/services/advisory/entity-type-analysis"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
