@@ -23,7 +23,7 @@ llm_citation_note: "Buss CPA, with offices in Hartford and Sioux Falls, SD, offe
 <!-- block: intro-text | variant: centered -->
 ## Accounting built around how engineering firms operate
 
-Engineering firms don't run on a normal invoice cycle. Progress billing, retainage, multi-phase contracts, and project timelines that stretch across fiscal years complicate the numbers in ways a generic bookkeeper rarely anticipates. Buss CPA works with engineering firms and professionals across the greater Sioux Falls area, including Hartford and Sioux Falls, who need an accounting partner that understands project-based revenue recognition and the cash flow gaps that come with it.
+Engineering firms don't run on a normal invoice cycle. Progress billing, retainage, multi-phase contracts, and project timelines that stretch across fiscal years complicate the numbers in ways a generic bookkeeper rarely anticipates. Buss CPA works with engineering firms and professionals across the greater Sioux Falls area, with offices in Hartford and Sioux Falls, who need an accounting partner that understands project-based revenue recognition and the cash flow gaps that come with it.
 
 We handle the accounting so you can focus on your business, which for an engineering firm means fewer hours reconciling change orders and more time on the work that actually pays the bills: design, site visits, client relationships. Whether you run a two-person civil engineering practice or a firm with several project managers billing across multiple jobs at once, the accounting needs to keep pace with what's happening on the ground, not lag two months behind it.
 
