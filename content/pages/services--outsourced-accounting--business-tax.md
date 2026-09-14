@@ -32,11 +32,11 @@ One fixed monthly fee covers accounting, payroll, and tax planning together, for
 <!-- block: content-split | variant: image-left | image: construction-farm-tax-planning.jpg | alt: "Contractor and farm owner reviewing financial paperwork with an accountant" | query: "contractor farmer meeting with accountant" -->
 ## Tax preparation built for construction and agricultural businesses
 
-Contractors and farm operations need different things from a tax preparer, and generic tax software doesn't know the difference.
+Contractors, farmers, and ranchers across the Sioux Falls metro and surrounding communities need different things from a tax preparer. Generic tax software doesn't know the difference, and a seasonal storefront preparer usually doesn't either.
 
-Construction companies need job costing that ties directly into the tax return: work-in-progress schedules, percentage-of-completion accounting, and depreciation schedules for equipment that turns over every season. Get those wrong and a profitable job on paper turns into a tax bill that doesn't match the cash actually collected.
+Construction companies need job costing that ties directly into the tax return: work-in-progress schedules, percentage-of-completion accounting, and depreciation schedules for equipment that turns over every season. Get those wrong and a profitable job on paper turns into a tax bill that doesn't match the cash actually collected. South Dakota contractors managing multiple active jobs especially feel that gap.
 
-Agriculture operations run on a different calendar entirely. Grain sales, livestock cycles, and equipment purchases don't follow a tidy quarterly pattern, and payroll for seasonal help carries its own withholding and reporting rules that differ from a standard W-2 workforce. A farm that files taxes like a retail shop leaves money on the table and risks misclassifying payroll.
+Agriculture operations run on a different calendar entirely. Grain sales, livestock cycles, calving seasons, and equipment purchases don't follow a tidy quarterly pattern, and payroll for seasonal help carries its own withholding and reporting rules that differ from a standard W-2 workforce. Schedule F reporting for crop insurance proceeds and government payments, livestock and ranch land deductions, and planning around commodity-driven income swings all require a preparer who understands how South Dakota farms and ranches actually operate. A farm that files taxes like a retail shop leaves money on the table and risks misclassifying payroll.
 
 Buss CPA works with both, building tax filings around how the business actually operates instead of forcing construction and agriculture clients into a template built for neither.
 
