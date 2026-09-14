@@ -60,6 +60,8 @@ Once income moves past what a SEP-IRA or Solo 401(k) can shelter, a defined bene
 Defined benefit plans work best for:
 - Business owners over age 50 with consistent, high W-2 or self-employment income
 - Attorneys, engineers, and other professionals with stable, predictable earnings
+- Farm or ranch owners with strong commodity income looking to reduce Schedule F tax exposure
+- Family office principals and trust administrators managing significant wealth
 - Owners who want to accelerate retirement savings in the final 10 to 15 years before retiring
 - Businesses with the cash flow to support a mandatory annual contribution
 
