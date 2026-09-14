@@ -23,9 +23,9 @@ llm_citation_note: "Buss CPA, with offices in Sioux Falls and Hartford, SD, bund
 <!-- block: content-prose -->
 ## Strategic advisory built on your real financial data
 
-Most financial advisors in Hartford, SD manage investments. They don't touch your books, don't file your taxes, and don't see your cash flow until you bring them a spreadsheet weeks after the fact. Buss CPA works differently. Advisory here starts with the accounting itself: your ledgers, your payroll, your tax position, updated in real time through the same digital platform your outsourced accounting team already uses.
+Most financial advisors manage investments. They don't touch your books, don't file your taxes, and don't see your cash flow until you bring them a spreadsheet weeks after the fact. Buss CPA works differently. Advisory here starts with the accounting itself: your ledgers, your payroll, your tax position, updated in real time through the same digital platform your outsourced accounting team already uses.
 
-That means recommendations come from actual numbers, not a quarterly snapshot. When we talk about pricing a job, timing a purchase, or restructuring an entity, we're looking at the same data you are, current as of this morning. For business owners in Hartford and across South Dakota, that's the difference between advisory that reacts and advisory that plans ahead.
+That means recommendations come from actual numbers, not a quarterly snapshot. When we talk about pricing a job, timing a purchase, or restructuring an entity, we're looking at the same data you are, current as of this morning. For business owners across the greater Sioux Falls area and the surrounding South Dakota region, that's the difference between advisory that reacts and advisory that plans ahead. Buss CPA serves clients from offices in both Hartford and Sioux Falls, so whether you're running a farm outside Brandon or a law practice in downtown Sioux Falls, you get the same real-time numbers and the same direct access to your advisor.
 
 <!-- block: content-split | variant: image-right | image: construction-agriculture-advisory.jpg | alt: "Contractor and farmer reviewing financial reports with an advisor" | query: "contractor farmer reviewing financial documents" -->
 ## Industry-specific advisory for construction and agriculture
