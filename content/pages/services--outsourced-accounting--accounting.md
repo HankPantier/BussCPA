@@ -61,22 +61,22 @@ Agriculture operations don't run on a standard payroll calendar or a predictable
 Buss CPA structures payroll and cash flow reporting around that reality instead of forcing farm and ranch operations into a template built for retail or professional services. That means correct handling of seasonal and part-time agricultural labor, Schedule F reporting for crop insurance proceeds and government payments, livestock and ranch land deductions, equipment depreciation strategy, and cash flow projections that account for planting, calving, and harvest cycles rather than assuming steady monthly revenue. It's accounting built around how a farm or ranch actually operates, not how a spreadsheet template wishes it did.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Trusted accounting for attorneys, engineers, and family offices
+## Trusted accounting for attorneys, engineers, and family offices across greater Sioux Falls
 
 ### Attorneys
 icon: Scale
 
-Trust accounting rules leave no room for reconciliation errors. Buss CPA maintains client fund records with the precision attorney trust accounts require, keeping IOLTA and operating accounts cleanly separated and reconciled every month.
+Trust accounting rules leave no room for reconciliation errors. Attorneys in Sioux Falls and Hartford rely on Buss CPA to maintain client fund records with the precision IOLTA accounts require, keeping trust and operating accounts cleanly separated and reconciled every month. When a state bar audit or client dispute arises, the records are already in order.
 
 ### Engineers
 icon: Wrench
 
-Engineering firms often bill against long project timelines with milestone payments. Buss CPA tracks project-level revenue and expense recognition so firm partners see true profitability on active contracts, not just cash in the bank.
+Engineering firms often bill against long project timelines with milestone payments and retainers. Buss CPA tracks project-level revenue and expense recognition so firm partners in the Sioux Falls area see true profitability on active contracts, not just cash in the bank. That clarity matters when deciding whether to staff up for the next project or hold the line.
 
 ### Family offices and trusts
 icon: Building2
 
-Family office and trust accounting demands discretion and exact record-keeping across multiple entities. Buss CPA handles multi-entity reporting and trust distributions with the confidentiality and accuracy these arrangements require.
+Family office and trust accounting demands discretion and exact record-keeping across multiple entities. Buss CPA handles multi-entity reporting, trust distributions, and entity-level financials with the confidentiality and accuracy these arrangements require, whether you're managing a single family trust or coordinating across several related entities.
 
 <!-- block: content-prose -->
 ## What audit ready means for your business
