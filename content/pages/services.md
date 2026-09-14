@@ -46,22 +46,22 @@ Buss CPA works with grain, livestock, and ranch operations across the greater Si
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for attorneys, engineers, and family offices
 
-These three client types share one thing in common: money that has to be tracked with precision, not approximation. Buss CPA serves all three from its Sioux Falls and Hartford offices.
+These three client types share one thing in common: money that has to be tracked with precision, not approximation. Buss CPA serves all three from its offices in Hartford and Sioux Falls.
 
 ### Attorneys
 icon: Scale
 
-Trust funds and client retainers require accounting clean enough to survive a bar audit. Buss CPA helps law firms in Sioux Falls and across South Dakota separate operating funds from client trust accounts, reconcile monthly, and produce the reporting attorneys need for compliance without the compliance headache. [More for attorneys](/industries/attorneys)
+Trust funds and client retainers require accounting clean enough to survive a bar audit. Buss CPA helps law firms in Sioux Falls, Hartford, and across South Dakota separate operating funds from client trust accounts, reconcile monthly, and produce the reporting attorneys need for compliance, without making compliance the attorney's problem. [More for attorneys](/industries/attorneys)
 
 ### Engineers
 icon: Wrench
 
-Project-based billing means revenue doesn't arrive evenly, and neither does profitability by contract. We track job costs and billing milestones by project so engineering firms in the Sioux Falls area see which contracts actually make money, not just which ones bring in the most revenue. [More for engineers](/industries/engineers)
+Project-based billing means revenue doesn't arrive evenly, and neither does profitability by contract. Buss CPA tracks job costs and billing milestones by project so engineering firms in Sioux Falls and the surrounding area see which contracts actually make money, not just which ones bring in the most revenue. [More for engineers](/industries/engineers)
 
 ### Family Offices and Trusts
 icon: Building2
 
-Multi-generational wealth means multiple entities, multiple beneficiaries, and reporting that has to satisfy everyone from a family patriarch to an outside trustee. Buss CPA consolidates trust and estate accounting into reporting that's accurate, consolidated, and ready whenever it's asked for. [More for family offices](/industries/family-offices-trusts)
+Multi-generational wealth means multiple entities, multiple beneficiaries, and reporting that has to satisfy everyone from a family patriarch to an outside trustee. Buss CPA consolidates trust and estate accounting for families in the greater Sioux Falls area into reporting that's accurate, consolidated, and ready whenever it's asked for. [More for family offices](/industries/family-offices-trusts)
 
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting, advisory, and CFO-level guidance
