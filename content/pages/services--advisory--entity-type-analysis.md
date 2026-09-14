@@ -99,7 +99,7 @@ Buss CPA has offices in Hartford and Sioux Falls, so clients across the greater 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a business consultation" | query: "business consultation handshake office" -->
 ## Get a personalized entity analysis
 
-If you've never had your entity structure reviewed against your current numbers, or it's been a few years since anyone checked, now is a reasonable time to ask. Buss CPA will look at your actual financials, model the alternatives, and give you a straight answer on whether your current structure is still working for you.
+If you've never had your entity structure reviewed against your current numbers, or it's been a few years since anyone checked, now is a reasonable time to ask. Whether you're a contractor in Sioux Falls, a rancher outside Hartford, an attorney managing a growing practice, an engineer planning for a future sale, or a family office navigating a trust transition, Buss CPA will look at your actual financials, model the alternatives, and give you a straight answer on whether your current structure is still working for you.
 
 [Schedule a consultation](/contact) with Buss CPA and get a clear, numbers-based answer on your business entity type.
 
