@@ -28,11 +28,6 @@ Buss CPA is a Hartford, SD based CPA firm rebuilding what outsourced accounting 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why work at Buss CPA
 
-### Real client exposure across niche industries
-icon: Building2
-
-Most staff accountants spend years on generic bookkeeping before touching anything specialized. At Buss CPA, you work with construction contractors, agriculture operations, attorneys, engineers, and family offices from day one, building expertise that's harder to find and more valuable across South Dakota's job market.
-
 ### Modern digital workflows, not paper files
 icon: Cog
 
@@ -72,26 +67,6 @@ Work alongside business owners on budgeting, tax strategy, and financial decisio
 icon: GraduationCap
 
 Students get real client exposure, not just filing and coffee runs. Interns support staff accountants on live engagements across construction, agriculture, and personal tax work, and several convert to full-time offers.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialize in industries that matter
-
-Generalist accounting jobs are easy to find in South Dakota. Deep industry expertise is not.
-
-### Construction
-icon: Hammer
-
-Job costing, retainage, and multi-project cash flow don't behave like standard small business accounting. Team members working with [construction clients](/industries/construction) learn to read a job in progress, not just a trial balance.
-
-### Agriculture
-icon: Coins
-
-Farm and ranch clients have payroll cycles, seasonal income, and tax elections that differ from nearly every other industry Buss CPA serves. Working with [agriculture clients](/industries/agriculture) means learning those rules firsthand instead of from a textbook.
-
-### Attorneys, engineers, and family offices
-icon: Scale
-
-Trust accounting, retainer tracking, and multi-entity reporting show up constantly with [attorney](/industries/attorneys), [engineering](/industries/engineers), and [family office and trust](/industries/family-offices-trusts) clients. These niches reward accountants who like precision and complexity.
 
 <!-- block: content-split | variant: image-left | image: hartford-sd-downtown-team.jpg | alt: "Team members walking together outside a small-town Hartford South Dakota office building" | query: "small town main street south dakota" -->
 ## Life at Buss CPA in Hartford SD
@@ -146,13 +121,13 @@ Buss CPA, a CPA firm in Hartford, SD, hires accountants for outsourced accountin
 - Offers internship-to-full-time pipeline with direct client exposure
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Explains the BASE service model referenced as a career differentiator
-- construction clients → /industries/construction — Supports the industry specialization claim for construction accounting roles
-- agriculture clients → /industries/agriculture — Supports the industry specialization claim for agriculture accounting roles
-- attorney → /industries/attorneys — Links to the attorney niche referenced in industry specialization section
-- engineering → /industries/engineers — Links to the engineering niche referenced in industry specialization section
-- family office and trust → /industries/family-offices-trusts — Links to the family office/trust niche referenced in industry specialization section
-- Schedule a consultation → /contact — Primary page CTA for candidates to reach out directly
+- outsourced accounting → /services/outsourced-accounting, Explains the BASE service model referenced as a career differentiator
+- construction clients → /industries/construction, Supports the industry specialization claim for construction accounting roles
+- agriculture clients → /industries/agriculture, Supports the industry specialization claim for agriculture accounting roles
+- attorney → /industries/attorneys, Links to the attorney niche referenced in industry specialization section
+- engineering → /industries/engineers, Links to the engineering niche referenced in industry specialization section
+- family office and trust → /industries/family-offices-trusts, Links to the family office/trust niche referenced in industry specialization section
+- Schedule a consultation → /contact, Primary page CTA for candidates to reach out directly
 
 **FAQ Block:**
 
@@ -172,7 +147,7 @@ A: Yes. Interns work on live client engagements across construction, agriculture
 Buss CPA is a CPA firm based in Hartford, SD that hires for outsourced accounting, advisory, and personal tax roles, offering career specialization in construction, agriculture, attorney, engineering, and family office/trust accounting through its fixed-fee outsourced accounting services model.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
