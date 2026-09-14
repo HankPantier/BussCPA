@@ -100,9 +100,9 @@ A: Both. Solo attorneys in Hartford and multi-partner firms with associates and 
 A: Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-law-office-cta.jpg | alt: "Law office exterior in a small South Dakota town" | query: "small town law office storefront" -->
-## Partner with a Hartford SD CPA who knows legal practices
+## Partner with a Sioux Falls area CPA who knows legal practices
 
-Hartford's law firms deserve an accounting team that understands trust accounts, partner compensation, and entity tax filings without a learning curve. Buss CPA works alongside attorneys and firm administrators to keep the books accurate, the taxes filed on time, and the numbers available whenever a partner needs them.
+Law firms across Sioux Falls, Hartford, and the surrounding region deserve an accounting team that understands trust accounts, partner compensation, and entity tax filings without a learning curve. Buss CPA works alongside attorneys and firm administrators to keep the books accurate, the taxes filed on time, and the numbers available whenever a partner needs them.
 
 Schedule a consultation to talk through your firm's current setup and where outsourced accounting could take work off your plate.
 
