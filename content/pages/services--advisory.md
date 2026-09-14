@@ -3,7 +3,7 @@ title: "Advisory services to guide your financial decisions | Buss CPA"
 url: "/services/advisory"
 meta_title: "Financial Advisory Services in Sioux Falls & Hartford, SD | Buss CPA"
 meta_description: "Buss CPA delivers CPA-led financial advisory in Sioux Falls and Hartford, SD for construction, agriculture, attorneys, engineers, and family offices, backed by real-time data and one fixed fee."
-target_keyword: "financial advisory services Hartford SD"
+target_keyword: "financial advisory services Sioux Falls SD"
 secondary_keywords: ["CPA advisory Hartford South Dakota","construction accounting advisor Hartford SD","agricultural accounting advisor South Dakota","family office advisory services Hartford","trust accounting advisor Hartford SD","attorney accounting services Hartford","engineer accounting advisor Hartford SD","financial planning CPA Hartford","outsourced accounting advisor Hartford SD","business advisory Hartford South Dakota","tax advisory services Hartford SD","construction CPA advisory Hartford","agriculture accounting advisory Hartford SD","Buss CPA advisory services","financial guidance CPA Hartford","accounting advisor near Hartford SD","family trust advisor Hartford","professional accounting advisory Hartford SD"]
 canonical_url: "https://busscpa.us/services/advisory"
 schema_markup: "Service"
