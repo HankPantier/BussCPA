@@ -48,14 +48,12 @@ What that includes:
 - Accounts payable and receivable managed on a predictable schedule
 - Monthly financial statements delivered through [secure digital workflows](/services/outsourced-accounting/accounting)
 
-For firms comparing options, this looks a lot like what [construction companies](/industries/construction) need for job costing, applied to engineering's own billing structure.
-
 <!-- block: content-split | variant: image-left | image: engineering-partners-strategy-meeting.jpg | alt: "Engineering firm partners discussing financial strategy in a meeting room" | query: "business partners strategy meeting office" -->
 ## Advisory support for growing engineering practices
 
 Growth in an engineering firm usually forces partner-level decisions: bringing on a new principal, changing how profits get split, or figuring out what a founder's exit looks like in five or ten years. Those conversations need a financial picture that's current, not a set of books closed out last quarter.
 
-Buss CPA's [advisory](/services/advisory) work with engineering and professional service firms covers partner compensation structures, succession planning, and the financial strategy behind expansion, whether that's opening a second office or adding a specialty practice area. The goal isn't a one-time recommendation. It's an ongoing relationship where financial data informs decisions as they come up, not after the fact. Firms that treat advisory as a standing conversation tend to handle partner transitions and growth decisions with fewer surprises than firms that call an accountant only at tax time.
+Buss CPA's [advisory](/services/advisory) work with engineering and professional service firms covers partner compensation structures and the financial strategy behind expansion, whether that's opening a second office or adding a specialty practice area. The goal isn't a one-time recommendation. It's an ongoing relationship where financial data informs decisions as they come up, not after the fact. Firms that treat advisory as a standing conversation tend to handle partner transitions and growth decisions with fewer surprises than firms that call an accountant only at tax time.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Real-time financial access through secure digital tools
@@ -97,7 +95,7 @@ A: Buss CPA's advisory services cover partner compensation structures, successio
 
 Buss CPA has offices in Hartford and Sioux Falls, serving engineering firms across the greater Sioux Falls area and beyond. Whether your firm is headquartered in Sioux Falls, based in Hartford, or anywhere in between, you don't need a sprawling big-city practice. You need an accounting partner who picks up the phone, knows the project schedule, and delivers financials that are actually usable.
 
-From tax preparation and entity planning to outsourced accounting and partner-level advisory, Buss CPA works as the outsourced accounting department for engineering firms who'd rather spend their hours on design work than data entry. [Schedule a consultation](/contact) to see what BASE looks like for your firm.
+From tax preparation and entity planning to outsourced accounting and partner-level advisory, Buss CPA works as the outsourced accounting department for engineering firms who'd rather spend their hours on design work than data entry. [Schedule a consultation](/contact) to see what our services can look like for your firm.
 
 ---
 ## SEO & AIO Metadata
