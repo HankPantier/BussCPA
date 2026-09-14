@@ -58,7 +58,7 @@ Contractors face tax questions that don't show up on a typical individual return
 
 Buss CPA handles construction tax preparation and planning together. We look at depreciation timing on new equipment purchases before the fiscal year closes, not after. We evaluate whether your entity structure still fits as revenue grows, and for South Dakota contractors doing occasional out-of-state work, we track filing obligations so a surprise notice doesn't show up eighteen months later.
 
-Tax prep in March means the decisions were already made back in October. That's how a builder in Hartford, or a crew working jobs around Sioux Falls, keeps more of what it earns instead of writing a bigger check every April.
+Tax prep in March means the decisions were already made back in October. That's how a builder in Hartford, a subcontractor working the Sioux Falls commercial corridor, or a crew taking jobs across the region keeps more of what it earns instead of writing a bigger check every April.
 
 <!-- block: content-split | variant: image-right | image: contractor-cashflow-meeting.jpg | alt: "Business owner and advisor discussing cash flow forecast documents" | query: "business advisor cash flow meeting" -->
 ## Advisory support for growing construction businesses
