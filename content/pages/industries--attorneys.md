@@ -117,7 +117,7 @@ Buss CPA provides outsourced accounting, payroll, tax planning, and CFO-level ad
 - Secure digital workflows for confidential legal and financial data
 - Real-time online access to financial statements and dashboards
 - Dedicated niche experience serving attorneys, construction, agriculture, and family offices/trusts
-- Located in Hartford, SD, serving local and regional law firms
+- Offices in Hartford and Sioux Falls, SD, serving law firms across the greater Sioux Falls area
 
 **Internal Links:**
 - outsourced accounting solution → /services/outsourced-accounting, Links to the core BASE service described in the outsourced accounting section
