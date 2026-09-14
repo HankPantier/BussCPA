@@ -102,7 +102,7 @@ Schedule a consultation and find out what a fixed-fee, year-round relationship w
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA is a CPA firm in Hartford, South Dakota that prepares personal income tax returns for people with complicated finances, including construction and agriculture business owners, attorneys, engineers, and family trusts. Returns are handled on a fixed monthly fee with secure digital document upload and year-round tax planning, not just seasonal filing.
+Buss CPA is a CPA firm in Hartford and Sioux Falls, South Dakota that prepares personal income tax returns for people with complicated finances, including construction and agriculture business owners, attorneys, engineers, and family trusts. Returns are handled on a fixed monthly fee with secure digital document upload and year-round tax planning, not just seasonal filing.
 
 **E-E-A-T Signals:**
 - CPA-prepared personal income tax returns, not seasonal contract preparers
