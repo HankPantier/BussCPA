@@ -54,11 +54,11 @@ General bookkeeping software doesn't track job costing the way a construction co
 Bonding companies and lenders look closely at WIP schedules before approving a contractor for larger jobs. If those numbers are inconsistent or built at the last minute, financing gets harder. Construction companies across the Sioux Falls and Hartford area rely on Buss CPA to keep job costing current every month, so when a bonding agent or bank asks for financials, the reports are already accurate and already reconciled. That's what audit-ready construction accounting looks like in practice, not just on paper.
 
 <!-- block: content-split | variant: image-right | image: farm-payroll-seasonal-cashflow.jpg | alt: "Farmer reviewing seasonal cash flow records on a tablet" | query: "farmer reviewing financial records tablet" -->
-## Specialized support for agriculture and farm operations
+## Specialized support for agriculture, farming, and ranching operations
 
-Agriculture operations don't run on a standard payroll calendar or a predictable revenue curve, and generic bookkeeping providers tend to treat every client the same way. Farm and agriculture enterprises around Hartford, SD deal with seasonal labor, equipment depreciation schedules, and commodity income that swings hard between quarters.
+Agriculture operations don't run on a standard payroll calendar or a predictable revenue curve, and generic bookkeeping providers tend to treat every client the same way. Farm and ranch operations across eastern South Dakota deal with seasonal labor, equipment depreciation schedules, livestock expenses, and commodity income that swings hard between quarters.
 
-Buss CPA structures payroll and cash flow reporting around that reality instead of forcing farm operations into a template built for retail or professional services. That means correct handling of seasonal and part-time agricultural labor, tax treatment specific to farm income, and cash flow projections that account for planting and harvest cycles rather than assuming steady monthly revenue. It's accounting that matches how a farm actually operates.
+Buss CPA structures payroll and cash flow reporting around that reality instead of forcing farm and ranch operations into a template built for retail or professional services. That means correct handling of seasonal and part-time agricultural labor, Schedule F reporting for crop insurance proceeds and government payments, livestock and ranch land deductions, equipment depreciation strategy, and cash flow projections that account for planting, calving, and harvest cycles rather than assuming steady monthly revenue. It's accounting built around how a farm or ranch actually operates, not how a spreadsheet template wishes it did.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Trusted accounting for attorneys, engineers, and family offices
