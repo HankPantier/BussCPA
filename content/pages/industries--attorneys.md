@@ -290,9 +290,9 @@ Buss CPA offers a fixed-monthly-fee outsourced accounting program (BASE) with se
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Accounting Services for Attorneys | Hartford SD CPA",
+  "name": "Accounting Services for Attorneys | Sioux Falls & Hartford SD CPA",
   "url": "https://busscpa.us/industries/attorneys",
-  "description": "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today.",
+  "description": "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Sioux Falls and Hartford, South Dakota. Schedule a consultation today.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Buss CPA",
