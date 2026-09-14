@@ -33,7 +33,7 @@ Visiting this site, downloading a resource, or filling out a contact form does n
 <!-- block: checklist-section | variant: standalone -->
 ## Intellectual property and permitted use of our content
 
-Buss CPA owns the text, design, logos, and resources on this site, including our [Smart Tips guides](/smart-tips-magazine-gallery) and [Insights articles](/resources-new/quickreads). We built these tools to explain accounting topics clearly, and we want them shared responsibly.
+Buss CPA owns the text, design, logos, and resources on this site, including our [Insights articles](/resources-new/quickreads). We built these tools to explain accounting topics clearly, and we want them shared responsibly.
 
 - Read, print, or bookmark articles for your own personal or business reference
 - Share a direct link to any page or resource with colleagues or clients
@@ -45,7 +45,7 @@ Buss CPA owns the text, design, logos, and resources on this site, including our
 <!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Business owner logging into a secure online accounting portal on a laptop" | query: "person using laptop secure login" -->
 ## Client center, secure portals, and data handling
 
-Our BASE outsourced accounting platform gives clients real-time online access to financial data through secure, encrypted portals. Whether you run a [construction company](/industries/construction), oversee a [family office](/industries/family-offices-trusts), or track [agricultural payroll](/industries/agriculture) across multiple properties, your information stays behind login credentials issued only to you and authorized users on your account.
+Our outsourced accounting platform gives clients real-time online access to financial data through secure, encrypted portals. Whether you run a [construction company](/industries/construction), oversee a [family office](/industries/family-offices-trusts), or track [agricultural payroll](/industries/agriculture) across multiple properties, your information stays behind login credentials issued only to you and authorized users on your account.
 
 You agree to keep your login credentials confidential and to notify us right away if you suspect unauthorized access to your Client Center account. Buss CPA invests in best-of-breed technology to protect financial records, but no online system is completely immune to risk, and you share responsibility for securing your own device and password. We do not sell or share client financial data with third parties outside the scope of delivering your outsourced accounting, advisory, or personal income tax engagement.
 
