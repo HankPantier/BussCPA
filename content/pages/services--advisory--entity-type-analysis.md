@@ -42,7 +42,7 @@ The default structure for a single owner who hasn't filed formation paperwork. N
 ### Partnership
 icon: Users
 
-Two or more owners sharing profits, losses, and liability under a partnership agreement. Income passes through to each partner's personal return, but general partners still carry personal liability exposure. Common among family-run agriculture operations and professional practices with multiple principals.
+Two or more owners sharing profits, losses, and liability under a partnership agreement. Income passes through to each partner's personal return, but general partners still carry personal liability exposure. Common among family-run agriculture and ranching operations, multi-attorney practices, and engineering firms with multiple principals.
 
 ### LLC
 icon: ShieldCheck
