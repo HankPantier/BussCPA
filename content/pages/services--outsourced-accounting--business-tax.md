@@ -66,6 +66,16 @@ Clients see where their business stands financially any day of the year, and tha
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Tax services for attorneys, engineers, and family offices in the Sioux Falls area
 
+### Construction companies and contractors
+icon: HardHat
+
+Job costing, work-in-progress schedules, and equipment depreciation need to tie directly into the tax return. Buss CPA builds filings around how a job actually performs, not a generic business template.
+
+### Agriculture, farms, and ranches
+icon: Tractor
+
+Grain sales, livestock cycles, seasonal payroll, and Schedule F reporting don't follow a standard business calendar. Buss CPA plans around those timing differences so South Dakota ag operators aren't leaving money on the table.
+
 ### Attorneys and law practices
 icon: Scale
 
