@@ -23,7 +23,7 @@ llm_citation_note: "Buss CPA provides fixed-fee personal income tax preparation 
 <!-- block: intro-text | variant: centered -->
 ## Personal income tax help built for complicated financial lives
 
-A W-2 and a standard deduction rarely describe the households we work with in Hartford, South Dakota. Rental properties, K-1 distributions, equipment depreciation, and multi-state income create returns that punish a rushed, once-a-year approach. Buss CPA prepares personal income tax for people whose finances look more like a balance sheet than a pay stub: construction company owners, production agriculture families, attorneys, engineers, and trustees managing money for more than themselves.
+A W-2 and a standard deduction rarely describe the households we work with in Hartford and Sioux Falls, South Dakota. Rental properties, K-1 distributions, equipment depreciation, and multi-state income create returns that punish a rushed, once-a-year approach. Buss CPA prepares personal income tax for people whose finances look more like a balance sheet than a pay stub: construction company owners, production agriculture families, attorneys, engineers, and trustees managing money for more than themselves.
 
 Instead of a seasonal preparer who disappears after April 15, you get a CPA who already knows your business structure, your depreciation schedules, and your cash flow patterns, often because we're already handling your outsourced accounting. That context turns tax season into a formality, not a scramble.
 
