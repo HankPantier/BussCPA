@@ -53,11 +53,11 @@ Construction accounting isn't general bookkeeping with a different label. Job co
 Buss CPA works with contractors and construction companies across the Sioux Falls metro and surrounding communities. Reports break down cost by job, not just by category, so a business owner can see which projects are actually making money before the final invoice goes out. For a deeper look at how this applies to your trade, visit our [construction accounting page](/industries/construction).
 
 <!-- block: content-split | variant: image-right | image: farm-operation-financial-review.jpg | alt: "Farmer reviewing financial documents at a kitchen table on a farm" | query: "farmer reviewing financial paperwork farm" -->
-## Specialized bookkeeping for agriculture enterprises
+## Specialized bookkeeping for agriculture, farming, and ranching
 
-Agriculture clients run on a different calendar than most businesses. Payroll includes seasonal and family labor arrangements. Cash flow swings hard between planting, growing, and harvest, and tax planning has to account for commodity pricing, equipment depreciation, and crop insurance in ways a generic bookkeeper often misses.
+Farm and ranch operations across South Dakota run on a different calendar than most businesses. Payroll includes seasonal labor during planting, calving, and harvest, along with family labor arrangements that carry their own tax treatment. Cash flow swings hard between growing seasons, and tax planning has to account for commodity pricing, Schedule F reporting, crop insurance proceeds, government payments, livestock deductions, and equipment depreciation in ways a generic bookkeeper often misses.
 
-Buss CPA structures its farm and agriculture accounting around that seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
+Buss CPA structures its farm and ranch accounting around that seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Accounting support for attorneys, engineers, and professional firms
