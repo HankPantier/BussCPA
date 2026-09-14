@@ -57,7 +57,7 @@ Buss CPA works with contractors and construction companies from our offices in H
 
 Farm and ranch operations across South Dakota run on a different calendar than most businesses. Payroll includes seasonal labor during planting, calving, and harvest, along with family labor arrangements that carry their own tax treatment. Cash flow swings hard between growing seasons, and tax planning has to account for commodity pricing, Schedule F reporting, crop insurance proceeds, government payments, livestock deductions, and equipment depreciation in ways a generic bookkeeper often misses.
 
-Buss CPA structures its farm and ranch accounting around that seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
+Buss CPA serves farm and ranch clients from its Hartford and Sioux Falls offices, structuring ag accounting around seasonality instead of forcing operations into a standard monthly template. That means payroll set up correctly for ag labor rules, cash flow reports timed to your production cycle, and tax positioning that reflects how farm and ranch income actually arrives. Read more on our [agriculture accounting page](/industries/agriculture).
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Accounting support for attorneys, engineers, and family offices
