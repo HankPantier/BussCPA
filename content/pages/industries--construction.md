@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "contractor-reviewing-blueprints-office.jpg"
 hero_image_alt: "Contractor and accountant reviewing blueprints and financial reports together"
-hero_subhead: "Job costing, payroll, and tax planning built around how construction companies in Hartford, SD actually operate"
+hero_subhead: "Job costing, payroll, and tax planning built around how construction companies in Sioux Falls and Hartford, SD actually operate"
 hero_headline: "Why construction businesses need specialized accounting"
 answer_block: "Buss CPA provides outsourced accounting for construction companies in Hartford, South Dakota through its outsourced accounting services: a fixed monthly fee that covers bookkeeping, payroll, job costing, and financial reporting with real-time digital access. Contractors get tax planning, entity structure guidance, and advisory support built around how construction businesses actually operate, job by job."
 eeat_signals: ["Offers outsourced accounting services, a fixed monthly-fee end-to-end outsourced accounting program built specifically for construction companies","Provides real-time online access to job costs, payroll, and financial reports through secure digital workflows","Serves construction niche clients alongside agriculture, attorneys, engineers, and family offices and trusts","Handles multi-state tax filing considerations for South Dakota contractors working across state lines"]
