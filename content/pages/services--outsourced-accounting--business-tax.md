@@ -47,7 +47,7 @@ Entity choice is one of the biggest tax decisions a small business owner makes, 
 
 An LLC taxed as a sole proprietorship might have made sense at $80,000 in revenue. At $250,000, an S-corp election could mean real savings on self-employment tax, but only if payroll, reasonable compensation, and distributions are structured correctly from the start.
 
-As part of ongoing advisory work, Buss CPA reviews entity structure annually rather than only when a client happens to ask. Construction contractors, ag operators, and other small business owners get a second look at whether their LLC, S-corp, or partnership setup still fits their income, growth plans, and risk exposure. Entity decisions and tax planning happen together, because one shapes the other.
+As part of ongoing advisory work, Buss CPA reviews entity structure annually rather than only when a client happens to ask. Construction contractors, ag operators, attorneys, engineers, and other business owners across Sioux Falls and Hartford get a second look at whether their LLC, S-corp, or partnership setup still fits their income, growth plans, and risk exposure. Entity decisions and tax planning happen together, because one shapes the other.
 
 <!-- block: checklist-section | variant: with-image | image: digital-tax-portal-dashboard.jpg | alt: "Laptop screen showing a secure online accounting dashboard and document portal" | query: "laptop financial dashboard online portal" -->
 ## Secure digital tax workflows with real-time financial access
