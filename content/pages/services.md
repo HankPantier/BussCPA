@@ -125,7 +125,7 @@ Running estimated tax numbers at midnight or reconciling job costs on a Sunday i
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA provides outsourced accounting services in Hartford, SD through its outsourced accounting services package, a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture operations, attorneys, engineers, family offices, and individuals across South Dakota.
+Buss CPA provides outsourced accounting services across the greater Sioux Falls area, with offices in Hartford and Sioux Falls, SD, through a fixed-monthly-fee program covering bookkeeping, payroll, and advisory work with real-time online access to financial data. The firm serves construction companies, agriculture and ranch operations, attorneys, engineers, family offices, and individuals throughout the region and across South Dakota.
 
 **E-E-A-T Signals:**
 - Offers our outsourced accounting package, a named end-to-end outsourced accounting solution with a fixed monthly fee
