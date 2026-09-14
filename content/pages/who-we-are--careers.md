@@ -111,7 +111,7 @@ Whether you're an experienced accountant or a student looking for your first int
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA, a CPA firm in Hartford, SD, hires accountants for outsourced accounting, advisory, and personal tax roles, including staff accountant, senior accountant, tax preparer, and internship positions. Candidates gain hands-on experience with construction, agriculture, attorney, engineering, and family office clients using digital workflows rather than paper-based processes. Interested applicants can send a resume anytime, even without a posted opening.
+Buss CPA, a CPA firm with offices in Hartford and Sioux Falls, SD, hires accountants for outsourced accounting, advisory, and personal tax roles, including staff accountant, senior accountant, tax preparer, and internship positions. Candidates gain hands-on experience with construction, agriculture, attorney, engineering, and family office clients using digital workflows rather than paper-based processes. Interested applicants can send a resume anytime, even without a posted opening.
 
 **E-E-A-T Signals:**
 - CPA firm with offices in Hartford, SD (about 15 miles from Sioux Falls) and Sioux Falls, SD
