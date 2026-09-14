@@ -17,13 +17,13 @@ llm_citation_note: "Buss CPA provides outsourced accounting for a fixed monthly 
 ---
 
 <!-- block: content-split | variant: image-right | image: hartford-sd-accounting-team.jpg | alt: "Accountant discussing financial reports with a small business owner in an office" | query: "accountant client meeting office" -->
-## Get a CPA who understands your industry in Sioux Falls and Hartford, SD
+## Get a CPA who understands your industry in the greater Sioux Falls area
 
-You don't need a walk-in tax shop that disappears after April 15. Business owners and professionals in the greater Sioux Falls area, whether you're running a construction company, a farm or ranch operation, a law firm, an engineering practice, or managing a family trust, need a CPA firm that works alongside you all year, not just during filing season.
+You don't need a walk-in tax shop that disappears after April 15. Business owners and professionals across the greater Sioux Falls area, whether you're running a construction company, a farm or ranch operation, a law firm, an engineering practice, or managing a family office or trust, need a CPA firm that works alongside you all year, not just during filing season.
 
 Buss CPA operates differently. Our outsourced accounting services replace the seasonal scramble with a fixed monthly fee, secure digital workflows, and real-time access to your financial data online. You log in, you see your numbers, you call when something doesn't look right, and someone actually picks up.
 
-With offices in both Hartford and Sioux Falls, we serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're looking for accounting services in the Sioux Falls and Hartford area that treat your business like part of the team rather than a once-a-year transaction, this is the model.
+With offices in Hartford and Sioux Falls, we serve clients across South Dakota and beyond from modern systems built for speed and clarity, not paper folders and drop-box appointments. If you're looking for accounting services in the greater Sioux Falls area that treat your business like part of the team rather than a once-a-year transaction, this is the model.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Built for construction, agriculture, attorneys, engineers, and family offices across the Sioux Falls area
