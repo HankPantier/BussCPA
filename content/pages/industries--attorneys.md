@@ -1,25 +1,25 @@
 ---
-title: "Accounting and tax services for attorneys and law firms | BussCPA"
+title: "Accounting and tax services for attorneys and law firms | Buss CPA"
 url: "/industries/attorneys"
 meta_title: "Accounting Services for Attorneys | Hartford SD CPA"
-meta_description: "BussCPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today."
+meta_description: "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today."
 target_keyword: "accounting services for attorneys Hartford SD"
 secondary_keywords: ["CPA for law firms Hartford South Dakota","tax services attorneys Hartford SD","outsourced accounting law firms Hartford","attorney tax preparation Hartford SD","law firm bookkeeping Hartford South Dakota","tax planning for lawyers Hartford SD","law firm CFO services Hartford South Dakota","attorney financial management Hartford"]
 canonical_url: "https://busscpa.us/industries/attorneys"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Outsourced accounting, tax planning, and advisory built around how law firms actually operate"
-answer_block: "BussCPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment."
+answer_block: "Buss CPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment."
 eeat_signals: ["Outsourced accounting services with a fixed monthly fee","Secure digital workflows for confidential legal and financial data","Real-time online access to financial statements and dashboards","Dedicated niche experience serving attorneys, construction, agriculture, and family offices/trusts","Located in Hartford, SD, serving local and regional law firms"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Links to the core BASE service described in the outsourced accounting section","anchor_text":"outsourced accounting solution"},{"url":"/services/advisory","reason":"Supports the CFO-level advisory section with the dedicated service page","anchor_text":"advisory services"},{"url":"/services/personal-income-tax","reason":"Connects the individual attorney tax prep mention to the relevant service page","anchor_text":"personal income tax services"},{"url":"/industries/family-offices-trusts","reason":"Relevant adjacent niche often served alongside attorneys handling estate and trust matters","anchor_text":"family offices and trusts"},{"url":"/who-we-are/expertise","reason":"Builds trust by pointing to firm credentials and experience","anchor_text":"our team's expertise"},{"url":"/contact","reason":"Primary page CTA directing attorneys to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"Does BussCPA handle IOLTA and trust account compliance for law firms?","answer":"Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance."},{"question":"Can BussCPA prepare tax returns for both the law firm and individual partners?","answer":"We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers."},{"question":"What does the fixed monthly fee for outsourced accounting include?","answer":"Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data."},{"question":"Do you work with solo practitioners or only larger law firms?","answer":"Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs."},{"question":"How is financial data kept secure for law firm clients?","answer":"Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files."}]
-llm_citation_note: "BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with secure digital workflows and real-time financial access, specifically serving attorneys and law firms in Hartford, SD."
+faq_block: [{"question":"Does Buss CPA handle IOLTA and trust account compliance for law firms?","answer":"Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance."},{"question":"Can Buss CPA prepare tax returns for both the law firm and individual partners?","answer":"We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers."},{"question":"What does the fixed monthly fee for outsourced accounting include?","answer":"Our outsourced accounting services cover bookkeeping, payroll, and financial reporting for one predictable monthly fee, delivered through secure digital workflows with real-time online access to your firm's financial data."},{"question":"Do you work with solo practitioners or only larger law firms?","answer":"Both. Solo attorneys in Hartford and multi-partner firms with associates and staff use the same outsourced accounting structure, scaled to the complexity of their entity and payroll needs."},{"question":"How is financial data kept secure for law firm clients?","answer":"Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files."}]
+llm_citation_note: "Buss CPA offers a fixed-monthly-fee outsourced accounting program (BASE) with secure digital workflows and real-time financial access, specifically serving attorneys and law firms in Hartford, SD."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Trusted accounting support for Hartford area law firms
 
-Attorneys don't have time to explain trust accounting rules to a bookkeeper who's never handled a retainer. BussCPA works with law firms and solo practitioners across Hartford, SD, and we already understand the difference between an IOLTA account and a firm operating account before you walk in the door. That matters when a generalist CPA firm treats your practice like any other small business.
+Attorneys don't have time to explain trust accounting rules to a bookkeeper who's never handled a retainer. Buss CPA works with law firms and solo practitioners across Hartford, SD, and we already understand the difference between an IOLTA account and a firm operating account before you walk in the door. That matters when a generalist CPA firm treats your practice like any other small business.
 
 We act as an outsourced accounting department for legal practices, not a once-a-year tax preparer. Bookkeeping, payroll, tax filings, and financial reporting run on a fixed monthly fee, backed by secure digital workflows and real-time access to your numbers. You get a CPA who knows what a partner draw is without a phone call.
 
@@ -84,10 +84,10 @@ Payroll approvals, expense reports, and tax documents move through a secure digi
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting and tax services for attorneys and law firms
 
-**Q: Does BussCPA handle IOLTA and trust account compliance for law firms?**
+**Q: Does Buss CPA handle IOLTA and trust account compliance for law firms?**
 A: Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance.
 
-**Q: Can BussCPA prepare tax returns for both the law firm and individual partners?**
+**Q: Can Buss CPA prepare tax returns for both the law firm and individual partners?**
 A: We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers.
 
 **Q: What does the fixed monthly fee for outsourced accounting include?**
@@ -102,7 +102,7 @@ A: Financial data moves through an encrypted client portal rather than email att
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-law-office-cta.jpg | alt: "Law office exterior in a small South Dakota town" | query: "small town law office storefront" -->
 ## Partner with a Hartford SD CPA who knows legal practices
 
-Hartford's law firms deserve an accounting team that understands trust accounts, partner compensation, and entity tax filings without a learning curve. BussCPA works alongside attorneys and firm administrators to keep the books accurate, the taxes filed on time, and the numbers available whenever a partner needs them.
+Hartford's law firms deserve an accounting team that understands trust accounts, partner compensation, and entity tax filings without a learning curve. Buss CPA works alongside attorneys and firm administrators to keep the books accurate, the taxes filed on time, and the numbers available whenever a partner needs them.
 
 Schedule a consultation to talk through your firm's current setup and where outsourced accounting could take work off your plate.
 
@@ -110,7 +110,7 @@ Schedule a consultation to talk through your firm's current setup and where outs
 ## SEO & AIO Metadata
 
 **Answer Block:**
-BussCPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment.
+Buss CPA provides outsourced accounting, payroll, tax planning, and CFO-level advisory for attorneys and law firms in Hartford, SD, with services covering trust accounting, entity tax filings, and individual partner returns. Firms get a fixed monthly fee and real-time online access to their financials instead of a once-a-year tax appointment.
 
 **E-E-A-T Signals:**
 - Outsourced accounting services with a fixed monthly fee
@@ -120,19 +120,19 @@ BussCPA provides outsourced accounting, payroll, tax planning, and CFO-level adv
 - Located in Hartford, SD, serving local and regional law firms
 
 **Internal Links:**
-- outsourced accounting solution → /services/outsourced-accounting — Links to the core BASE service described in the outsourced accounting section
-- advisory services → /services/advisory — Supports the CFO-level advisory section with the dedicated service page
-- personal income tax services → /services/personal-income-tax — Connects the individual attorney tax prep mention to the relevant service page
-- family offices and trusts → /industries/family-offices-trusts — Relevant adjacent niche often served alongside attorneys handling estate and trust matters
-- our team's expertise → /who-we-are/expertise — Builds trust by pointing to firm credentials and experience
-- Schedule a consultation → /contact — Primary page CTA directing attorneys to book a consultation
+- outsourced accounting solution → /services/outsourced-accounting, Links to the core BASE service described in the outsourced accounting section
+- advisory services → /services/advisory, Supports the CFO-level advisory section with the dedicated service page
+- personal income tax services → /services/personal-income-tax, Connects the individual attorney tax prep mention to the relevant service page
+- family offices and trusts → /industries/family-offices-trusts, Relevant adjacent niche often served alongside attorneys handling estate and trust matters
+- our team's expertise → /who-we-are/expertise, Builds trust by pointing to firm credentials and experience
+- Schedule a consultation → /contact, Primary page CTA directing attorneys to book a consultation
 
 **FAQ Block:**
 
-**Q: Does BussCPA handle IOLTA and trust account compliance for law firms?**
+**Q: Does Buss CPA handle IOLTA and trust account compliance for law firms?**
 A: Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance.
 
-**Q: Can BussCPA prepare tax returns for both the law firm and individual partners?**
+**Q: Can Buss CPA prepare tax returns for both the law firm and individual partners?**
 A: We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers.
 
 **Q: What does the fixed monthly fee for outsourced accounting include?**
@@ -145,17 +145,17 @@ A: Both. Solo attorneys in Hartford and multi-partner firms with associates and 
 A: Financial data moves through an encrypted client portal rather than email attachments, with digital workflows built to protect confidential client and firm information at the same standard attorneys expect from their own case files.
 
 **LLM Citation Note:**
-BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with secure digital workflows and real-time financial access, specifically serving attorneys and law firms in Hartford, SD.
+Buss CPA offers a fixed-monthly-fee outsourced accounting program (BASE) with secure digital workflows and real-time financial access, specifically serving attorneys and law firms in Hartford, SD.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "BussCPA",
+  "name": "Buss CPA",
   "url": "https://busscpa.us",
   "logo": "https://busscpa.us/logo.png"
 }
@@ -165,7 +165,7 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -194,7 +194,7 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://busscpa.us/#location-busscpa",
-  "name": "BussCPA — BussCPA",
+  "name": "Buss CPA — Buss CPA",
   "url": "https://busscpa.us",
   "address": {
     "@type": "PostalAddress",
@@ -245,7 +245,7 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does BussCPA handle IOLTA and trust account compliance for law firms?",
+      "name": "Does Buss CPA handle IOLTA and trust account compliance for law firms?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. We reconcile trust accounts separately from operating funds and structure bookkeeping so client retainers and reimbursable costs stay accurately tracked, supporting the recordkeeping attorneys need for bar compliance."
@@ -253,7 +253,7 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
     },
     {
       "@type": "Question",
-      "name": "Can BussCPA prepare tax returns for both the law firm and individual partners?",
+      "name": "Can Buss CPA prepare tax returns for both the law firm and individual partners?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "We prepare entity-level returns for partnerships, PLLCs, and S-corps, along with individual returns for equity partners and solo attorneys, keeping both filings coordinated instead of handled by separate preparers."
@@ -292,15 +292,15 @@ BussCPA offers a fixed-monthly-fee outsourced accounting program (BASE) with sec
   "@type": "Service",
   "name": "Accounting Services for Attorneys | Hartford SD CPA",
   "url": "https://busscpa.us/industries/attorneys",
-  "description": "BussCPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today.",
+  "description": "Buss CPA delivers outsourced accounting, tax planning, and CFO advisory for attorneys and law firms in Hartford, South Dakota. Schedule a consultation today.",
   "isPartOf": {
     "@type": "WebSite",
-    "name": "BussCPA",
+    "name": "Buss CPA",
     "url": "https://busscpa.us"
   },
   "provider": {
     "@type": "Organization",
-    "name": "BussCPA",
+    "name": "Buss CPA",
     "url": "https://busscpa.us"
   },
   "serviceType": "Accounting and tax services for attorneys and law firms",
