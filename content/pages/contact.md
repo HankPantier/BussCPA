@@ -70,9 +70,9 @@ Whether you're a contractor chasing job costs, a rancher managing seasonal payro
 No pressure, no multi-week wait. You'll know what the engagement looks like and when work would start.
 
 <!-- block: service-cards | variant: 3-col -->
-## Services available to Sioux Falls and Hartford area clients
+## Services available to construction, agriculture, attorney, engineering, and family office clients across the greater Sioux Falls area
 
-Three service lines cover most of what businesses, professional practices, and households across the greater Sioux Falls area ask us about.
+Three service lines cover most of what businesses, professional practices, and households across the greater Sioux Falls area, including Hartford and Sioux Falls, ask us about.
 
 ### Outsourced Accounting
 icon: Building2
