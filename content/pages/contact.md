@@ -70,24 +70,24 @@ Whether you're a contractor chasing job costs, a rancher managing seasonal payro
 No pressure, no multi-week wait. You'll know what the engagement looks like and when work would start.
 
 <!-- block: service-cards | variant: 3-col -->
-## Services available to Hartford SD clients
+## Services available to Sioux Falls and Hartford area clients
 
-Three service lines cover most of what Hartford, SD businesses and households ask us about.
+Three service lines cover most of what businesses, professional practices, and households across the greater Sioux Falls area ask us about.
 
 ### Outsourced Accounting
 icon: Building2
 
-A full outsourced accounting services department for a fixed monthly fee. Bookkeeping, payroll, and financial reporting run through secure digital systems so you see current numbers instead of last quarter's guesswork. [Learn more](/services/outsourced-accounting)
+A full outsourced accounting department for a fixed monthly fee. Bookkeeping, payroll, and financial reporting run through secure digital systems so you see current numbers instead of last quarter's guesswork, whether you're a contractor, a rancher, a law firm, or an engineering practice. [Learn more](/services/outsourced-accounting)
 
 ### Advisory
 icon: Lightbulb
 
-Planning conversations around growth, entity structure, cash flow, and tax strategy for construction companies, farm operations, and professional practices. [Learn more](/services/advisory)
+Planning conversations around growth, entity structure, cash flow, and tax strategy for construction companies, farm and ranch operations, attorneys, engineers, and family offices across South Dakota. [Learn more](/services/advisory)
 
 ### Personal Income Tax
 icon: FileText
 
-Individual and household tax preparation, including returns tied to farm income, trust distributions, or a construction business run alongside household finances. [Learn more](/services/personal-income-tax)
+Individual and household tax preparation, including returns tied to farm income, trust distributions, commodity sales, or a construction business run alongside household finances. [Learn more](/services/personal-income-tax)
 
 <!-- block: checklist-section | variant: with-image | image: modern-accounting-technology.jpg | alt: "Business owner reviewing financial dashboard on a laptop screen" | query: "laptop financial dashboard review" -->
 ## Why local businesses choose an outsourced accounting partner
