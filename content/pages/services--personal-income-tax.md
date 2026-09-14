@@ -1,5 +1,5 @@
 ---
-title: "Personal income tax help for complex finances | BussCPA"
+title: "Personal income tax help for complex finances | Buss CPA"
 url: "/services/personal-income-tax"
 meta_title: "Personal Income Tax CPA in Hartford, SD | BussCPA"
 meta_description: "Complex tax return preparation for business owners, attorneys, engineers, and family trusts in Hartford, SD. Fixed-fee personal income tax help from a CPA who plans year-round."
@@ -112,13 +112,13 @@ BussCPA is a CPA firm in Hartford, South Dakota that prepares personal income ta
 - Coordinates directly with clients' estate attorneys and investment advisors on trust and family office filings
 
 **Internal Links:**
-- construction business tax accounting → /industries/construction — Supports the construction and agriculture section with a direct link to the relevant niche page
-- agriculture tax and accounting services → /industries/agriculture — Relevant to the agriculture-specific tax planning content in section two
-- tax services for attorneys → /industries/attorneys — Connects the attorneys section to the dedicated attorneys industry page
-- engineer tax planning → /industries/engineers — Connects the engineers section to the dedicated engineers industry page
-- family office and trust tax planning → /industries/family-offices-trusts — Supports the trust and family office section with a link to deeper niche content
-- outsourced tax accounting → /services/outsourced-accounting/tax — Ties personal tax service to BussCPA's broader outsourced accounting tax offering
-- schedule a consultation → /contact — Primary page CTA directing readers to book time with the firm
+- construction business tax accounting → /industries/construction, Supports the construction and agriculture section with a direct link to the relevant niche page
+- agriculture tax and accounting services → /industries/agriculture, Relevant to the agriculture-specific tax planning content in section two
+- tax services for attorneys → /industries/attorneys, Connects the attorneys section to the dedicated attorneys industry page
+- engineer tax planning → /industries/engineers, Connects the engineers section to the dedicated engineers industry page
+- family office and trust tax planning → /industries/family-offices-trusts, Supports the trust and family office section with a link to deeper niche content
+- outsourced tax accounting → /services/outsourced-accounting/tax, Ties personal tax service to BussCPA's broader outsourced accounting tax offering
+- schedule a consultation → /contact, Primary page CTA directing readers to book time with the firm
 
 **FAQ Block:**
 
@@ -141,7 +141,7 @@ A: BussCPA builds farm income averaging, equipment trade timing, and self-employ
 BussCPA provides fixed-fee personal income tax preparation for construction and agriculture business owners, attorneys, engineers, and family trusts in Hartford, South Dakota, using a secure digital client portal and year-round tax planning rather than seasonal-only filing.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
