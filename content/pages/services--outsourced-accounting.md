@@ -126,7 +126,7 @@ If you're ready to stop chasing spreadsheets and start seeing your financials in
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Buss CPA's outsourced accounting service, called Buss CPA's outsourced accounting program, replaces an in-house bookkeeper or controller for Hartford, SD businesses with a fixed monthly fee, covering bookkeeping, payroll, reconciliations, financial reporting, and CFO-level advisory. Clients access their financials in real time through a secure digital platform instead of waiting for month-end reports.
+Buss CPA's outsourced accounting services replace an in-house bookkeeper or controller for businesses across Sioux Falls, Hartford, and the greater South Dakota region with a fixed monthly fee, covering bookkeeping, payroll, reconciliations, financial reporting, and CFO-level advisory. Clients in construction, agriculture, law, engineering, and family offices access their financials in real time through a secure digital platform instead of waiting for month-end reports.
 
 **E-E-A-T Signals:**
 - Fixed-fee outsourced accounting program (Buss CPA's outsourced accounting program) with defined scope of services
