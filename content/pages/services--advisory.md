@@ -92,9 +92,9 @@ A: Advisory is included within Buss CPA's fixed monthly fee for outsourced accou
 A: Check-ins are scheduled around your industry's timeline. Construction clients typically meet around project milestones, while agriculture clients meet around planting and harvest. All conversations draw on real-time data available through Buss CPA's secure client portal.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-advisory-team.jpg | alt: "CPA advisor shaking hands with a business owner in an office" | query: "advisor handshake business owner office" -->
-## Talk to a Hartford SD advisory team that knows your industry
+## Talk to a Sioux Falls area advisory team that knows your industry
 
-Whether you're running a construction crew, a farm operation, a law practice, or a family trust, generic financial advice leaves gaps. Buss CPA pairs advisory with outsourced accounting and [personal income tax](/services/personal-income-tax) work, all built on the same real-time numbers, all under one fixed fee.
+Whether you're running a construction crew, a farm or ranch operation, a law practice, an engineering firm, or a family trust anywhere in the greater Sioux Falls and Hartford area, generic financial advice leaves gaps. Buss CPA pairs advisory with outsourced accounting and [personal income tax](/services/personal-income-tax) work, all built on the same real-time numbers, all under one fixed fee. Both offices serve the same client experience: real-time data, one fixed monthly cost, and a phone that gets answered.
 
 [Schedule a consultation](/contact) and talk through where your business stands today.
 
