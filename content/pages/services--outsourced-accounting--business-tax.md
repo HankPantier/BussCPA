@@ -23,11 +23,11 @@ llm_citation_note: "Buss CPA bundles outsourced accounting, payroll, and tax pre
 <!-- block: content-split | variant: image-right | image: tax-planning-meeting.jpg | alt: "CPA and small business owner reviewing tax documents at a desk" | query: "accountant client tax planning meeting" -->
 ## Year-round tax strategy instead of once-a-year filing
 
-Most tax prep in Hartford happens the same way: drop off a folder in March, pick up a return in April, and don't think about taxes again until next year. That routine works fine if a business never changes. It falls apart the moment you're growing, hiring, buying equipment, or trying to decide whether an S-corp election makes sense before December 31.
+Most tax prep in the Sioux Falls area happens the same way: drop off a folder in March, pick up a return in April, and don't think about taxes again until next year. That routine works fine if a business never changes. It falls apart the moment you're growing, hiring, buying equipment, or trying to decide whether an S-corp election makes sense before December 31.
 
 Buss CPA builds tax planning into the accounting work we do every month, not just the six weeks before a filing deadline. Because we're already reconciling books and reviewing financials as a client's outsourced accounting department, tax-saving moves get caught in June, when there's still time to act on them, instead of next April.
 
-One fixed monthly fee covers accounting, payroll, and tax planning together. No surprise invoice when filing season hits. No scrambling to find a CPA who has actually seen your numbers before. Just continuous access to someone who already knows your business.
+One fixed monthly fee covers accounting, payroll, and tax planning together, for clients at our Hartford and Sioux Falls offices. No surprise invoice when filing season hits. No scrambling to find a CPA who has actually seen your numbers before. Just continuous access to someone who already knows your business.
 
 <!-- block: content-split | variant: image-left | image: construction-farm-tax-planning.jpg | alt: "Contractor and farm owner reviewing financial paperwork with an accountant" | query: "contractor farmer meeting with accountant" -->
 ## Tax preparation built for construction and agricultural businesses
