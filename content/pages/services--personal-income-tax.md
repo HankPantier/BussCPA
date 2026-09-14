@@ -94,7 +94,7 @@ A: Buss CPA builds farm income averaging, equipment trade timing, and self-emplo
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-cpa-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation in Hartford SD" | query: "handshake business meeting office consultation" -->
 ## Get personalized tax help from a Hartford SD CPA
 
-If your finances involve a business, a trust, a partnership, or property beyond a primary residence, a generic tax preparer is going to miss things. Buss CPA works with construction owners, agriculture families, attorneys, engineers, and family offices across Hartford, South Dakota who need a CPA who already understands the moving parts before the first document gets uploaded.
+If your finances involve a business, a trust, a partnership, or property beyond a primary residence, a generic tax preparer is going to miss things. Buss CPA works with construction owners, agriculture families, attorneys, engineers, and family offices across Hartford and Sioux Falls, South Dakota who need a CPA who already understands the moving parts before the first document gets uploaded.
 
 Schedule a consultation and find out what a fixed-fee, year-round relationship with a CPA actually looks like.
 
