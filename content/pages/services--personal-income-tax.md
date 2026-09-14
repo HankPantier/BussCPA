@@ -87,7 +87,7 @@ A: Buss CPA builds farm income averaging, equipment trade timing, and self-emplo
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-cpa-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation in Hartford SD" | query: "handshake business meeting office consultation" -->
 ## Get personal income tax help from a South Dakota CPA
 
-Whether your return is simple or layered, you deserve a CPA who takes the time to understand your situation rather than process it. Buss CPA works with individuals, families, and business owners across Hartford and Sioux Falls, South Dakota who want a real person on the other end of the phone and a tax strategy that works year-round, not just in April.
+Whether your return is straightforward or has grown more complex over time, you deserve a CPA who takes the time to understand your situation rather than just process it. Buss CPA works with individuals and families across Hartford and Sioux Falls, South Dakota who want a real person on the other end of the phone and a tax strategy that works year-round, not just in April.
 
 Schedule a consultation and find out what a fixed-fee, year-round relationship with a CPA actually looks like.
 
