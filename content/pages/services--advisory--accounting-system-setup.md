@@ -85,7 +85,7 @@ Your team gets walked through the new system, with time for questions, before Bu
 <!-- block: cta-banner | variant: image-bg | image: quickbooks-consultation-call.jpg | alt: "Accountant on a video call consulting with a small business owner" | query: "accountant video call consultation small business" -->
 ## Get Started with Your QuickBooks Setup
 
-A QuickBooks file built around guesswork costs time now and money later. Buss CPA sets it up once, correctly, with a chart of accounts, bank feeds, and integrations that match how your business actually runs. Whether you're an automotive shop, a construction crew, or an agriculture operation in Hartford, SD, your file can be ready to work for you instead of against you.
+A QuickBooks file built around guesswork costs time now and money later. Buss CPA sets it up once, correctly, with a chart of accounts, bank feeds, and integrations that match how your business actually runs. Whether you're a construction contractor, a farming or ranching operation, a law firm, an engineering firm, or a family office in Hartford, Sioux Falls, or anywhere in the greater Sioux Falls, SD area, your file can be ready to work for you instead of against you.
 
 [Schedule a consultation](/contact) and get your QuickBooks account set up right the first time.
 
