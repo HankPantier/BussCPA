@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "hartford-sd-accounting-team.jpg"
 hero_image_alt: "CPA team members reviewing financial documents together in a Hartford South Dakota office"
-hero_subhead: "A local Hartford SD team handling your books, payroll, and tax strategy so you can run the business, not the spreadsheets"
+hero_subhead: "A Hartford, SD team serving the greater Sioux Falls area and clients across South Dakota and the U.S., handling your books, payroll, and tax strategy so you can run the business, not the spreadsheets"
 hero_headline: "Local CPAs who understand Hartford SD businesses"
 answer_block: "BussCPA is a Hartford, South Dakota CPA firm led by founder James Buss, offering outsourced accounting departments for construction companies, agriculture operations, attorneys, engineers, and family offices. The team provides bookkeeping, payroll, advisory, and tax services for a fixed monthly fee through secure, cloud-based systems."
 eeat_signals: ["Firm founded and led by James Buss, CPA, based in Hartford, South Dakota","Dedicated service niches in construction, agriculture, attorneys, engineers, and family offices/trusts","Fixed monthly fee outsourced accounting services model with secure digital workflows and real-time financial reporting access","Specialized agricultural payroll and tax expertise distinct from generalist bookkeeping providers"]
