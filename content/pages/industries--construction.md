@@ -107,7 +107,7 @@ A: Buss CPA runs an end-to-end outsourced accounting department with secure digi
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-construction-site.jpg | alt: "Construction site with framing underway near Hartford South Dakota" | query: "construction site framing rural south dakota" -->
 ## Get started with a Sioux Falls area construction accountant
 
-Contractors in Sioux Falls, Hartford, and across the surrounding region don't need another vendor. They need an accounting department that answers the phone, understands job costing, and shows up ready to talk about the next bid instead of last quarter's paperwork. With offices in both Sioux Falls and Hartford, Buss CPA sets up new construction clients with a straightforward onboarding process: a review of your current books, a fixed monthly fee, and real-time access to your numbers from day one.
+Contractors across Sioux Falls, Hartford, Brandon, Tea, Harrisburg, and the surrounding region don't need another vendor. They need an accounting department that answers the phone, understands job costing, and shows up ready to talk about the next bid instead of last quarter's paperwork. With offices in both Sioux Falls and Hartford, Buss CPA sets up new construction clients with a straightforward onboarding process: a review of your current books, a fixed monthly fee, and real-time access to your numbers from day one.
 
 [Schedule a consultation](/contact) with Buss CPA and find out what dedicated construction accounting looks like for your company.
 
