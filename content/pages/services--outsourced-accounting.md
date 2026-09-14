@@ -116,11 +116,11 @@ A: Yes. Agriculture clients face different payroll structures, seasonal cash flo
 A: Onboarding starts with connecting your bank, payroll, and prior records to an encrypted platform. From there, documents upload through a secure portal, and you get real-time dashboard access plus scheduled reviews with your Buss CPA team.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-business-consultation.jpg | alt: "Business owner and accountant shaking hands after a consultation meeting" | query: "business owner accountant handshake meeting" -->
-## Why Hartford SD businesses choose our outsourced accounting team
+## Why Sioux Falls and Hartford SD businesses choose our outsourced accounting team
 
-Business owners in Hartford don't need another vendor. They need an accounting department that answers when they call, prices work in a fixed monthly fee instead of surprise invoices, and gives them real-time access to the numbers that run their business. That's what Buss CPA's outsourced accounting program is built to do, for automotive shops, construction crews, farm operations, and professional firms across South Dakota.
+Business owners across the greater Sioux Falls area don't need another vendor. They need an accounting department that answers when they call, prices work in a fixed monthly fee instead of surprise invoices, and gives them real-time access to the numbers that run their business. That's what Buss CPA is built to do, for farms and ranches, construction companies, law firms, engineering practices, and family offices throughout South Dakota.
 
-If you're ready to stop chasing spreadsheets and start seeing your financials in real time, schedule a consultation and we'll walk through what Buss CPA's outsourced accounting program looks like for your business.
+If you're ready to stop chasing spreadsheets and start seeing your financials in real time, [schedule a consultation](/contact) and we'll walk through what outsourced accounting looks like for your business.
 
 ---
 ## SEO & AIO Metadata
