@@ -4,7 +4,7 @@ url: "/who-we-are"
 meta_title: "Meet the CPA Team | Outsourced Accounting Hartford SD & Sioux Falls"
 meta_description: "BussCPA is a Hartford, SD CPA firm serving the greater Sioux Falls area and clients across South Dakota and the U.S. Outsourced accounting for construction, agriculture, attorneys, and families. Meet the team behind fixed-fee service."
 target_keyword: "outsourced accounting Hartford SD"
-secondary_keywords: ["CPA firm Hartford South Dakota","accounting services construction Hartford SD","agricultural accounting Hartford SD","tax services attorneys Hartford SD","engineering firm accountant Hartford SD","family office accounting South Dakota","trust accounting Hartford SD","outsourced bookkeeping Hartford SD","business advisory services Hartford SD","accounting team Hartford SD","farm accounting South Dakota","contractor accounting Hartford SD"]
+secondary_keywords: ["CPA firm Hartford South Dakota","CPA firm Sioux Falls SD","accounting services construction Hartford SD","agricultural accounting Hartford SD","agricultural accounting South Dakota","tax services attorneys Hartford SD","engineering firm accountant Hartford SD","family office accounting South Dakota","trust accounting Hartford SD","outsourced bookkeeping Hartford SD","outsourced accounting Sioux Falls SD","business advisory services Hartford SD","accounting team Hartford SD","farm accounting South Dakota","contractor accounting Hartford SD","outsourced accounting South Dakota","remote CPA services United States","fixed fee accounting firm South Dakota"]
 canonical_url: "https://busscpa.us/who-we-are"
 schema_markup: "AboutPage"
 hero: "hero-split"
