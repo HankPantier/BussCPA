@@ -65,22 +65,22 @@ That connection matters because Buss CPA's outsourced accounting solution runs o
 From there, our [advisory team](/services/advisory) can actually use the numbers. Entity structure decisions, tax planning, and cash flow forecasting all depend on clean, current data. A rushed or generic QuickBooks setup makes that harder at every step. A correct one makes outsourced accounting and advisory work the way they're supposed to: current, accurate, and ready when you need an answer.
 
 <!-- block: process-steps | variant: vertical -->
-## Our Setup Process
+## How Buss CPA Guides You Through Setup
 
 ### Discovery call
-A short call comes first, covering your business, your industry, and how you're currently using QuickBooks, if at all.
+A short call comes first, covering your business, your industry, and how you're currently using QuickBooks, if at all. This shapes the advice that follows.
 
-### Business needs assessment
-Buss CPA reviews your current setup, bank accounts, existing software, and reporting needs to map out exactly what the new file has to do.
+### Needs assessment
+Buss CPA reviews your current situation, bank accounts, existing software, and reporting needs to map out exactly what your QuickBooks file needs to do and how it should be structured.
 
-### Chart of accounts and configuration
-Your chart of accounts gets built, bank and credit card feeds get connected, and the app integrations and automations get configured to match your workflow.
+### Chart of accounts and configuration guidance
+Buss CPA walks you through how to structure your chart of accounts, which bank and credit card feeds to connect, and which app integrations and automations make sense for your workflow.
 
-### Testing and quality review
-Every connection and category gets tested before handoff, confirming transactions land where they should and reports come out clean.
+### Review and Q&A
+Once your file is taking shape, Buss CPA reviews the structure with you, answers questions, and flags anything that should be adjusted before the setup is finalized.
 
-### Training and handoff
-Your team gets walked through the new system, with time for questions, before Buss CPA steps back and you take the wheel.
+### Ongoing support through outsourced accounting
+After setup, Buss CPA's outsourced accounting team keeps the books current, the feeds reconciled, and the data clean, so the foundation you built keeps working the way it should.
 
 <!-- block: cta-banner | variant: image-bg | image: quickbooks-consultation-call.jpg | alt: "Accountant on a video call consulting with a small business owner" | query: "accountant video call consultation small business" -->
 ## Get Started with Your QuickBooks Setup
