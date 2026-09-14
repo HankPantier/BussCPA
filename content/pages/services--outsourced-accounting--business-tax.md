@@ -54,7 +54,7 @@ As part of ongoing advisory work, Buss CPA reviews entity structure annually rat
 
 Hartford tax shops built around paper folders and walk-in appointments were fine in 1995. Business owners in 2024 need more.
 
-Buss CPA runs tax preparation through the same secure, cloud-based systems used for monthly bookkeeping and payroll:
+Buss CPA runs tax preparation through the same secure, cloud-d systems used for monthly bookkeeping and payroll:
 
 - Encrypted document upload, no mailing sensitive tax records or dropping off boxes
 - E-signature on returns and engagement letters from any device
@@ -74,7 +74,7 @@ Partnership structures, trust accounting for client funds, and owner compensatio
 ### Engineering firms
 icon: Wrench
 
-Project-based revenue recognition, R&D-related deductions, and equity compensation for principals require planning that goes beyond a standard business return. We build that into year-round advisory.
+Project-d revenue recognition, R&D-related deductions, and equity compensation for principals require planning that goes beyond a standard business return. We build that into year-round advisory.
 
 ### Family offices and trusts
 icon: Building2
