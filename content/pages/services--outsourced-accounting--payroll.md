@@ -49,17 +49,17 @@ Farm and ranch payroll isn't small-business payroll with a different label. Expl
 ### Attorneys
 icon: Scale
 
-Partner draws work differently than staff paychecks, and mixing the two up creates tax headaches at year-end. Buss CPA separates partner distributions from associate and staff payroll, keeping K-1 income and W-2 wages cleanly documented. Learn more about our work with [attorneys](/industries/attorneys).
+Law firm payroll is more layered than it looks. Partner draws work differently than associate or staff paychecks, and blending the two creates tax problems at year-end. Buss CPA separates partner distributions from W-2 payroll, keeps K-1 income cleanly documented, and handles the payroll compliance details so your firm isn't sorting through classification errors in December. Learn more about our work with [attorneys](/industries/attorneys).
 
 ### Engineers
 icon: Cog
 
-Engineering firms often bill by project and pay by a mix of salary, overtime, and project bonuses. Buss CPA structures payroll to match your billing categories, so labor costs tie back to the projects that generated them. See our approach for [engineers](/industries/engineers).
+Engineering firms often bill by project and pay by a mix of salary, overtime, and project bonuses. Without payroll structured to match your billing, labor costs don't tie back to the work that generated them. Buss CPA sets up payroll to align with your project categories so job-level profitability is visible, not buried in a spreadsheet reconciliation. See our approach for [engineers](/industries/engineers).
 
 ### Family offices and trusts
 icon: Building2
 
-Household employee payroll, from nannies to estate managers, comes with its own tax rules and a higher bar for confidentiality. Buss CPA processes [family office and trust payroll](/industries/family-offices-trusts) through the same secure digital workflows we use for every client, with the discretion trust administration requires.
+Household employee payroll, from estate managers to personal assistants, comes with its own Schedule H requirements, nanny tax rules, and a higher bar for confidentiality than a typical business payroll. Buss CPA processes [family office and trust payroll](/industries/family-offices-trusts) through secure digital workflows, with the discretion and attention to detail that trust administration demands.
 
 <!-- block: checklist-section | variant: with-image | image: payroll-tax-compliance-review.jpg | alt: "Accountant reviewing payroll tax compliance documents at a desk" | query: "accountant reviewing tax documents desk" -->
 ## Staying compliant with South Dakota and federal payroll tax rules
