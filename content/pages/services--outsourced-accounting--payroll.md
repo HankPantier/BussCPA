@@ -30,7 +30,7 @@ Generic payroll services process paychecks. Buss CPA processes payroll for the s
 
 Certified payroll reporting trips up more contractors than any other compliance task. Prevailing wage jobs require weekly certified payroll reports that break out hours, classifications, and fringe benefits by worker and by job. Miss a deadline or misclassify a laborer, and a public works contract turns into a Department of Labor problem fast.
 
-Buss CPA sets up payroll to track labor by job site and by project from day one, so certified payroll reports pull from the same data used for job costing. Labor costs tie out to your project bids instead of living in a separate spreadsheet. We also handle union versus non-union wage scales, fringe benefit calculations, and multi-jurisdiction tracking for crews working across South Dakota, Iowa, and Minnesota job sites in the same pay period.
+Buss CPA works with construction companies and contractors throughout the Sioux Falls metro and the surrounding region, setting up payroll to track labor by job site and by project from day one so certified payroll reports pull from the same data used for job costing. Labor costs tie out to your project bids instead of living in a separate spreadsheet. We also handle union versus non-union wage scales, fringe benefit calculations, and multi-jurisdiction tracking for crews working across South Dakota, Iowa, Minnesota, or Nebraska job sites in the same pay period.
 
 See how Buss CPA supports [construction companies and contractors](/industries/construction) beyond payroll.
 
