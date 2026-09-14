@@ -17,14 +17,78 @@ llm_citation_note: "Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code
 ---
 
 <!-- block: intro-text | variant: centered -->
+At Buss CPA, we are committed to protecting your privacy and the confidentiality of your personal and financial information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you engage our services.
 
 <!-- block: checklist-section | variant: with-image | image: secure-client-documents.jpg | alt: "Accountant reviewing financial documents on a laptop with a secure lock icon overlay" | query: "accountant reviewing financial documents laptop" -->
+## Information We Collect
+
+We may collect the following types of information:
+
+- **Personal Information:** Name, address, email, phone number, Social Security number, date of birth.
+- **Financial Information:** Tax returns, bank account details, income, investment records, and other financial documents.
+- **Business Information:** Corporate financial statements, payroll data, and other business-related records.
+- **Website Usage Data:** IP address, browser type, pages visited, and other analytics data (if applicable).
 
 <!-- block: content-prose -->
+## How We Use Your Information
+
+We use your information to:
+
+- Provide accounting, tax, and advisory services.
+- Communicate with you regarding your account or services.
+- Comply with legal and regulatory requirements.
+- Improve our services and website functionality.
 
 <!-- block: content-prose -->
+## Information Sharing and Disclosure
+
+We do not sell or rent your personal information. We may share your information only in the following circumstances:
+
+- With your consent.
+- With third-party service providers who assist in delivering our services (e.g., secure cloud storage, tax software).
+- To comply with legal obligations, such as subpoenas or court orders.
+- In connection with a merger, acquisition, or sale of assets.
+- No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
 
 <!-- block: content-prose -->
+## Data Security
+
+We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. These include:
+
+- Secure servers and encrypted communications.
+- Restricted access to sensitive data.
+- Regular security audits and staff training.
+
+<!-- block: content-prose -->
+## Your Rights and Choices
+
+You have the right to:
+
+- Access and review your personal information.
+- Request corrections or updates.
+- Withdraw consent for certain uses.
+- Request deletion of your data, subject to legal and contractual obligations.
+
+<!-- block: content-prose -->
+## Retention of Information
+
+We retain your information only as long as necessary to fulfill the purposes outlined in this policy or as required by law.
+
+<!-- block: content-prose -->
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on our website with the updated effective date.
+
+<!-- block: content-prose -->
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact:
+
+**Buss CPA**
+800 S. Western Avenue, P.O. Box 487
+Hartford, SD 57033
+605-789-7555
+info@busscpa.us
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Privacy Policy: How Buss CPA Protects Your Information
