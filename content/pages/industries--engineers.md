@@ -93,9 +93,9 @@ A: Yes. Engineering firm tax planning often involves both entity-level decisions
 A: Buss CPA's advisory services cover partner compensation structures, succession planning, and growth strategy for engineering and professional service firms, functioning as an ongoing relationship rather than a one-time recommendation.
 
 <!-- block: cta-banner | variant: image-bg | image: hartford-sd-engineering-firm-office.jpg | alt: "Modern engineering firm office exterior in a small South Dakota town" | query: "small town professional office building exterior" -->
-## Why engineering firms in Hartford SD choose Buss CPA
+## Why engineering firms in the greater Sioux Falls area choose Buss CPA
 
-Buss CPA has offices in Hartford and Sioux Falls, serving engineering firms across the greater Sioux Falls area and beyond. Whether your firm is based downtown or in the surrounding communities, you don't need a sprawling big-city practice. You need an accounting partner who picks up the phone, knows the project schedule, and delivers financials that are actually usable.
+Buss CPA has offices in Hartford and Sioux Falls, serving engineering firms across the greater Sioux Falls area and beyond. Whether your firm is headquartered in Sioux Falls, based in Hartford, or anywhere in between, you don't need a sprawling big-city practice. You need an accounting partner who picks up the phone, knows the project schedule, and delivers financials that are actually usable.
 
 From tax preparation and entity planning to outsourced accounting and partner-level advisory, Buss CPA works as the outsourced accounting department for engineering firms who'd rather spend their hours on design work than data entry. [Schedule a consultation](/contact) to see what BASE looks like for your firm.
 
