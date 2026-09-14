@@ -52,7 +52,7 @@ A limited liability company separates personal assets from business debts and la
 ### S-Corp
 icon: Coins
 
-An S-Corp election lets owners split income between a reasonable salary and distributions, reducing the portion subject to payroll tax. It's a common move once net income climbs past the point where the payroll tax savings outweigh the added compliance, but the reasonable-compensation rule has to be handled correctly to hold up under IRS scrutiny.
+An S-Corp election lets owners split income between a reasonable salary and distributions, reducing the portion subject to payroll tax. It's a common move for construction contractors, attorneys, and engineers once net income climbs past the point where the payroll tax savings outweigh the added compliance costs. The reasonable-compensation rule has to be handled correctly to hold up under IRS scrutiny, which is where having an accountant who knows your industry matters.
 
 ### C-Corp
 icon: Building2
