@@ -2,47 +2,47 @@
   "primary": [
     {
       "label": "Accounting Services",
-      "url": "/services",
+      "url": "/what-we-do",
       "children": [
         {
           "label": "Outsourced accounting services for your business",
-          "url": "/services/outsourced-accounting",
+          "url": "/what-we-do/outsourced-accounting",
           "children": [
             {
               "label": "Accounting that keeps your books audit ready",
-              "url": "/services/outsourced-accounting/accounting"
+              "url": "/what-we-do/outsourced-accounting/accounting"
             },
             {
               "label": "Tax preparation and planning for businesses",
-              "url": "/services/outsourced-accounting/business-tax"
+              "url": "/what-we-do/outsourced-accounting/business-tax"
             },
             {
               "label": "Payroll processing and compliance support",
-              "url": "/services/outsourced-accounting/payroll"
+              "url": "/what-we-do/outsourced-accounting/payroll"
             }
           ]
         },
         {
           "label": "Advisory services to guide your financial decisions",
-          "url": "/services/advisory",
+          "url": "/what-we-do/advisory",
           "children": [
             {
               "label": "Entity Type Analysis",
-              "url": "/services/advisory/entity-type-analysis"
+              "url": "/what-we-do/advisory/entity-type-analysis"
             },
             {
               "label": "Accounting System Setup",
-              "url": "/services/advisory/accounting-system-setup"
+              "url": "/what-we-do/advisory/accounting-system-setup"
             },
             {
               "label": "Retirement Plan Analysis",
-              "url": "/services/advisory/retirement-plan-analysis"
+              "url": "/what-we-do/advisory/retirement-plan-analysis"
             }
           ]
         },
         {
           "label": "Personal income tax help for complex finances",
-          "url": "/services/personal-income-tax"
+          "url": "/what-we-do/personal-income-tax"
         }
       ]
     },
