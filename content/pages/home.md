@@ -33,11 +33,11 @@ Too many firms run on paper files and once-a-year check-ins. That model works un
 
 Most South Dakota businesses don't need a full-time controller, a payroll clerk, and a tax preparer on staff. They need someone handling all three without three separate invoices showing up every month. That's the idea behind Buss CPA's outsourced accounting solution: accounting, payroll, financial reporting, and tax planning bundled into one fixed monthly fee. There are no surprise bills for a busy quarter and no guessing what next month's invoice will look like.
 
-Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one. 
+Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one.
 
 Learn more about outsourced accounting and our other services.
 
-- [Outsourced Accounting](/services/outsourced-accounting): Accounting, business tax, and payroll bundled into one fixed-fee service, with real-time digital access to your numbers.
+- [Outsourced Accounting](/services/outsourced-accounting): Accounting, business tax, and payroll bundled into one fixed-fee service, with digital access to your numbers.
 - [Advisory](/services/advisory): Entity type analysis, accounting system setup on QBO, and retirement plan analysis to help you make informed decisions as your business grows.
 - [Personal Income Tax](/services/personal-income-tax): Personal income tax preparation and planning for individuals and households, coordinated with business tax filings when needed.
 
@@ -75,16 +75,6 @@ icon: Building2
 
 Multiple entities, generational wealth transfer, and trust reporting requirements call for accounting that goes beyond a single business's books. Buss CPA handles trust accounting, consolidated reporting across entities, and advisory support for family offices managing assets across South Dakota and beyond. Visit [family offices and trusts](/industries/family-offices-trusts).
 <!-- block: checklist-section | variant: with-image-left | image: personal-tax-planning-meeting.jpg | alt: "Individual reviewing personal tax documents with an advisor" | query: "person reviewing tax documents advisor" -->
-## Personal tax and advisory services for individuals and households
-
-Buss CPA doesn't only work with businesses. Individuals and families from the greater Sioux Falls area come to the firm for personal income tax preparation and the kind of advisory work that catches problems before filing season, not after. That includes:
-
-- Personal income tax preparation and filing
-- Tax planning around life events like retirement, a home sale, or an inheritance
-- Advisory support for individuals who also own or hold interest in a business
-- Coordination with business tax planning for owners who file both
-
-Anyone filing alongside a construction company, farm operation, or professional practice benefits from having the same firm handle both sides. Learn more on the [personal income tax](/services/personal-income-tax) page or explore [advisory](/services/advisory) services.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Buss CPA Accounting Services
