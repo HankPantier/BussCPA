@@ -40,7 +40,7 @@ Every outsourced accounting client works through secure digital workflows powere
 <!-- block: content-split | variant: image-right | image: farm-operation-payroll.jpg | alt: "Farmer reviewing financial paperwork near agricultural equipment" | query: "farmer reviewing paperwork farm equipment" -->
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized support for attorneys, engineers, and family offices
+## Specialized support for construction, agriculture, attorneys, engineers, and family offices
 
 Some clients need more than bookkeeping. They need someone who understands trust accounting, client fund segregation, or how a multi-generational family holds and reports on its assets. Buss CPA serves attorneys, engineering firms, and family offices across the greater Sioux Falls area from offices in Sioux Falls and Hartford.
 
