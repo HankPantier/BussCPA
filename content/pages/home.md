@@ -33,29 +33,29 @@ Too many firms run on paper files and once-a-year check-ins. That model works un
 
 Most South Dakota businesses don't need a full-time controller, a payroll clerk, and a tax preparer on staff. They need someone handling all three without three separate invoices showing up every month. That's the idea behind Buss CPA's outsourced accounting solution: accounting, payroll, financial reporting, and tax planning bundled into one fixed monthly fee. There are no surprise bills for a busy quarter and no guessing what next month's invoice will look like.
 
-Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one. Learn more about [outsourced accounting](/services/outsourced-accounting) or see the full [services](/services) lineup.
+Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one. Learn more about [outsourced accounting](/services/outsourced-accounting) or see the full [services](/services) line.
 
 <!-- block: content-split | variant: image-left | image: construction-site-accounting.jpg | alt: "Contractor reviewing project budget documents at a construction site" | query: "contractor reviewing paperwork construction site" -->
-## Construction accounting that keeps projects on budget
-
-Construction accounting isn't general bookkeeping with a different label. Contractors across the greater Sioux Falls area are tracking labor, materials, subcontractor draws, and equipment costs against a dozen jobs at once, and a bookkeeping system that lumps everything into one general ledger hides where the money actually went. Buss CPA sets up job costing that shows profitability project by project, not just at year-end.
-
-On the tax side, contractors face decisions that don't come up in most industries: percentage-of-completion accounting, equipment depreciation timing, and multi-state work if a crew takes a job outside South Dakota. Buss CPA builds tax planning around the construction calendar, not a generic filing schedule, and helps contractors manage the seasonal cash flow swings that come with weather-dependent work. Visit the [construction](/industries/construction) page for a closer look at how this works project by project.
 
 <!-- block: content-split | variant: image-right | image: farm-operation-payroll.jpg | alt: "Farmer reviewing financial paperwork near agricultural equipment" | query: "farmer reviewing paperwork farm equipment" -->
-## Agricultural accounting for South Dakota farm operations
-
-Farm and ranch payroll and tax planning don't run on the same clock as other industries. Seasonal labor, equipment purchases timed around depreciation rules, commodity price swings, livestock cycles, and land transfers between generations all shape how an operation should structure its books. A CPA firm that treats a farm or ranch like a small retail business will miss most of that.
-
-Buss CPA works with agriculture clients across greater Sioux Falls and South Dakota to build payroll systems that handle seasonal hires correctly, tax strategies that account for equipment and input cost timing, and cash flow planning that matches when the crop or livestock sale actually gets paid for, not when the calendar says a bill is due. Farm and ranch income can swing hard from one year to the next, and the tax plan needs to move with it. Details on this work live on the [agriculture](/industries/agriculture) page.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for attorneys, engineers, and family offices
 
 Some clients need more than bookkeeping. They need someone who understands trust accounting, client fund segregation, or how a multi-generational family holds and reports on its assets. Buss CPA serves attorneys, engineering firms, and family offices across the greater Sioux Falls area from offices in Sioux Falls and Hartford.
 
+### Construction
+icon: Hammer
+
+Construction businesses across the greater Sioux Falls area track labor, materials, subcontractor draws, and equipment costs against a dozen jobs at once, and an accounting system that lumps everything into one general ledger hides where the money actually went. Buss CPA sets up job costing that shows profitability project by project, not just at year-end. Visit the [construction](/industries/construction) page for a closer look at how this works project by project.
+
+### Agriculture
+icon: CheckCircle
+
+Buss CPA works with agriculture clients across greater Sioux Falls and South Dakota to build payroll systems that handle seasonal hires correctly, tax strategies that account for equipment and input cost timing, and cash flow planning that matches when the crop or livestock sale gets paid for, not when the calendar says a bill is due. Details on this work live on the [agriculture](/industries/agriculture) page.
+
 ### Attorneys
-icon: Gavel
+icon: Scale
 
 Law firms in Sioux Falls carry compliance obligations around client trust accounts and IOLTA reporting that a generalist bookkeeper can miss. Buss CPA sets up accounting systems built around those requirements, alongside tax planning for partnership structures and owner compensation. See the [attorneys](/industries/attorneys) page for details.
 
@@ -68,7 +68,6 @@ Engineering firms across greater Sioux Falls often bill on a mix of hourly, fixe
 icon: Building2
 
 Multiple entities, generational wealth transfer, and trust reporting requirements call for accounting that goes beyond a single business's books. Buss CPA handles trust accounting, consolidated reporting across entities, and advisory support for family offices managing assets across South Dakota and beyond. Visit [family offices and trusts](/industries/family-offices-trusts).
-
 <!-- block: checklist-section | variant: with-image-left | image: personal-tax-planning-meeting.jpg | alt: "Individual reviewing personal tax documents with an advisor" | query: "person reviewing tax documents advisor" -->
 ## Personal tax and advisory services for individuals and households
 
