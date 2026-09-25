@@ -29,7 +29,7 @@ Construction companies, farm operations, law firms, engineering practices, and f
 
 A contractor needs job costing and work-in-progress reports. A farm needs payroll that accounts for seasonal labor and land held in trust. An attorney needs trust accounting that satisfies bar association rules down to the penny. Buss CPA builds outsourced accounting around the rhythm of each industry instead of handing every client the same generic bookkeeping package.
 
-Based in Hartford, SD, Buss CPA acts as the outsourced accounting department for businesses. Clients in the greater Sioux Falls area and across South Dakota get fixed monthly fees, secure digital workflows, and online access to their financial data, all from a team that understands how businesses run with a specialization in the folllowing industries:
+Based in Hartford, SD, Buss CPA acts as the outsourced accounting department for businesses. Clients in the greater Sioux Falls area and across South Dakota get fixed monthly fees, secure digital workflows, and online access to their financial data, all from a team that understands how businesses run with a specialization in the following industries:
 
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Specialized accounting for construction, agriculture, attorneys, engineers, and family offices & trusts
