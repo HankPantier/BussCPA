@@ -31,28 +31,20 @@ A contractor needs job costing and work-in-progress reports. A farm needs payrol
 
 Based in Hartford, SD, Buss CPA acts as the outsourced accounting department for businesses across five niches: [construction](/industries/construction), [agriculture](/industries/agriculture), [attorneys](/industries/attorneys), [engineers](/industries/engineers), and [family offices and trusts](/industries/family-offices-trusts). Clients get fixed monthly fees, secure digital workflows, and real-time online access to their financial data, the same modern back office regardless of what industry runs their business.
 
-<!-- block: content-split | variant: image-right | image: contractor-jobsite-financials.jpg | alt: "Construction contractor reviewing job cost reports on a tablet at a jobsite" | query: "contractor reviewing tablet construction site" -->
-## Construction and contractor accounting that keeps projects profitable
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Specialized accounting for construction, agriculture, attorneys, engineers, and family offices & trusts
 
-Construction is a cash flow business disguised as a building business. Jobs run over budget, retainage sits uncollected for months, and a profitable project on paper can still leave a contractor short on cash. Buss CPA builds accounting systems for [construction companies and contractors](/industries/construction) around job costing, so owners can see which jobs make money and which ones quietly drain it.
+Each industry runs on its own financial rhythm, and Buss CPA builds accounting around that rhythm instead of fighting it.
 
-That means work-in-progress (WIP) reporting that tracks percentage of completion, billed versus earned revenue, and overbilling or underbilling by job. It means payroll built for prevailing wage requirements and multiple job sites. And it means tax strategy specific to contractors: Section 179 equipment deductions, completed contract versus percentage of completion accounting, and entity structure decisions that affect self-employment tax.
+### Construction and Contractors
+icon: HardHat
 
-Because Buss CPA's [outsourced accounting](/services/outsourced-accounting) solution runs on a fixed monthly fee with real-time online access, a contractor in South Dakota can check job profitability from a truck cab instead of waiting for a quarterly meeting. Numbers update as invoices post and costs hit the job. For contractors who need to know today whether a job is making money, that access changes how decisions get made.
+Construction is a cash flow business disguised as a building business. Buss CPA builds accounting systems for [construction companies and contractors](/industries/construction) around job costing, work-in-progress reporting, and tax strategies like Section 179 deductions, so owners can see which jobs make money instead of just hoping the numbers work out.
 
-<!-- block: content-split | variant: image-left | image: farm-field-planning-meeting.jpg | alt: "Farm owner reviewing seasonal cash flow reports with an accountant" | query: "farmer reviewing paperwork agriculture field" -->
-## Agriculture and farm accounting that understands seasonal cash flow
+### Agriculture
+icon: Wheat
 
-Farming doesn't run on a calendar-year cash cycle, and farm accounting shouldn't either. A grain operation near Hartford might spend heavily in spring on seed and inputs, carry that cost through summer, and not see revenue until harvest sells. A livestock operation has its own rhythm, tied to breeding cycles and feed costs instead of planting dates.
-
-Buss CPA structures accounting for [agriculture enterprises](/industries/agriculture) around those cycles rather than forcing farm operations into a standard monthly bookkeeping model built for retail or service businesses. That includes farm labor payroll, which carries its own rules around seasonal and family employees, and tax planning that accounts for income averaging, deferred grain sales, and equipment depreciation timed to when cash actually shows up.
-
-Farming families in and around Hartford, SD also need succession and entity planning: how land, equipment, and operating entities pass between generations without creating a tax problem. [Advisory services](/services/advisory) cover that alongside the day-to-day accounting, so farm decisions get made with a full picture instead of a guess.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized accounting for attorneys, engineers, and professional firms
-
-Professional service firms bill for expertise, and their accounting has to match that model instead of fighting it.
+Farming runs on planting and harvest cycles, not a calendar-year close. Buss CPA structures accounting for [agriculture enterprises](/industries/agriculture) around seasonal cash flow, farm labor payroll rules, and tax planning like income averaging and deferred grain sales, with succession planning through [Advisory services](/services/advisory) for land and equipment passing between generations.
 
 ### Attorneys and Law Firms
 icon: Scale
@@ -63,6 +55,11 @@ Trust accounting isn't optional for a law firm, and getting it wrong risks a bar
 icon: Cog
 
 Engineering revenue often ties to project milestones instead of a steady invoice cycle, which makes revenue recognition and job costing central to accurate financials. Buss CPA tracks project-based revenue against actual costs, so [engineering](/industries/engineers) firm principals know margins by project and by client instead of guessing at year-end. Outsourced advisory handles the accounting side, freeing engineers to bill hours toward client work instead of spreadsheets.
+
+### Family Offices and Trusts
+icon: Landmark
+
+Family offices and trusts need precise, confidential reporting delivered on a schedule that fits the family, not a generic close calendar. Buss CPA provides trust accounting and financial reporting for [family offices and trusts](/industries/family-offices-trusts) with secure digital workflows, real-time access, and discreet, high-touch service instead of a call center queue.
 
 <!-- block: checklist-section | variant: with-image | image: family-office-private-consultation.jpg | alt: "Advisor and family office client reviewing trust financial statements privately" | query: "private financial consultation family office" -->
 ## Family office and trust accounting with a personal touch
