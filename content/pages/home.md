@@ -33,7 +33,9 @@ Too many firms run on paper files and once-a-year check-ins. That model works un
 
 Most South Dakota businesses don't need a full-time controller, a payroll clerk, and a tax preparer on staff. They need someone handling all three without three separate invoices showing up every month. That's the idea behind Buss CPA's outsourced accounting solution: accounting, payroll, financial reporting, and tax planning bundled into one fixed monthly fee. There are no surprise bills for a busy quarter and no guessing what next month's invoice will look like.
 
-Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one. Learn more about [outsourced accounting](/services/outsourced-accounting) or see the full [services](/services) line.
+Every outsourced accounting client works through secure digital workflows powered by the latest accounting technology, with online access to financial statements, payroll records, and tax documents. You can see your numbers the same day a transaction posts, not thirty days after month-end close. It functions like an outsourced accounting department, minus the overhead of hiring one. 
+
+Learn more about outsourced accounting and our other services.
 
 <!-- block: content-split | variant: image-left | image: construction-site-accounting.jpg | alt: "Contractor reviewing project budget documents at a construction site" | query: "contractor reviewing paperwork construction site" -->
 
