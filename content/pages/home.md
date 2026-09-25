@@ -37,6 +37,10 @@ Every outsourced accounting client works through secure digital workflows powere
 
 Learn more about outsourced accounting and our other services.
 
+- [Outsourced Accounting](/services/outsourced-accounting): Accounting, business tax, and payroll bundled into one fixed-fee service, with real-time digital access to your numbers.
+- [Advisory](/services/advisory): Entity type analysis, accounting system setup on QBO, and retirement plan analysis to help you make informed decisions as your business grows.
+- [Personal Income Tax](/services/personal-income-tax): Personal income tax preparation and planning for individuals and households, coordinated with business tax filings when needed.
+
 <!-- block: content-split | variant: image-left | image: construction-site-accounting.jpg | alt: "Contractor reviewing project budget documents at a construction site" | query: "contractor reviewing paperwork construction site" -->
 
 <!-- block: content-split | variant: image-right | image: farm-operation-payroll.jpg | alt: "Farmer reviewing financial paperwork near agricultural equipment" | query: "farmer reviewing paperwork farm equipment" -->
