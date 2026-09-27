@@ -86,7 +86,7 @@ Buss CPA doesn't wait for a job board to find good accountants. If you're a fit,
 Every inquiry gets a personal response, whether or not a position is open right now.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Careers in Accounting & Advisory | Buss CPA
+## Frequently Asked Questions About Careers in Accounting & Advisory
 
 **Q: Does Buss CPA have accounting job openings in Hartford, SD?**
 A: Buss CPA regularly hires for outsourced accounting, advisory, and personal tax roles in Hartford, SD. Openings vary by season, so candidates are encouraged to send a resume even if no specific position is posted at the time.
