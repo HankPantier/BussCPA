@@ -139,7 +139,7 @@ Accounting technology has moved fast, and a lot of Hartford SD businesses are st
 - Technology investment aimed at giving business owners the same financial visibility as an in-house controller
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Insights Gallery | BussCPA
+## Frequently Asked Questions About Insights Gallery
 
 **Q: What topics does BussCPA's insights gallery cover?**
 A: The gallery covers construction job costing and WIP schedules, farm payroll and depreciation, attorney and engineer tax strategy, and trust and family office compliance. Content is organized by industry so Hartford SD readers can find guidance relevant to their specific business or financial situation.

@@ -77,7 +77,7 @@
       "url": "/who-we-are",
       "children": [
         {
-          "label": "Careers in Accounting & Advisory | Buss CPA",
+          "label": "Careers in Accounting & Advisory",
           "url": "/who-we-are/careers"
         }
       ]
@@ -91,7 +91,7 @@
       "url": "/resources-new",
       "children": [
         {
-          "label": "Insights Gallery | BussCPA",
+          "label": "Insights Gallery",
           "url": "/resources-new/insights-gallery"
         },
         {
@@ -99,7 +99,7 @@
           "url": "/resources-new/forms-documents-links"
         },
         {
-          "label": "Check Your Tax Refund Status | Buss CPA",
+          "label": "Check Your Tax Refund Status",
           "url": "/resources-new/refund-tracker"
         }
       ]
@@ -116,5 +116,9 @@
       "label": "Team of 3",
       "url": "/team-of-3"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }

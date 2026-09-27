@@ -71,7 +71,7 @@ We publish two recurring formats for readers who want fast, current information 
 Browse the current issues in the [QuickReads library](/resources-new/quickreads) or the [Smart Tips magazine gallery](/smart-tips-magazine-gallery).
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Blog | BussCPA
+## Frequently Asked Questions About Blog
 
 **Q: What topics does the BussCPA resource library cover?**
 A: The library covers construction job costing, farm payroll and tax timing, trust accounting for attorneys and family offices, engineer practice management, and personal income tax planning specific to South Dakota rules and deadlines.

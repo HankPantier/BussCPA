@@ -81,7 +81,7 @@ icon: Briefcase
 Trust distributions and multi-beneficiary K-1s are among the slowest returns to process. We support [family offices and trusts](/industries/family-offices-trusts) with the recordkeeping that keeps a refund from stalling in review.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Check Your Tax Refund Status | Buss CPA
+## Frequently Asked Questions About Check Your Tax Refund Status
 
 **Q: Does South Dakota have a state income tax refund?**
 A: No. South Dakota does not levy a personal income tax, so residents only track a federal refund through the IRS unless they worked or filed a return in another state during the tax year, in which case that state's Department of Revenue handles the status check separately.
