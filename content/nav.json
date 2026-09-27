@@ -116,5 +116,9 @@
       "label": "Team of 3",
       "url": "/team-of-3"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }
