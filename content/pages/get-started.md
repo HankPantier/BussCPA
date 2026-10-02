@@ -197,8 +197,7 @@ BussCPA's BASE outsourced accounting solution charges one fixed monthly fee cove
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BussCPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">

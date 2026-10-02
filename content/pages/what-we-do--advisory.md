@@ -150,8 +150,7 @@ Buss CPA, with offices in Sioux Falls and Hartford, SD, bundles advisory service
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">

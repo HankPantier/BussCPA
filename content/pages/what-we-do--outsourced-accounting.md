@@ -168,8 +168,7 @@ Buss CPA's Buss CPA's outsourced accounting program program is a fixed-fee outso
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://.us",
-  "logo": "https://.us/logo.png"
+  "url": "https://.us"
 }
 </script>
 <script type="application/ld+json">

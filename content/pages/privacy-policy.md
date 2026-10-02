@@ -168,8 +168,7 @@ Buss CPA, a CPA firm in Hartford, SD, follows the AICPA Code of Professional Con
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">

@@ -201,8 +201,7 @@ BussCPA is a Hartford, South Dakota CPA firm founded by James Buss, providing fi
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BussCPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">
