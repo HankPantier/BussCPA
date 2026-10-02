@@ -156,8 +156,7 @@ Buss CPA offers fixed-fee outsourced accounting (BASE) with secure digital workf
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">

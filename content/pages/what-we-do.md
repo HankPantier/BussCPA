@@ -173,8 +173,7 @@ Buss CPA offers outsourced accounting with a fixed monthly fee, secure digital w
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">

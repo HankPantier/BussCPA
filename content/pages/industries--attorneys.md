@@ -156,8 +156,7 @@ Buss CPA offers a fixed-monthly-fee outsourced accounting program (BASE) with se
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Buss CPA",
-  "url": "https://busscpa.us",
-  "logo": "https://busscpa.us/logo.png"
+  "url": "https://busscpa.us"
 }
 </script>
 <script type="application/ld+json">
